@@ -1,0 +1,17 @@
+title: First Presbyterian Church
+
+# Dependencies
+markdown:           kramdown
+#Syntax Highlighter
+#highlighter:        pygments
+
+# Permalinks
+permalink:          pretty
+
+# Server
+source:             ./_jekyll
+destination:        ./_site
+
+port:               4005
+baseurl:            ""
+url:                http://yoururl.com
