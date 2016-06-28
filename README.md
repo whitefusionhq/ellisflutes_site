@@ -2,7 +2,7 @@
 
 This site is built using the Jekyll static site generator along with ZURB Foundation 6. It uses Gulp for SASS processing and Bower to load in Foundation's initial CSS/JS components.
 
-We use Foreman to start `foundation watch` (basically runs Gulp) and `jekyll serve`. The CSS file is auto-generated into the `_jekyll/css` folder, and we've manually copied the main Foundation JS file into `_jekyll/js`.
+We use Foreman to start `foundation watch` (basically runs Gulp) and `jekyll serve`. The CSS is auto-generated into the `_jekyll/css` folder from the original `scss` folder, and we've manually copied the main Foundation JS file into `_jekyll/js`.
 
 ## Get Started
 
