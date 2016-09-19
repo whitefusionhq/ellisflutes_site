@@ -17,4 +17,4 @@ Make sure you have `npm` installed. Make sure you have `rvm` installed. The `.ru
 7. Run `foreman start`.
 8. You should be able to view the site now at [http://127.0.0.1:4001/](http://127.0.0.1:4001/). If you need to change the port number from 4001, just edit the `Procfile`.
 
-—[WHITEFUSION*UX](http://ux.whitefusion.io)
+â€”[WHITEFUSION*UX](http://ux.whitefusion.io)
