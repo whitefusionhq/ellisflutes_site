@@ -1,5 +1,16 @@
-{% include header.html %}
+<!doctype html>
+<!--[if IE 9]><html class="lt-ie10" lang="en" > <![endif]-->
+<html lang="en">
+  <head>
+    {% include head.html %}
+  </head>
+  <body class="{{ page.layout }}{{ page.extra_page_class }}">
 
-  {{ content }}
+    {% include header.html %}
 
-{% include footer.html %}
+    {{ content }}
+
+    {% include footer.html %}
+
+  </body>
+</html>

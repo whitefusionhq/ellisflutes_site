@@ -1,5 +1,5 @@
 ---
-layout: cool_post
+layout: post_with_sidebar
 title: My Cool Post
 ---
 
