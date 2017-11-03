@@ -1,5 +1,5 @@
-title: WF Jekyll Foundation Template
-tagline: Jekyll all the things!
+title: Geoffrey Ellis Flutes
+tagline: Contemporary World Flute Store
 
 # Dependencies
 markdown:           kramdown
@@ -14,5 +14,5 @@ source:             ./_jekyll
 destination:        ./_site
 
 baseurl:            ""
-url:                http://yoururl.com
+url:                http://ellisflutes.com
 timezone:           America/Los_Angeles
