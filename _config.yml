@@ -1,4 +1,5 @@
 title: WF Jekyll Foundation Template
+tagline: Jekyll all the things!
 
 # Dependencies
 markdown:           kramdown
@@ -12,7 +13,6 @@ permalink:          pretty
 source:             ./_jekyll
 destination:        ./_site
 
-port:               4005
 baseurl:            ""
 url:                http://yoururl.com
 timezone:           America/Los_Angeles

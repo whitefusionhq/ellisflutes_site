@@ -1,20 +1,43 @@
 ---
-layout: page
-title: Foundation - Jekyll
+layout: default
+title: Welcome Home
 ---
 
-      <h3>Posts</h3>
+<section class="row">
+  <div class="columns small-12 medium-7">
 
-      <ul>
-        {% for post in site.posts %}
-          <li><a href="{{ post.url }}">{{ post.title }}</a></li>
-        {% endfor %}
-      </ul>
+    <h2 class="section">Latest Announcements</h2>
 
-      <hr />
+    {% for post in site.posts %}
+      <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
 
-      <h3>Testing</h3>
+      <p>{{ post.excerpt }}</p>
 
-      {% pagecomponent panels/breakout title="I am a Title!" center=true %}
+      <p><small>Posted {{ post.date | date:'%B %-d, %Y' }}</small></p>
+    {% endfor %}
+
+    <hr />
+
+    <h2>Testing</h2>
+
+    {% pagecomponent panels/breakout title="I am a Title!" center=true %}
 Even in **html** files, [you can](http://jaredwhite.com) use _Markdown_!
-      {% endpagecomponent %}
+    {% endpagecomponent %}
+
+  </div>
+  <div class="columns medium-5">
+    <h2 class="section">Upcoming Things</h2>
+      <!-- for -->
+      <div class="callout">
+        <h3>Thing Title</h3>
+
+        <p>All about the thing, of course!</p>
+
+        <div><strong>Do Something Now:</strong></div>
+        <!-- for -->
+          <div>Blah blah blah blah blah!<br/><a href="#" class="button small">Make it so!</a></div>
+        <!-- /endfor -->
+      </div>
+      <!-- /endfor -->
+  </div>
+</section>

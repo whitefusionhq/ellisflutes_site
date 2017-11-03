@@ -1,2 +1,2 @@
-jekyll: jekyll serve -P 4001 -D --unpublished
+jekyll: jekyll serve -P 4001 -t -D --unpublished #--HOST 192.168.2.2
 foundation: foundation watch
