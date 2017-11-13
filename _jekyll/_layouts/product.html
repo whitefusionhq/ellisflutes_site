@@ -1,0 +1,30 @@
+---
+layout: default
+hide_hero: true
+---
+
+<section class="row">
+  <div class="small-12 medium-6 columns">
+    {% for cloudinary_id in page.cloudinary_ids %}
+
+      <figure class="mp-image-block">
+        <img src="{{ cloudinary_id | cloudinary_url:'a_exif,c_limit,h_4000,q_75,w_2048' }}" class="main-image" alt="">
+      </figure>
+
+    {% endfor %}
+  </div>
+  <div class="small-12 medium-6 columns">
+    <h1>{{ page.title }}</h1>
+
+    <h2>Price: {{ page.price | times:100 | money }}</h2>
+
+    {{ content }}
+
+    <div><!-- HTML embed for YouTube, Soundcloud, etc. -->
+      {{ page.html_embed }}
+    </div>
+
+
+    <p>SKU: {{ page.slug }}</p>
+  </div>
+</section>

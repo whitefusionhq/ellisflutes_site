@@ -16,3 +16,16 @@ destination:        ./_site
 baseurl:            ""
 url:                http://ellisflutes.com
 timezone:           America/Los_Angeles
+
+collections:
+  # Products Setup #
+  products:
+    output: true
+    permalink: /collections/:categories/products/:slug
+
+defaults:
+  - scope:
+      path: ""
+      type: products
+    values:
+      layout: product
