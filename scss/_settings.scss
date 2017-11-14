@@ -50,7 +50,7 @@ $global-font-size: 100%;
 $global-width: rem-calc(1200);
 $global-lineheight: 1.5;
 $foundation-palette: (
-  primary: #c00,
+  primary: #773300,
   secondary: #777,
   success: #3adb76,
   warning: #ffae00,
@@ -63,7 +63,7 @@ $black: #222;
 $white: #fefefe;
 $body-background: $white;
 $body-font-color: $black;
-$body-font-family: serif;
+$body-font-family: "Agmena W01", serif;
 $body-antialiased: true;
 $global-margin: 1rem;
 $global-padding: 1rem;
@@ -104,7 +104,7 @@ $block-grid-max: 8;
 // 4. Base Typography
 // ------------------
 
-$header-font-family: $body-font-family;
+$header-font-family: "Veljovic Script W01", serif;
 $header-font-weight: $global-weight-normal;
 $header-font-style: normal;
 $font-family-monospace: Consolas, 'Liberation Mono', Courier, monospace;

@@ -18,6 +18,19 @@ hide_hero: true
 
     <h2>Price: {{ page.price | times:100 | money }}</h2>
 
+    {% for cloudinary_id in page.cloudinary_ids limit:1 %}
+      {% capture thumbnail %}{{ cloudinary_id | cloudinary_url:'a_exif,c_limit,h_100,q_75,w_100' }}{% endcapture %}
+    {% endfor %}
+    <div><button
+    class="snipcart-add-item button medium"
+    data-item-id="{{ page.slug }}"
+    data-item-name="{{ page.title }}"
+    data-item-price="{{ page.price }}"
+    data-item-url="{{ site.url }}{{ page.url }}"
+    data-item-image="{{ thumbnail }}">
+          Buy Cool Flute
+    </button></div>
+
     {{ content }}
 
     <div><!-- HTML embed for YouTube, Soundcloud, etc. -->

@@ -1,0 +1,45 @@
+.snip-layout {
+  font-family: $body-font-family;
+  color: #777;
+}
+.snip-layout .snip-header {
+  background: map-get($foundation-palette, primary);
+}
+.snip-layout .snip-header__total {
+  background: lighten(map-get($foundation-palette, primary), 10%);
+}
+.snip-layout .snip-header__total-label {
+  color: lighten(map-get($foundation-palette, primary), 60%);
+}
+
+.snip-layout .snip-btn--highlight {
+  background: #03b748;
+  color: white;
+}
+.snip-layout .snip-btn--highlight:hover {
+  background-color: #33e778;
+}
+
+.snip-layout .snip-step__label {
+  font-size: 14px;
+}
+.snip-layout .snip-form__label {
+  color: #777;
+  font-size: 16px;
+  margin-bottom: 2px;
+}
+.snip-layout input[type=password], .snip-layout input[type=text], .snip-layout select {
+  font-size: inherit;
+  font-weight: bold;
+}
+.snip-layout .snip-static__content {
+  font-size: 14px;
+}
+
+.snip-layout a, .snip-layout dd, .snip-layout div, .snip-layout dl, .snip-layout dt, .snip-layout em, .snip-layout form, .snip-layout h1, .snip-layout h2, .snip-layout h3 h4, .snip-layout img, .snip-layout label, .snip-layout li, .snip-layout ol, .snip-layout p, .snip-layout small, .snip-layout span, .snip-layout strong, .snip-layout table, .snip-layout tbody, .snip-layout td, .snip-layout th, .snip-layout thead, .snip-layout tr, .snip-layout ul {
+  line-height: 1.3;
+}
+
+.snip-layout .snip-table td, .snip-layout .snip-table th, .snip-layout .snip-table tr {
+  padding: .5rem .9rem .625rem;
+}
