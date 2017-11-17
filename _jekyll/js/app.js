@@ -9,6 +9,9 @@ Snipcart.subscribe('item.added', function (item) {
 Snipcart.subscribe('item.removed', function (item) {
   updateCartCount();
 });
+Snipcart.subscribe('order.completed', function (data) {
+  updateCartCount();
+});
 
 function updateCartCount() {
   var count = Snipcart.api.items.count();
