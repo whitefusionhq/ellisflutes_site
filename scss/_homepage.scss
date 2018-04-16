@@ -1,0 +1,65 @@
+header#logo-and-name {
+  padding: 5rem 0;
+  padding-top: 25vh;
+  padding-bottom: 25vh;
+  h1 img {
+    width:127px;
+    vertical-align: middle;
+    margin-right: 1rem;
+  }
+}
+
+div.amber {
+  background: #6e5f42;
+  color: white;
+  h3 { color: #f1c363;}
+}
+div.green {
+  background: map-get($foundation-palette, primary);
+  color: white;
+  h3 { color: #f1c363; }
+}
+div.blue {
+  background: map-get($foundation-palette, secondary);
+  color: white;
+  h3 { color: #f1c363; }
+}
+
+div.blue-tag {
+  background: transparentize(map-get($foundation-palette, secondary), .3);
+  position: absolute;
+  right: 0;
+  padding: 1rem;
+  margin-top: 2.5rem;
+  z-index: 1;
+  max-width: 18rem;
+  font-style: italic;
+  color: white;
+  &.on-left {
+    right: auto;
+    left: 0;
+  }
+  a {
+    color: inherit;
+    border-bottom: 3px solid rgba(255,255,255,0.5);
+  }
+}
+
+div.no-para-margin {
+  p { margin-bottom: 0 }
+}
+
+div.image-bottom-bordered {
+  img {
+    border-bottom: 6px solid #f1c363;
+  }
+}
+
+div.columns.no-padding {
+  padding: 0;
+  position: relative;
+}
+
+div.columns.top-padding {
+  padding-top: 1.5rem;
+}

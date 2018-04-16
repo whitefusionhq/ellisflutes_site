@@ -18,7 +18,6 @@ nav {
 }
 
 body {
-  background-image: url(https://s3-us-west-1.amazonaws.com/mptheme-custom-ellisflutes-v3/images/background_leather.jpg);
 }
 
 body > header.top {
@@ -123,4 +122,8 @@ h2.section {
   text-transform: uppercase;
   border-bottom: 1px solid #999;
   margin-bottom: 2rem;
+}
+
+button, input, optgroup, select, textarea {
+  font-family: $body-font-family !important;
 }

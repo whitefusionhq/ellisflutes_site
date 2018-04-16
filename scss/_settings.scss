@@ -46,12 +46,12 @@
 // 1. Global
 // ---------
 
-$global-font-size: 100%;
-$global-width: rem-calc(1200);
+$global-font-size: 120%;
+$global-width: rem-calc(2400);
 $global-lineheight: 1.5;
 $foundation-palette: (
-  primary: #773300,
-  secondary: #777,
+  primary: #0c3d22,
+  secondary: #18677f,
   success: #3adb76,
   warning: #ffae00,
   alert: #ec5840,
@@ -61,9 +61,9 @@ $medium-gray: #cacaca;
 $dark-gray: #8a8a8a;
 $black: #222;
 $white: #fefefe;
-$body-background: $white;
-$body-font-color: $black;
-$body-font-family: "Agmena W01", serif;
+$body-background: #eaf5ff;
+$body-font-color: map-get($foundation-palette, secondary);
+$body-font-family: "Bazhanov W01", serif;
 $body-antialiased: true;
 $global-margin: 1rem;
 $global-padding: 1rem;
@@ -95,8 +95,8 @@ $breakpoint-classes: (small medium large);
 $grid-row-width: $global-width;
 $grid-column-count: 12;
 $grid-column-gutter: (
-  small: 20px,
-  medium: 30px,
+  small: 30px,
+  medium: 60px,
 );
 $grid-column-align-edge: true;
 $block-grid-max: 8;
@@ -104,11 +104,11 @@ $block-grid-max: 8;
 // 4. Base Typography
 // ------------------
 
-$header-font-family: "Veljovic Script W01", serif;
+$header-font-family: "Stoke", serif;
 $header-font-weight: $global-weight-normal;
 $header-font-style: normal;
 $font-family-monospace: Consolas, 'Liberation Mono', Courier, monospace;
-$header-color: inherit;
+$header-color: map-get($foundation-palette, primary);
 $header-lineheight: 1.4;
 $header-margin-bottom: 0.5rem;
 $header-styles: (
@@ -372,7 +372,7 @@ $select-triangle-color: $dark-gray;
 $select-radius: $global-radius;
 $input-color: $black;
 $input-placeholder-color: $medium-gray;
-$input-font-family: inherit;
+$input-font-family: 'inherit';
 $input-font-size: rem-calc(16);
 $input-font-weight: $global-weight-normal;
 $input-background: $white;
@@ -613,7 +613,7 @@ $tooltip-radius: $global-radius;
 // -----------
 
 $topbar-padding: 0.5rem;
-$topbar-background: $light-gray;
+$topbar-background: #292624;
 $topbar-submenu-background: $topbar-background;
 $topbar-title-spacing: 0.5rem 1rem 0.5rem 0;
 $topbar-input-width: 200px;
