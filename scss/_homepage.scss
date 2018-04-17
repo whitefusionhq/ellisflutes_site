@@ -2,27 +2,61 @@ header#logo-and-name {
   padding: 5rem 0;
   padding-top: 25vh;
   padding-bottom: 25vh;
+  @media (max-width: map-get($breakpoints, medium)) {
+    padding-top: 15vh;
+    padding-bottom: 15vh;
+  }
   h1 img {
     width:127px;
     vertical-align: middle;
     margin-right: 1rem;
+    @media (max-width: map-get($breakpoints, medium)) {
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+      margin-bottom: 0.75rem;
+    }
   }
 }
 
 div.amber {
   background: #6e5f42;
   color: white;
+  position: relative;
   h3 { color: #f1c363;}
+  .left-col-background {
+    background: #4d422e;
+    position: absolute;
+    left: 0;
+    right: 50%;
+    top: 0;
+    bottom: 0;
+    @media (max-width: map-get($breakpoints, medium)) {
+      display: none;
+    }
+  }
 }
-div.green {
+/*div.green {
   background: map-get($foundation-palette, primary);
   color: white;
   h3 { color: #f1c363; }
-}
+}*/
 div.blue {
   background: map-get($foundation-palette, secondary);
   color: white;
+  position: relative;
   h3 { color: #f1c363; }
+  .right-col-background {
+    background: #11495a;
+    position: absolute;
+    left: 50%;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    @media (max-width: map-get($breakpoints, medium)) {
+      display: none;
+    }
+  }
 }
 
 div.blue-tag {
@@ -45,7 +79,7 @@ div.blue-tag {
   }
 }
 
-div.no-para-margin {
+div.no-para-margin, div.blue-tag {
   p { margin-bottom: 0 }
 }
 
@@ -61,5 +95,37 @@ div.columns.no-padding {
 }
 
 div.columns.top-padding {
-  padding-top: 1.5rem;
+  padding-top: 1.8rem;
+  padding-bottom: 0.5rem;
+  h3:after {
+    content: '';
+    display: block;
+    border-bottom: 4px solid rgba(255,255,255,0.3);
+    width: 15%;
+    margin: 1rem auto;
+    border-bottom-style: double;
+  }
+}
+
+/* ** Animations ** */
+
+header#logo-and-name {
+        -ms-animation: fadein 2s; /* Internet Explorer */
+            animation: fadein 2s;
+}
+header#logo-and-name + div, .image-bottom-bordered {
+  -ms-animation: fadein 3s; /* Internet Explorer */
+      animation: fadein 3s;
+}
+
+@keyframes fadein {
+    0% { opacity: 0; }
+    40% { opacity: 0; }
+    100%   { opacity: 1; }
+}
+
+/* Internet Explorer */
+@-ms-keyframes fadein {
+    from { opacity: 0; }
+    to   { opacity: 1; }
 }
