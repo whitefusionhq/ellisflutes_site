@@ -18,11 +18,10 @@ Snipcart.subscribe('order.completed', function (data) {
 function updateCartCount() {
   var count = Snipcart.api.items.count();
   if (count > 0) {
-    count = "(" + count + ")"
+    $('nav#menu .item-count').text(count).removeClass('empty');
   } else {
-    count = "";
+    $('nav#menu .item-count').text('').addClass('empty');
   }
-//  $('nav#menu .item-count').text(count);
 }
 
 
