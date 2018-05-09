@@ -5,14 +5,16 @@
     {% include head.html %}
   </head>
   <body class="{{ page.layout }}{{ page.extra_page_class }}">
+    {% include header.html %}
 
-    <header id="logo-and-name">
+    <header id="page-title">
 
-      <h1 class="text-center"><img src="/assets/geoffrey-ellis-flutes-logo.png" alt="logo" /> Geoffrey Ellis Flutes</h1>
+      <h1 class="text-center">Geoffrey Ellis Flutes</h1>
 
     </header>
 
     {{ content }}
 
+    {% include footer.html %}
   </body>
 </html>

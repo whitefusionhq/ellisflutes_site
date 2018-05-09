@@ -5,12 +5,10 @@
     {% include head.html %}
   </head>
   <body class="{{ page.layout }}{{ page.extra_page_class }}">
-
-    {% include header.html hide_hero=layout.hide_hero %}
+    {% include header.html %}
 
     {{ content }}
 
     {% include footer.html %}
-
   </body>
 </html>

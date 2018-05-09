@@ -2,7 +2,11 @@
 layout: default
 ---
 
-<section class="row">
+<header id="page-title">
+  <h1 class="text-center">{{ page.title }}</h1>
+</header>
+
+<section class="row fade-on-load">
   <div class="small-12 medium-8 medium-offset-2 large-offset-2 end columns">
     {{ content }}
   </div>
