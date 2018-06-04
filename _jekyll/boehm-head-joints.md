@@ -2,7 +2,7 @@
 title: Boehm Head Joints
 layout: product_line
 cloudinary_id: fvxqknrqmhg58g855vkv
-product_category: world-flutes
+product_category: boehm-head-joints
 custom_ordering: |
   Standard head joint with lip plate:
 

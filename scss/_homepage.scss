@@ -96,6 +96,10 @@ div.blue {
   color: white;
   position: relative;
   h3 { color: #f1c363; }
+  a {
+    color: inherit;
+    border-bottom: 3px solid rgba(255,255,255,0.5);
+  }
   .right-col-background {
     background: #11495a;
     position: absolute;

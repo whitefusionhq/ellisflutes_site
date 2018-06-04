@@ -4,7 +4,7 @@
   <head>
     {% include head.html %}
   </head>
-  <body class="{{ page.layout }}{{ page.extra_page_class }}">
+  <body class="{{ page.layout }}{{ page.extra_page_class }} spaced-footer">
     {% include header.html %}
 
     <header id="page-title">
@@ -13,63 +13,71 @@
 
     </header>
 
-    <div class="no-para-margin image-bottom-bordered fade-on-load" markdown="1">
-      <img src="{{ page.cloudinary_id | cloudinary_url:'w_2048,h_4000,c_limit,a_exif,q_75'}}" />
-    </div>
+    {% if page.cloudinary_id %}
+      <div class="no-para-margin image-bottom-bordered fade-on-load" markdown="1">
+        <img src="{{ page.cloudinary_id | cloudinary_url:'w_2048,h_4000,c_limit,a_exif,q_75'}}" style="width:100%" />
+      </div>
+    {% endif %}
 
-    <div class="blue content-box">
+    {% unless page.special_boxes %}
+      <div class="blue content-box">
+        {{ content }}
+      </div>
+    {% else %}
       {{ content }}
-    </div>
+    {% endunless %}
 
-    <br/><br/>
-    <hr />
-    <h2 class="text-center">Products In Stock</h2>
-    <hr />
-    <br/><br/>
+      <br/><br/>
+      {% assign products = site.products | where: "categories", page.product_category %}
+      {% if products.size > 0 %}
+      <hr />
+      <h2 class="text-center">Products In Stock</h2>
+      <hr />
+      <br/><br/>
 
-    {% assign products = site.products | where: "categories", page.product_category %}
-    {% for product in products %}
-      <!-- SKU: {{ product.slug }} -->
-      <div class="amber">
-        <div class="row">
-          <div class="small-12 medium-6 columns">
-            {% for cloudinary_id in product.cloudinary_ids %}
+      {% for product in products %}
+        <!-- SKU: {{ product.slug }} -->
+        <div class="amber">
+          <div class="row">
+            <div class="small-12 medium-6 columns">
+              {% for cloudinary_id in product.cloudinary_ids %}
 
-              <figure>
-                <img src="{{ cloudinary_id | cloudinary_url:'a_exif,c_limit,h_4000,q_75,w_2048' }}" class="product-image" alt="">
-              </figure>
+                <figure>
+                  <img src="{{ cloudinary_id | cloudinary_url:'a_exif,c_limit,h_4000,q_75,w_2048' }}" class="product-image" alt="">
+                </figure>
 
-            {% endfor %}
-          </div>
-          <div class="small-12 medium-6 columns">
-            <h3>{{ product.title }}</h3>
-
-            <h4>{{ product.price | times:100 | money }}
-
-              {% for cloudinary_id in product.cloudinary_ids limit:1 %}
-                {% capture thumbnail %}{{ cloudinary_id | cloudinary_url:'a_exif,c_limit,h_100,q_75,w_100' }}{% endcapture %}
               {% endfor %}
-              <button
-              class="snipcart-add-item button large"
-              data-item-id="{{ product.slug }}"
-              data-item-name="{{ product.title }}"
-              data-item-price="{{ product.price }}"
-              data-item-url="{{ site.url }}{{ product.url }}"
-              data-item-image="{{ thumbnail }}">
-                <i class="fa fa-shopping-cart" aria-hidden="true"></i> Add to Cart
-              </button>
-            </h4>
+            </div>
+            <div class="small-12 medium-6 columns">
+              <h3>{{ product.title }}</h3>
 
-            {{ product.content }}
+              <h4>{{ product.price | times:100 | money }}
 
-            <div><!-- HTML embed for YouTube, Soundcloud, etc. -->
-              {{ product.html_embed }}
+                {% for cloudinary_id in product.cloudinary_ids limit:1 %}
+                  {% capture thumbnail %}{{ cloudinary_id | cloudinary_url:'a_exif,c_limit,h_100,q_75,w_100' }}{% endcapture %}
+                {% endfor %}
+                <button
+                class="snipcart-add-item button large"
+                data-item-id="{{ product.slug }}"
+                data-item-name="{{ product.title }}"
+                data-item-price="{{ product.price }}"
+                data-item-url="{{ site.url }}{{ product.url }}"
+                data-item-image="{{ thumbnail }}">
+                  <i class="fa fa-shopping-cart" aria-hidden="true"></i> Add to Cart
+                </button>
+              </h4>
+
+              {{ product.content }}
+
+              <div><!-- HTML embed for YouTube, Soundcloud, etc. -->
+                {{ product.html_embed }}
+              </div>
             </div>
           </div>
         </div>
-      </div>
-      <br/><br/>
-    {% endfor %}
+        <br/><br/>
+      {% endfor %}
+    {% endif %}
 
     <hr />
     <h2 class="text-center">Custom Ordering</h2>

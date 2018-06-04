@@ -1,0 +1,33 @@
+<!doctype html>
+<!--[if IE 9]><html class="lt-ie10" lang="en" > <![endif]-->
+<html lang="en">
+  <head>
+    {% include head.html %}
+  </head>
+  <body class="{{ page.layout }}{{ page.extra_page_class }} spaced-footer">
+    {% include header.html %}
+
+    <header id="page-title">
+
+      <h1 class="text-center"><a href="/world-flutes">World Flutes</a></h1>
+      <h2 class="text-center">{{ page.title }}</h2>
+
+    </header>
+
+    {% if page.cloudinary_id %}
+      <div class="no-para-margin image-bottom-bordered fade-on-load" markdown="1">
+        <img src="{{ page.cloudinary_id | cloudinary_url:'w_2048,h_4000,c_limit,a_exif,q_75'}}" style="width:100%" />
+      </div>
+    {% endif %}
+
+    <div class="blue content-box">
+      {{ content }}
+
+      <br/>
+
+      <p class="text-center"><a href="/world-flutes" class="button hollow white"><i class="fa fa-arrow-left"></i> Return to World Flutes</a></p>
+    </div>
+
+    {% include footer.html %}
+  </body>
+</html>

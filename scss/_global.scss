@@ -159,7 +159,9 @@ body > header.hero {
 }
 
 body > footer {
+  background: rgba(255, 255, 255, 0.75);
   padding: 4rem;
+
   h4 {
     margin-bottom: 1rem;
   }
@@ -176,6 +178,14 @@ body > footer {
     span {
       border-bottom: 3px solid transparentize(map-get($foundation-palette, primary), 0.8);
     }
+  }
+  input[type=text], input[type=email] {
+    border: 1px solid map-get($foundation-palette, primary);
+  }
+}
+body.spaced-footer, body.page {
+  & > footer {
+    margin-top: 6rem;
   }
 }
 

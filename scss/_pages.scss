@@ -2,8 +2,28 @@
   margin: 0 auto;
   margin-top: 3rem;
   width: 90vw;
+  .large-up-2 & {
+    width: 100%;
+  }
   max-width: 500px;
+  @media (min-width: 1100px) {
+    max-width: 575px;
+  }
+  @media (min-width: 1550px) {
+    max-width: 675px;
+  }
   padding: 40px;
+
+  .full-width {
+    margin-left: -38px;
+    margin-right: -38px;
+  }
+  .flute-image {
+    height: 300px;
+    background-size: cover;
+    background-position: center center;
+    margin-bottom: 1rem;
+  }
 
   p + h3:before {
     content: ' ';
@@ -23,8 +43,25 @@
     margin-bottom: 0;
   }
 
+  blockquote {
+    &, p {
+      color: white
+    }
+    font-style: italic;
+  }
+
   @media (max-width: map-get($breakpoints, medium)) {
     padding: 20px;
+
+    .full-width {
+      margin-left: -18px;
+      margin-right: -18px;
+    }
+
+    .flute-image {
+      height: 250px;
+    }
+
     p + h3:before {
       border-top-width: 10px;
       border-bottom-width: 20px;
@@ -62,6 +99,87 @@ body.product_line {
     box-shadow: 0px 3px 6px rgba(0,0,0,0.3);
     i.fa {
       margin-right: 0.25em;
+    }
+  }
+
+  @media (min-width: 1265px) {
+    .large-up-2>.column:nth-of-type(1n) {
+      .content-box {
+        margin-left: 0;
+        margin-right: auto;
+      }
+    }
+    .large-up-2>.column:nth-of-type(2n+1) {
+      .content-box {
+        margin-right: 0;
+        margin-left: auto;
+      }
+    }
+  }
+}
+
+
+body.about {
+  header#page-title {
+    background-image:url(/assets/biostandin.jpg);
+    background-size: cover;
+    background-position: 25% center;
+    padding-top: 20vh;
+    padding-bottom: 10vh;
+
+    @media (max-width: 1300px) {
+      padding-top: 9rem;
+    }
+
+    @media (max-width: 1100px) {
+      background-position: 22% center;
+    }
+
+    @media (max-width: 760px) {
+      background-position: 40% center;
+    }
+  }
+  h1 {
+    color: white;
+    width: 60%;
+    margin-left: auto;
+    margin-bottom: 4rem;
+    text-shadow: 1px 2px 1px rgba(0,0,0,0.3);
+    line-height: 1;
+
+    @media (max-width: 1300px) {
+      width: 70%;
+      margin-bottom: 3rem;
+    }
+
+    @media (max-width: 1100px) {
+      width: 80%;
+      margin-bottom: 2rem;
+    }
+
+    @media (max-width: 760px) {
+      width: 100%;
+      margin-bottom: 2rem;
+    }
+  }
+  .about-content {
+    background: #18677f;
+    background: linear-gradient(to bottom, transparentize(#18677f, 0.06), transparentize(#0c3d22, 0.06));
+    color: white;
+    padding: 50px;
+    width: 40%;
+    margin-left: auto;
+    margin-right: 10%;
+
+    @media (max-width: 1300px) {
+      width: 50%;
+    }
+
+    @media (max-width: 1100px) {
+      width: 60%;
+    }
+    @media (max-width: 760px) {
+      width: 80%;
     }
   }
 }

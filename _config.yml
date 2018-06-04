@@ -22,6 +22,9 @@ collections:
   products:
     output: true
     permalink: /collections/:categories/products/:slug
+  world_flutes:
+    output: true
+    permalink: /world-flutes/:slug
 
 defaults:
   - scope:
@@ -29,6 +32,11 @@ defaults:
       type: products
     values:
       layout: product
+  - scope:
+      path: ""
+      type: world_flutes
+    values:
+      layout: world_flute
 
 slideshow_image_ids:
   - MixedHeadjoints_fblwql
