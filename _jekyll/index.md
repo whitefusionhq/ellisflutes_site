@@ -44,9 +44,10 @@ Check out our world flute lines [such as the Shakuhachi and Xiao…](/world-flut
 Sign up for the <strong>Geoffrey Ellis Flutes newsletter</strong> and get notified whenever new products are in stock.
 {:class='text-center'}
 
-<form style="max-width:250px;margin: 0 auto">
-  <input type="text" placeholder="your name" />
-  <input type="email" placeholder="email address" />
+<form style="max-width:250px;margin: 0 auto" action="https://www.createsend.com/t/subscribeerror?description=" method="post" data-id="5B5E7037DA78A748374AD499497E309E63343B84B65325393DB5D4503F8C8F42CC792579B0261F03C50F43F2A1B8B874C7542608F5804CB14BB4A41EBEF25097">
+
+  <input name="cm-name" type="text" placeholder="your name" />
+  <input name="cm-pdthjd-pdthjd" type="email" placeholder="email address" />
 
   <p class="text-center"><input type="submit" class="button" value="Subscribe" /></p>
 </form>
