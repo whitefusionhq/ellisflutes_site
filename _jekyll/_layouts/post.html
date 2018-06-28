@@ -2,15 +2,28 @@
 layout: default
 ---
 
-<h1 class="text-center">{{ page.title }}</h1>
+<header id="page-title">
+<h1 class="text-center">{{ page.title | smartify }}</h1>
 
-<h2 class="text-center subheader">{{ page.author }} / {{ page.date | date: "%B %-d, %Y" }}</h2>
+<br/><br/>
 
-<section class="row">
-  <div class="medium-6 medium-offset-1 columns">
+<h2 class="text-center">{{ page.subtitle | smartify }}</h2>
+</header>
 
-    <h3>{{ page.subtitle }}</h3>
+<section class="row fade-on-load">
+  <div id="content" class="medium-8 medium-offset-2 columns">
+    <h3><a href="/blog">Shop Notes Blog</a></h3>
+
+    {% if page.cloudinary_id %}
+      <div class="post-image" style="margin-left: -20px;margin-right: -20px;"><img src="{{ page.cloudinary_id | cloudinary_url:'w_2048,c_limit,q_65' }}" alt="" style="border: 6px solid #f1c363;margin-bottom: 4rem" /></div>
+    {% endif %}
 
     {{ content }}
+
+    <br/><br/>
+
+    <p class="text-center"><a href="/blog" class="button hollow"><i class="fa fa-arrow-left"></i> Return to Shop Notes</a></p>
+
+    <p class="text-center" style="opacity:0.7"><small>Published {{ page.date | date: "%A, %B %-d, %Y" }}</small></p>
   </div>
 </section>

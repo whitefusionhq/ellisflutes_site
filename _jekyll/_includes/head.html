@@ -1,7 +1,7 @@
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   {% capture page_title %}{{ page.title }}{% endcapture %}
-  <title>{% if page_title %}{{ page_title | escape }} | {{ site.title | escape }}{% else %}{{ site.title | escape }} | {{ site.tagline | escape }}{% endif %}</title>
+  <title>{% if page_title != "" %}{{ page_title | escape }} | {{ site.title | escape }}{% else %}{{ site.title | escape }} | {{ site.tagline | escape }}{% endif %}</title>
 
   <meta name="description" content="{{ site.site_description }}" />
 

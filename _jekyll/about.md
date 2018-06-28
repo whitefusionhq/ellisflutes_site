@@ -5,7 +5,7 @@ extra_page_class: ' about'
 ---
 
 <header id="page-title">
-  <h1 class="text-center">Geoffrey Ellis:<br/><small style="color:white">a Biography</small></h1>
+  <h1 class="text-center">Geoffrey Ellis<br/><small style="color:white">a Biography</small></h1>
 
   <div markdown="1" class="about-content">
 I’ve been a full-time professional woodwinds maker since 1997.  I began my career crafting Native American style flutes–a type of fipple flute–and eventually branched out as the years went by.  While I no longer make the Native American style flutes, I do make a wide variety of folk flutes from many cultures around the globe, including Irish flutes and whistles, Chinese Xiao, Indian Bansuri, Japanese Shakuhachi, South American Quenas, and various other rim blown flutes inspired by the Pueblo peoples of the American Southwest.  I’ve also spent many years developing a line of wooden head joints for Boehm (silver) flutes.

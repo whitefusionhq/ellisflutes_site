@@ -1,7 +1,7 @@
 ---
 title: Xiao
 subtitle: An ancient Chinese vertical end blown flute
-cloudinary_id: asihfca4kagmygkqwsf6
+cloudinary_id: xrfwwsiph4labtlgythv
 ---
 
 The Xiao (pronounced “show” as in “shower”) is an ancient Chinese vertical end blown flute, traditionally  made from bamboo, and it is possibly the most versatile open-hole flute in existence. It allows for a dizzying variety of different scales and modes, making it the ultimate “desert island flute”.

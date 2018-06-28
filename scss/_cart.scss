@@ -3,37 +3,56 @@
   color: #777;
 }
 .snip-layout .snip-header {
-  background: map-get($foundation-palette, primary);
-}
-.snip-layout .snip-header__total {
-  background: lighten(map-get($foundation-palette, primary), 10%);
+  background: get-color(secondary);
 }
 .snip-layout .snip-header__title {
-  color: white;
+  font-family: $header-font-family;
+  color: get-color(goldish);
+  text-transform: capitalize;
+  font-weight: normal;
+}
+.snip-layout .snip-header__total {
+  background: lighten(get-color(secondary), 10%);
+  text-transform: none;
 }
 .snip-layout .snip-header__total-label {
-  color: lighten(map-get($foundation-palette, primary), 60%);
+  color: lighten(get-color(secondary), 60%);
+}
+
+.snip-layout .snip-product__empty {
+  padding: 5em 2em;
+}
+
+.snip-layout .snip-product__name {
+  font-weight: normal;
+  text-transform: none;
+  font-size: 1rem;
 }
 
 .snip-layout .snip-btn--highlight {
-  background: #03b748;
+  background: get-color(primary);
   color: white;
 }
 .snip-layout .snip-btn--highlight:hover {
-  background-color: #33e778;
+  background-color: $body-font-color;
 }
 
 .snip-layout .snip-step__label {
   font-size: 14px;
+  font-family: $header-font-family;
+  letter-spacing: -0.05em;
+  text-transform: capitalize;
+  padding-right: 0;
 }
 .snip-layout .snip-form__label {
-  color: #777;
+  color: get-color(secondary);
   font-size: 16px;
   margin-bottom: 2px;
 }
 .snip-layout input[type=password], .snip-layout input[type=text], .snip-layout select {
   font-size: inherit;
   font-weight: bold;
+  color: black;
 }
 .snip-layout .snip-static__content {
   font-size: 14px;
