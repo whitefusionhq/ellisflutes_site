@@ -12,10 +12,10 @@ layout: default
 
 <section class="row fade-on-load">
   <div id="content" class="medium-8 medium-offset-2 columns">
-    <h3><a href="/blog">Shop Notes Blog</a></h3>
+    <h3 id="shopnotes"><a href="/blog">Shop Notes Blog</a></h3>
 
     {% if page.cloudinary_id %}
-      <div class="post-image" style="margin-left: -20px;margin-right: -20px;"><img src="{{ page.cloudinary_id | cloudinary_url:'w_2048,c_limit,q_65' }}" alt="" style="border: 6px solid #f1c363;margin-bottom: 4rem" /></div>
+      <figure class="post-image"><img src="{{ page.cloudinary_id | cloudinary_url:'w_2048,c_limit,q_65' }}" alt="" /></figure>
     {% endif %}
 
     {{ content }}

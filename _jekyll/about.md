@@ -13,5 +13,14 @@ I’ve been a full-time professional woodwinds maker since 1997.  I began my car
 The basic fundamentals of flute making apply to every kind of flute, and yet each variety is distinct.  There are different characteristics, tunings, scales, mouthpieces, bore profiles and voices.  Players who are devoted to each type of flute have differing expectations of what that flute should do and there are standards of quality that they hold as ideal.  Working to meet these expectations is a true joy and makes for a lot of variety, ensuring that as a maker I’ll never be bored!
 
 I live out in the woods on the coast of Northern California.  Big trees, lots of rain, views of the ocean.  Pretty nice.  It’s a quiet place with few distractions so I can really focus on what I’m doing.
+
+_More about Geoffrey Ellis Flutes:_
+{:class='text-center'}
+{:style='margin-top: 2rem'}
+
+<p class="text-center"><a href="/process" class="button white hollow">The Flute Making Process</a></p>
+
+<p class="text-center"><a href="/blog" class="button white hollow">Shop Notes Blog</a></p>
+
   </div>
 </header>

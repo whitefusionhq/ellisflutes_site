@@ -18,7 +18,7 @@ layout: homepage
 </div>
 
 <div class="blue-tag fade-on-load" style="position:static;border-bottom: 6px solid #f1c363;max-width:100%;margin-top:0;text-align:center" markdown="1">
-Our Boehm Head Joints are now ready for order! [Here are all the details…](/boehm-head-joints)
+Our Boehm Head Joints are now ready for order! [Here are all the details…](/headjoints)
 </div>
 
 <div class="row no-para-margin image-bottom-bordered fade-on-load">
