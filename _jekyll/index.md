@@ -2,7 +2,7 @@
 layout: homepage
 ---
 
-<div class="no-para-margin image-bottom-bordered fade-on-load" markdown="1">
+<div class="no-para-margin fade-on-load" markdown="1">
 
 <div class="slideshow-container">
 
@@ -17,22 +17,22 @@ layout: homepage
 <!-- ![Boehm Head Joints](/assets/MixedHeadjoints.jpg) -->
 </div>
 
-<div class="blue-tag fade-on-load" style="position:static;border-bottom: 6px solid #f1c363;max-width:100%;margin-top:0;text-align:center" markdown="1">
+<div class="blue-tag static fade-on-load" markdown="1">
 Our Boehm Head Joints are now ready for order! [Here are all the details…](/headjoints)
 </div>
 
-<div class="row no-para-margin image-bottom-bordered fade-on-load">
+<div class="row no-para-margin fade-on-load">
   <div class="columns medium-6 no-padding" markdown="1">
-<div class="blue-tag on-left" markdown="1">
+![Bansuri](/assets/BansuriGroup.jpg)
+<div class="blue-tag static" markdown="1">
 The latest batch of Irish Flutes are here and [they sound truly amazing…](/irish-flutes)
 </div>
-![Bansuri](/assets/BansuriGroup.jpg)
   </div>
   <div class="columns medium-6 no-padding" markdown="1">
-<div class="blue-tag" markdown="1">
+![Shakuhachi](/assets/ShakuhachiGroup.jpg)
+<div class="blue-tag static" markdown="1">
 Check out our world flute lines [such as the Shakuhachi and Xiao…](/world-flutes)
 </div>
-![Shakuhachi](/assets/ShakuhachiGroup.jpg)
   </div>
 </div>
 
