@@ -49,6 +49,11 @@
   font-size: 16px;
   margin-bottom: 2px;
 }
+
+.snip-layout .snipcart-customfield-dropdown .snip-form__label {
+  text-transform: none;
+}
+
 .snip-layout input[type=password], .snip-layout input[type=text], .snip-layout select {
   font-size: inherit;
   font-weight: bold;

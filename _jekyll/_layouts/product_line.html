@@ -37,44 +37,7 @@
 
       {% for product in products %}
         <!-- SKU: {{ product.slug }} -->
-        <div class="amber">
-          <div class="row">
-            <div class="small-12 medium-6 columns">
-              {% for cloudinary_id in product.cloudinary_ids %}
-
-                <figure>
-                  <img src="{{ cloudinary_id | cloudinary_url:'a_exif,c_limit,h_4000,q_75,w_2048' }}" class="product-image" alt="">
-                </figure>
-
-              {% endfor %}
-            </div>
-            <div class="small-12 medium-6 columns">
-              <h3>{{ product.title }}</h3>
-
-              <h4>{{ product.price | times:100 | money }}
-
-                {% for cloudinary_id in product.cloudinary_ids limit:1 %}
-                  {% capture thumbnail %}{{ cloudinary_id | cloudinary_url:'a_exif,c_limit,h_100,q_75,w_100' }}{% endcapture %}
-                {% endfor %}
-                <button
-                class="snipcart-add-item button large"
-                data-item-id="{{ product.slug }}"
-                data-item-name="{{ product.title }}"
-                data-item-price="{{ product.price }}"
-                data-item-url="{{ site.url }}{{ product.url }}"
-                data-item-image="{{ thumbnail }}">
-                  <i class="fa fa-shopping-cart" aria-hidden="true"></i> Add to Cart
-                </button>
-              </h4>
-
-              {{ product.content }}
-
-              <div><!-- HTML embed for YouTube, Soundcloud, etc. -->
-                {{ product.html_embed }}
-              </div>
-            </div>
-          </div>
-        </div>
+        {% include product.html %}
         <br/><br/>
       {% endfor %}
     {% endif %}
