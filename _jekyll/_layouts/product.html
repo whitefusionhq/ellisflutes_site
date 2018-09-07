@@ -3,41 +3,16 @@ layout: default
 hide_hero: true
 ---
 
-<section class="row">
-  <div class="small-12 medium-6 columns">
-    {% for cloudinary_id in page.cloudinary_ids %}
+<header id="page-title">
+  {% assign category = page.categories[0] %}
+  <h1 class="text-center"><a href="/{{ category }}">{{ site.data.category_labels[category] }}</a></h1>
+</header>
 
-      <figure class="mp-image-block">
-        <img src="{{ cloudinary_id | cloudinary_url:'a_exif,c_limit,h_4000,q_75,w_2048' }}" class="main-image" alt="">
-      </figure>
+<div class="fade-on-load">
+{% assign product = page %}
+{% include product.html %}
 
-    {% endfor %}
-  </div>
-  <div class="small-12 medium-6 columns">
-    <h1>{{ page.title }}</h1>
-
-    <h2>Price: {{ page.price | times:100 | money }}</h2>
-
-    {% for cloudinary_id in page.cloudinary_ids limit:1 %}
-      {% capture thumbnail %}{{ cloudinary_id | cloudinary_url:'a_exif,c_limit,h_100,q_75,w_100' }}{% endcapture %}
-    {% endfor %}
-    <div><button
-    class="snipcart-add-item button medium"
-    data-item-id="{{ page.slug }}"
-    data-item-name="{{ page.title }}"
-    data-item-price="{{ page.price }}"
-    data-item-url="{{ site.url }}{{ page.url }}"
-    data-item-image="{{ thumbnail }}">
-          Buy Cool Flute
-    </button></div>
-
-    {{ content }}
-
-    <div><!-- HTML embed for YouTube, Soundcloud, etc. -->
-      {{ page.html_embed }}
-    </div>
-
-
-    <p>SKU: {{ page.slug }}</p>
-  </div>
-</section>
+  <br/>
+  <p class="text-center"><a href="/{{ category }}" class="button large">Shop for More {{ site.data.category_labels[category] }}</a></p>
+  <br/><br/>
+</div>
