@@ -16,7 +16,7 @@ The most common tuning that I use for these flutes is the diatonic major scale i
 NOTE: These flutes are ergonomically set up for right-handed players (meaning players who play with the foot of the flute pointing to the right).  Left-handed versions can be custom made upon request.
 
 
-**Listen to Blayne Chastain (owner of the [Irish Flute Store](http://www.irishflutestore.com/) and ITM player extraordinaire) demonstrate both the D and Eflat tunings in the sound samples below.**
+**Listen to Blayne Chastain (owner of the [Irish Flute Store](http://www.irishflutestore.com/) and ITM player extraordinaire) demonstrate both the D and Eflat tunings in the sound samples below.**<br/><br/>
 
 <div class="callout">
   <iframe scrolling="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/486027465&amp;color=%23ff5500&amp;inverse=false&amp;auto_play=false&amp;show_user=true" width="100%" height="20" frameborder="no"></iframe>
