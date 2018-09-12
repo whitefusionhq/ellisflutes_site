@@ -23,24 +23,24 @@
       <div class="blue content-box">
         {{ content }}
       </div>
-    {% else %}
-      {{ content }}
-    {% endunless %}
 
       <br/><br/>
       {% assign products = site.products | where: "categories", page.product_category %}
       {% if products.size > 0 %}
-      <hr />
-      <h2 class="text-center">Products In Stock</h2>
-      <hr />
-      <br/><br/>
-
-      {% for product in products %}
-        <!-- SKU: {{ product.slug }} -->
-        {% include product.html %}
+        <hr />
+        <h2 class="text-center">Products In Stock</h2>
+        <hr />
         <br/><br/>
-      {% endfor %}
-    {% endif %}
+
+        {% for product in products %}
+          <!-- SKU: {{ product.slug }} -->
+          {% include product.html %}
+          <br/><br/>
+        {% endfor %}
+      {% endif %}
+    {% else %}
+      {{ content }}
+    {% endunless %}
 
     <hr />
     <h2 class="text-center">Custom Ordering</h2>

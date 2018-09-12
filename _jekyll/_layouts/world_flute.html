@@ -22,11 +22,40 @@
 
     <div class="blue content-box">
       {{ content }}
-
-      <br/>
-
-      <p class="text-center"><a href="/world-flutes" class="button hollow white"><i class="fa fa-arrow-left"></i> Return to World Flutes</a></p>
     </div>
+
+    <br/><br/>
+    {% assign products = site.products | where: "categories", page.product_category %}
+    {% if products.size > 0 %}
+      <hr />
+      <h2 class="text-center">Products In Stock</h2>
+      <hr />
+      <br/><br/>
+
+      {% for product in products %}
+        <!-- SKU: {{ product.slug }} -->
+        {% include product.html %}
+        <br/><br/>
+      {% endfor %}
+    {% endif %}
+
+    {% if page.custom_ordering %}
+      <hr />
+      <h2 class="text-center">Custom Ordering</h2>
+      <hr />
+
+      <div class="blue content-box">
+        <h3>Pricing</h3>
+
+        {{ page.custom_ordering | markdownify }}
+
+        <br/>
+        <p class="text-center"><a href="/custom-order" class="button hollow white">How to Custom Order</a></p>
+      </div>
+      <br/><br/>
+    {% endif %}
+
+    <p class="text-center"><a href="/world-flutes" class="button hollow"><i class="fa fa-arrow-left"></i> Return to World Flutes</a></p>
 
     {% include footer.html %}
   </body>

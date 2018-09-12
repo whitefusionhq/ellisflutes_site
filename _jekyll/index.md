@@ -23,7 +23,7 @@ Our Boehm Head Joints are now ready for order! [Here are all the details…](/he
 
 <div class="row no-para-margin fade-on-load">
   <div class="columns medium-6 no-padding" markdown="1">
-![Bansuri](/assets/BansuriGroup.jpg)
+![Irish](https://res.cloudinary.com/mariposta/image/upload/w_1500,h_692,c_fill,a_exif,q_75/myeslrdwqaqt8ddhqrda.jpg)
 <div class="blue-tag static" markdown="1">
 The latest batch of Irish Flutes are here and [they sound truly amazing…](/irish-flutes)
 </div>
@@ -88,7 +88,7 @@ In addition to crafting precision musical instruments, there is a beautiful aest
 
 <div class="blue row"><div class="right-col-background"></div>
   <div class="columns medium-6 no-padding no-para-margin pull-right" markdown="1">
-![img](/assets/working-on-headjoints.jpg)
+![img](/assets/cornucopia.jpg)
   </div>
   <div class="columns medium-6 top-padding max-text with-left-space" markdown="1">
 ### How to Order

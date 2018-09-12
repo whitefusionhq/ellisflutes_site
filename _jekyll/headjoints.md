@@ -4,13 +4,7 @@ layout: product_line
 cloudinary_id: fvxqknrqmhg58g855vkv
 product_category: headjoints
 custom_ordering: |
-  Standard head joint with lip plate:
-
-  _Wood — $900_
-
-  _Ebonite — $1000_
-
-  Some more info about putting in a custom order.
+  Ellis-Korb headjoint price: **$1,000**
 ---
 
 ### For Boehm System Flutes

@@ -4,9 +4,7 @@ layout: product_line
 cloudinary_id: myeslrdwqaqt8ddhqrda
 product_category: irish-flutes
 custom_ordering: |
-  Irish flutes ordering stuff.
-
-  Some more info about putting in a custom order.
+  Irish Flutes price: **$900**
 ---
 
 ### High-Performance Keyless Instruments
@@ -27,7 +25,7 @@ It might say “Ellis” on the flute, but these flutes are really Ellis-Walpole
 
 ### Sound Samples
 
-Listen to Blayne Chastain (owner of the Irish Flute Store and ITM musician extraordinaire) introduce and play a sample from one of the new Pratten style flutes.<br/><br/>
+Listen to Blayne Chastain (owner of the [Irish Flute Store](http://www.irishflutestore.com/) and ITM musician extraordinaire) introduce and play a sample from one of the new Pratten style flutes.<br/><br/>
 
 <div class="callout">
   <iframe scrolling="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/229290719&amp;color=ff5500&amp;inverse=false&amp;auto_play=false&amp;show_user=true" width="100%" height="20" frameborder="no"></iframe>

@@ -1,6 +1,7 @@
 ---
 title: Bansuri
 subtitle: Classical flutes of India with a modern twist!
+product_category: bansuri
 cloudinary_id: rlsfjgii5qflqxmbpezr
 ---
 
@@ -8,7 +9,7 @@ cloudinary_id: rlsfjgii5qflqxmbpezr
 
 From Wikipedia: ”_The **bansuri** is a transverse flute of India traditionally made from a single hollow shaft of bamboo with six or seven finger holes. An ancient musical instrument associated with cowherds and the pastoral tradition, it is intimately linked to the love story of Krishna and Radha and is also depicted in Buddhist paintings from around 100 CE.”_
 
-This new line of wooden bansuri are modern, fusion instruments that offer more robust tone development and freedom from cracking that is often associated with bamboo instruments. These flutes are six hole versions made from a selection of hardwoods with a lip plate made from African Blackwood.
+This new line of wooden bansuri are modern, fusion instruments that offer more robust tone development and freedom from cracking that is often associated with bamboo instruments. These flutes are six hole versions made from a selection of hardwoods with a lip plate made from black ebonite.
 
 Available tunings are:
 

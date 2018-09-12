@@ -1,6 +1,7 @@
 ---
 title: Rim Blown Flutes
 subtitle: Modern day interpretations of ancient American Southwest artifacts
+product_category: rim-blown
 cloudinary_id: jtqzmxltwrzexiaq8zef
 ---
 

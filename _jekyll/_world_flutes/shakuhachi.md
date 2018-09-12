@@ -1,7 +1,10 @@
 ---
 title: Shakuhachi
 subtitle: A Japanese end blown flute tuned to the pentatonic minor scale
+product_category: shakuhachi
 cloudinary_id: asihfca4kagmygkqwsf6
+custom_ordering: |
+  Shakuhachi price: **$425**
 ---
 
 The shakuhachi is a Japanese end blown flute that is normally made with 5 holes and tuned to the pentatonic minor scale. It originally came from China and is traditionally made of bamboo, but modern makers sometimes use plastic and hardwoods. It was used by the monks of the Fuke School of Zen Buddhism in the practice of suizen (blowing meditation).
@@ -16,9 +19,9 @@ A tapered bore allows for more precise upper octave tuning and a distinct type o
 
 ### The Wooden Shakuhachi
 
-I’ve spent the last year researching shakuhachi making and meticulously measuring the bores of a number of high quality shakuhachi flutes.  The shape of the bore is a crucial part of what makes the voice of the shakuhachi, and most quality instruments have very similar bore profiles.
+I spent two years researching shakuhachi making and meticulously measuring the bores of a number of high quality shakuhachi flutes.  The shape of the bore is a crucial part of what makes the voice of the shakuhachi, and most quality instruments have very similar bore profiles.
 
-After gathering the needed data, I set about manufacturing special reamers that would allow me to replicate the classic bore shape in a wooden instrument.  My goal was to make an affordable wooden shakuhachi that could match the quality of high-end bamboo instruments.  I believe that I have succeeded.
+After gathering the needed data, I set about manufacturing special reamers that would allow me to replicate the classic bore shape in a wooden instrument.  My goal was to make an affordable wooden shakuhachi that could match the quality of high-end bamboo instruments.
 
 Some of the better quality bamboo shakuhachi can cost thousands of dollars (sometimes tens of thousands).  The reason for the cost is due to the high level of skill required to meticulously shape the bore using traditional methods and the years of experience required to do it well.  This often means that for many players a high quality instrument is far out of their budget.
 

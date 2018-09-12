@@ -12,7 +12,7 @@ Snipcart.subscribe('item.removed', function (item) {
   updateCartCount();
 });
 Snipcart.subscribe('order.completed', function (data) {
-  updateCartCount();
+  $('nav#menu .item-count').text('').addClass('empty');
 });
 
 function updateCartCount() {

@@ -33,9 +33,11 @@
 
       {{ product.content }}
 
-      <div><!-- HTML embed for YouTube, Soundcloud, etc. -->
-        {{ product.html_embed }}
-      </div>
+      {% if product.html_embed and product.html_embed != '' %}
+        <div class="callout"><!-- HTML embed for YouTube, Soundcloud, etc. -->
+          {{ product.html_embed }}
+        </div>
+      {% endif %}
     </div>
   </div>
 </div>

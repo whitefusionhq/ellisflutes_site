@@ -1,6 +1,7 @@
 ---
 title: Xiao
 subtitle: An ancient Chinese vertical end blown flute
+product_category: xiao
 cloudinary_id: xrfwwsiph4labtlgythv
 ---
 
