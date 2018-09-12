@@ -15,7 +15,7 @@
     </header>
 
     {% if page.cloudinary_id %}
-      <div class="no-para-margin image-bottom-bordered fade-on-load" markdown="1">
+      <div class="no-para-margin image-bottom-bordered fade-on-load" style="min-height: 40vw" markdown="1">
         <img src="{{ page.cloudinary_id | cloudinary_url:'w_2048,h_4000,c_limit,a_exif,q_75'}}" style="width:100%" />
       </div>
     {% endif %}
