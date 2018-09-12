@@ -33,4 +33,8 @@ Shakuhachi come in various sizes and tunings, but at this time I’m only offeri
 
 ### Sound Samples
 
-Listen to World Flute virtuoso [Peter Phippen](http://www.peterphippen.com/) improvise on one of my 1.8 shakuhachi.
+Listen to World Flute virtuoso [Peter Phippen](http://www.peterphippen.com/) improvise on one of my 1.8 shakuhachi.<br/><br/>
+
+<div class="callout">
+  <iframe width="100%" height="20" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/192693525&color=%23ff5500&inverse=false&auto_play=false&show_user=true"></iframe>
+</div>
