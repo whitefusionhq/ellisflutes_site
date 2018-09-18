@@ -31,6 +31,12 @@ body.post, body.page {
       text-align: center;
     }
 
+    p, li, blockquote {
+      a {
+        border-bottom: 3px solid rgba(12,61,34,0.2);
+      }
+    }
+
     .post-image {
       margin-left: -20px;
       margin-right: -20px;
