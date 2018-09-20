@@ -2,9 +2,12 @@
 title: NEW! Granadillo Basketmaker 2.0 seven hole flute, Key of Aflat (right-handed)
 categories: rim-blown
 price: 299.0
-cloudinary_ids: ['swvymf799747ggwelk3f','zfqoq6trbw58vkhvzcrl']
+cloudinary_ids:
+- swvymf799747ggwelk3f
+- zfqoq6trbw58vkhvzcrl
 html_embed: ''
 out_of_stock: false
+inventory: 1
 ---
 
 Granadillo (Platymiscium pinnatum), key of Aflat for right-handed player.

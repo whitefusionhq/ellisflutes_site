@@ -2,9 +2,13 @@
 title: Bansuri, Curly Maple, Key of E (tonic A). For domestic sale only*
 categories: bansuri
 price: 299.0
-cloudinary_ids: ['ps81of9j90pxmwo3tvoj','t1iaggydfs43oqmrw6gb']
-html_embed: '<iframe width="100%" height="20" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/310431426&color=%23ff5500&inverse=false&auto_play=false&show_user=true"></iframe>'
+cloudinary_ids:
+- ps81of9j90pxmwo3tvoj
+- t1iaggydfs43oqmrw6gb
+html_embed: <iframe width="100%" height="20" scrolling="no" frameborder="no" allow="autoplay"
+  src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/310431426&color=%23ff5500&inverse=false&auto_play=false&show_user=true"></iframe>
 out_of_stock: false
+inventory: 1
 ---
 
 Curly Maple (dyed) with African Blackwood lip plate.
