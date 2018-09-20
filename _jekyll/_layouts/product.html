@@ -5,7 +5,7 @@ hide_hero: true
 
 <header id="page-title">
   {% assign category = page.categories[0] %}
-  <h1 class="text-center"><a href="/{{ category }}">{{ site.data.category_labels[category] }}</a></h1>
+  <h1 class="text-center"><a href="{{ site.data.category_labels[category].url }}">{{ site.data.category_labels[category].title }}</a></h1>
 </header>
 
 <div class="fade-on-load">
@@ -13,6 +13,6 @@ hide_hero: true
 {% include product.html %}
 
   <br/>
-  <p class="text-center"><a href="/{{ category }}" class="button large">Shop for More {{ site.data.category_labels[category] }}</a></p>
+  <p class="text-center"><a href="{{ site.data.category_labels[category].url }}" class="button large">Shop for More {{ site.data.category_labels[category].title }}</a></p>
   <br/><br/>
 </div>

@@ -1,4 +1,24 @@
-world-flutes: World Flutes
-irish-flutes: Irish Flutes
-headjoints: The Ellis-Korb Headjoint
-transverse-flutes: Transverse Flutes
+world-flutes:
+  title: World Flutes
+  url: /world-flutes
+irish-flutes:
+  title: Irish Flutes
+  url: /irish-flutes
+headjoints:
+  title: The Ellis-Korb Headjoint
+  url: /headjoints
+bansuri:
+  title: Bansuri
+  url: /world-flutes/bansuri
+rim-blown:
+  title: Rim Blown Flutes
+  url: /world-flutes/rim-blown
+shakuhachi:
+  title: Shakuhachi
+  url: /world-flutes/shakuhachi
+transverse-folk:
+  title: Transverse Folk Flutes
+  url: /world-flutes/transverse-folk
+xiao:
+  title: Xiao
+  url: /world-flutes/xiao
