@@ -27,6 +27,9 @@
           data-item-max-quantity="1"
           data-item-custom1-name="Flute Care Pack"
           data-item-custom1-options="Not Included|Included +$10[+10.00]"
+          {% if product.weight %}
+          data-item-weight="{{ product.weight }}"
+          {% endif %}
           data-item-image="{{ thumbnail }}">
             <i class="fa fa-shopping-cart" aria-hidden="true"></i> Add to Cart
           </button>
