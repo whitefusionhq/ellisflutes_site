@@ -125,28 +125,21 @@ body.product_line, body.product, body.world_flute {
 
 body.about {
   header#page-title {
-    background-image:url(/assets/biostandin.jpg);
+    background-image:url(/assets/working-on-headjoints.jpg);
     background-size: cover;
-    background-position: 25% center;
+    background-position: center center;
     padding-top: 20vh;
     padding-bottom: 10vh;
 
     @media (max-width: 1300px) {
       padding-top: 9rem;
     }
-
-    @media (max-width: 1100px) {
-      background-position: 22% center;
-    }
-
-    @media (max-width: 760px) {
-      background-position: 40% center;
-    }
   }
   h1 {
     color: white;
     width: 60%;
     margin-left: auto !important;
+    margin-right: auto;
     margin-bottom: 4rem;
     text-shadow: 1px 2px 1px rgba(0,0,0,0.3);
     line-height: 1;
@@ -171,12 +164,25 @@ body.about {
     background: linear-gradient(to bottom, transparentize(#18677f, 0.06), transparentize(#0c3d22, 0.06));
     color: white;
     padding: 50px;
+    padding-bottom: 10px;
     width: 40%;
     margin-left: auto;
     margin-right: 10%;
     @include breakpoint(small down) {
       padding-left: 20px;
       padding-right: 20px;
+    }
+
+    .post-image {
+      @media (min-width: 768px) {
+        margin-left: -20px;
+        margin-right: -20px;
+      }
+      margin-bottom: 2rem;
+
+      img {
+        border: 6px solid #f1c363;
+      }
     }
 
     @media (max-width: 1300px) {
