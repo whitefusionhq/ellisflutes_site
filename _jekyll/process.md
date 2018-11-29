@@ -1,13 +1,15 @@
 ---
 layout: page
 title: The Flute Making Process
+subtitle: ''
+extra_page_class: ''
 ---
 
 <figure class="post-image" markdown="1">
 ![Geoffrey Ellis at Work](/assets/working-on-headjoints.jpg)
 </figure>
 
-I work as a solo artisan in a small workshop next to my house.  I make a wide variety of different woodwinds from cultures around the world, and I believe this diversity has been a key component of my success as a flute maker.  By working to master many different types of instruments, I have amplified and accelerated my learning process, discovering tools and techniques that improve my range and efficiency.
+I work as a solo artisan in a small workshop next to my house.  I make a wide variety of different woodwinds from cultures around the world, and I believe this diversity has been a key component in my success as a flute maker.  By working to master many different types of instruments, I have amplified and accelerated my learning process, discovering tools and techniques that improve my range and efficiency.
 
 Working in a small shop and having to be responsible for every step of the flute making process can be challenging at times, but I believe the benefits are substantial because I’ve been compelled to create a very broad base of skills in both the fields of woodworking and metallurgy.
 

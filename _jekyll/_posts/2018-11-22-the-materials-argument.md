@@ -1,0 +1,47 @@
+---
+title: The Materials Argument
+subtitle: Is there a best material for a flute?
+cloudinary_id: ''
+---
+
+The most commonly asked question among my flute customers is, "What wood sounds the best?".  It's a fairly innocent question, and most of the time the person asking doesn't realize what a Pandora's Box they open by asking it!
+
+I say that because it is a highly controvertial topic that has been argued for as long as woodwinds have existed (Well...I'm speculating here, but it's certainly a centuries old debate).
+
+Woodwinds are not like stringed instruments.  With instruments like violins, guitars, etc. the wood (or other material, be it carbon fiber, plastic, etc.) has a direct and significant effect upon the sound because the material itself vibrates to generate sound waves.  Woodwinds are not designed to create sound through the vibration of the flute body, but are rather a container for air molecules that are agitated by the action of blowing the flute, creating pressure waves inside the container.  The sound emerges from the embouchure hole where the player blows, from the finger holes and the opening at the foot.  The body of the flute certainly resonates slightly (you can feel it in your fingers) but it's not contributing audibly to the instrument's tone the way the sounding board of a violin does, for example. While the material will flex and resonate in degree in response to the air molecules zipping around inside the bore, that resonance is more *felt* by the player than heard by the audience.   As mentioned, players can feel it in their fingertips and they experience it in the muscles and bones of their face as well.  More on that later.
+
+Historically, wood choice for flutes has been driven not by considerations regarding tone, but rather by availability, stability and workability of a given material.  African Blackwood (aka grenadilla) became hugely popular for woodwinds back in the 19th century because makers discovered that it was highly stable, easy to machine and it's uniform color (black) made it easy to match parts without it looking goofy.  To read a great article on this subject, I recommend [The Grenadilla Myth](http://ridenourclarinetproducts.com/the-grenadilla-myth.html), written by clarinet maker Tom Ridenour.
+
+In terms of the effect of materials on the sound of the flute, I would refer readers to this article by researcher John Coltman: [Effect Of Material On Flute Tone Quality](https://ccrma.stanford.edu/marl/Coltman/documents/Coltman-1.06.pdf).  In short, Coltman conducted a blind test among players and listeners and came to the following conclusion:
+
+"*No evidence has been found that experienced listeners or trained players can distinguish between flutes of like mouthpiece material whose only difference is the nature and thickness of the wall material of the body, even when the variations in the material and thickness are very marked.  Of course, it is possible that individuals exist whose discriminatory senses are keen enough to find a distinction, but if so, they are certainly not common.  Moreover, the results suggest that even careful attempts to produce identical sounds on the same instrument produce variations that are more perceptible than any that might be associated with the material.
+*
+*One player did, correctly, point out that one of the three instruments appeared at first to be slightly flat.  This effect is due to the high thermal mass of the heavy copper tube, which causes it to warm up more slowly than the others.  This is an example of a reason to prefer certain materials for flute construction, and there are many others.  Tone quality or ease of response are not, however, among them*."
+
+I think it bears mentioning that this test he conducted utilized limited materials for it's comparison, namely silver, copper and wood.  He did not compare different varieites of wood to one another, for example.  So while his findings are significant, I would not call them conclusive.  Compelling, certainly.
+
+My own experience as a maker lands me somewhere between two different camps.  In one, there are those who feel that the material has a profound, make-it-or-break it effect upon the tone quality of the instrument, and in the other are those who feel that material does not matter at all.   If there were a numerical scale that measured between these two viewpoints, with zero being the belief that materials don't make any difference at all, and ten being that they are all-important, I'd probably land somewhere around one or two.   Materials matter.  They just don't matter as much as most players seem to think.
+
+Let me put it in this perspective: what factors contribute to the tone of a flute? What exactly are you hearing when a flute is being played? Are you hearing the player? The material? The flute design?  Well, obviously you are hearing all of them in a mix, but the debate seems to rage around the importance placed upon these different factors by various different players.
+
+The player themself is the most important factor.  A great player with a well-developed embouchure can achieve reasonable tone even on sub-standard instruments.  So it's an easy mistake for a mediocre or inexperienced player to imagine that their tone is being undermined by a poor flute.  On the flip side, a player's tone **can** be undermined by a poor quality flute!  But the player themself is the most important contributor to flute tone.
+
+Next up is the flute design itself.  As mentioned previously, a flute is just a container for air molecules.  The shape of that container, the characteristics of the inner bore surface of the container, and the shape and size of the various openings (embouchure and finger holes)in the container have a very profound effect on the sound.  Variations in these design components can have stunning effects upon the tone.  Increasing the diameter of the bore even slightly can darken the timbre of the instrument.  Enlarging the finger holes strengthens the voice.  The shape and size of the embouchure hole (or blowing edge) will alter the pitch, the voice and the entire character of the flute.  If a maker were to use only one type of material to make flutes (such as rosewood, for example), but they knew how to manipulate these various design components, they could produce flutes with infinite variations in tone.  
+
+Finally there is the material itself.  Personally I believe that the most significant aspect of material is how it is experienced by the player.  I've heard a number of players describe this as "under the ear", meaning how a flute sounds different to the player blowing the flute as compared to a listener in the audience.  The player is right up close, their ears within inches of the flute, and all of the associated vibrations transmitting themselves into the players skull via bone conduction.  It creates a type of feedback loop that players love.  Regardless of what the audience can hear, the players themselves love the feedback resonance of the flute.  They experience that feedback as an improvement in their tone, and in reality they often will play better as a result.  So what might start out as a placebo effect (mostly) becomes an actual improvement in the overall performance because the player is inspired by the experience they are having.  This resonance cannot be felt by the audience, so audible differences between materials become much harder to detect.  And as Coltman determined in his study, any audible differences between materials (assuming that the other design factors are equal) are far more likely to be variation in the player's techniqe.
+
+Having said that, different materials do feel different under the ear, and a truly discriminating listener in the audience can likely perceive some auible difference, all other things being equal.  But as Coltman observed, I think that is rare.  More often than not, players
+
+
+
+
+
+
+
+
+
+
+
+All of my wooden flutes have the inner bore finished with a clear-coat marine epoxy.  This has the benefit of making the bore water-proof, but it also is a great equalizer in that it makes the inner bores smooth and hard, regardless of the wood used.  Some woods cut smoother than others, so untreated bores (especially on non-oily domestic woods) really need something to seal and smooth them.  Once this is done, however, they behave very similarly to the bore of a nice, oily, dense tropical hardwood that bores out with a glass-smooth finish.
+
+Having said all of that, I do think that the material can impact the sound.  Different woods machine differently and some are easier to work with than others.   These differences can introduce minor variations in dimensions and bore profile, which can impact the sound.  And there are both tactile and audible differences experienced by the player, even if the audience cannot hear them.  This is important.  How a flute feels, how it vibrates under the fingers and how it sounds “under the ear” of the player can change the players experience entirely.

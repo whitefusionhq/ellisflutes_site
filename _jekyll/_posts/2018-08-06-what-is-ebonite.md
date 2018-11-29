@@ -1,6 +1,6 @@
 ---
 title: What is Ebonite?
-subtitle: "Hint: It’s not plastic!"
+subtitle: 'Hint: It’s not plastic!'
 cloudinary_id: i8trx2bcxvfrnpdpwgly
 ---
 
@@ -22,7 +22,23 @@ Richard Rockstro (1826-1906, the famous pupil of Richard Carte) endorsed the mat
 
 6. **Sixthly, its appearance excels that of the finest ebony, and it generally retains its original lustre with very little attention, though sometimes it loses its extreme blackness. **
 
-Ebonite is a pleasure to use.  It is beautiful, stable and sounds amazing.  
+Ebonite is a pleasure to use.  It is beautiful, stable and sounds amazing.  Is it a better choice than wood?  I would say that sometimes it is.  The following quote is from an excellent article written by clarinet maker Tom Ridenour ([The Grenadilla Myth](http://ridenourclarinetproducts.com/the-grenadilla-myth.html)).  He refers to ebonite as "hard rubber", which is perfectly accurate.  Natural hard rubber is what it is, and the term "ebonite" is more like a brand name that has become a convenient way to refer to it.
+
+*"Hard Rubber vs Grenadilla*
+
+*In my own clarinet design experience I have had the rare opportunity to design clarinets in Grenadilla wood, Rosewood and Hard Rubber. It has been an eye opening, almost shocking experience. What I have found to be consistently true is when a well-made hard rubber clarinet is compared to a Grenadilla wood clarinet sharing the same acoustical design, the hard rubber turns out to be the unequivocal better in every respect: tone, tuning, response, sweeter high tones, stability and consistency in manufacture.*
+
+*Hard Rubber is Natural*
+
+*The fact is, too many people operate on the unexamined assumption that hard rubber us just like plastic. But the truth is that hard rubber is not at all like the plastics used for clarinet building. It is not accurate to equate high grade, natural hard rubber clarinets with synthetic, plastic clarinets.*
+
+*Why?*
+
+*For one thing, hard rubber is not synthetic at all, but just as natural as any piece of wood in any forest. Hard rubber comes from the very essence of the tree, being its' life blood. Besides being natural, it is superior to plastics in every possible respect. Musically speaking, pure, natural hard rubber clarinets possess many critical playing and tonal qualities that are almost identical to those of Honduran Rosewood; more so than any other material presently used for clarinet making, including Grenadilla wood!*
+
+*Comparing Grenadilla and hard rubber clarinets from a pragmatic, logistical standpoint, hard rubber clarinets are consistently more stable, more uniform from clarinet to clarinet, take and hold much more precise and uniform bore dimensions, and are virtually crack-free. On the acoustical/aesthetic/performance side, well-made, well-designed, high quality hard rubber clarinets have quicker response, more even blowing resistance, better, more stable tuning, a darker, sweeter tone and are coloristically much more stable throughout the full pitch and dynamic range of the clarinet. In short, hard rubber clarinets give you the best of both worlds, satisfying the logistical needs of the manufacturer and the artistic needs of the clarinetist."*
+
+This was the article that inspired me to try ebonite in the first place, and my experiences so far coincide exactly with the observations made my Mr. Ridenour.  Ebonite is an amazing material for woodwinds.
 
 I also have other motivations for using it.  Now more than ever our rain forests are endangered, and many instrument makers are facing tough decisions in the face of new regulations that restrict the use of tropical timbers.  As a professional flute maker I’ve seen these new regulations impacting my fellow instrument makers and it seemed to me that the time had come to change direction.  
 

@@ -9,6 +9,7 @@ html_embed: <iframe width="100%" height="20" scrolling="no" frameborder="no" all
   src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/192693525&color=%23ff5500&inverse=false&auto_play=false&show_user=true"></iframe>
 out_of_stock: false
 inventory: 1
+weight: '450'
 ---
 
 Resin-stabilized, dyed Curly Maple.
