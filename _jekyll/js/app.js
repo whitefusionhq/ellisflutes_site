@@ -1,5 +1,16 @@
 $(document).ready(function() {
   $(document).foundation();
+
+  $('#homepage-signup').on('submit', function(e) {
+    e.preventDefault();
+
+    var name = $(this).find('input[name="name"]').val();
+    var email = $(this).find('input[name="email"]').val();
+
+    $('footer input[name="cm-name"]').val(name);
+    $('footer input[name="cm-pdthjd-pdthjd"]').val(email);
+    $('#footer-signup').submit();
+  })
 })
 
 Snipcart.subscribe('cart.ready', function (data) {

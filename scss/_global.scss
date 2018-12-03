@@ -242,16 +242,24 @@ button, input, optgroup, select, textarea {
 	outline: none;
 	z-index: 100;
   cursor: pointer;
+  @media (max-width: 639px) {
+    background-size: cover;
+    width: 40px;
+    height: 40px;
+  }
 }
 
 /* Menu style */
 .overlay nav {
 	text-align: center;
 	position: relative;
-	top: 50%;
+  top: 10%;
+  height: 70%;
+
+/*	top: 50%;
 	height: 70%;
 	-webkit-transform: translateY(-50%);
-	transform: translateY(-50%);
+	transform: translateY(-50%); */
 }
 
 .overlay ul {
@@ -280,6 +288,9 @@ button, input, optgroup, select, textarea {
 	color: #fff;
 	-webkit-transition: color 0.2s;
 	transition: color 0.2s;
+  @media (max-width: 639px) {
+    font-size: 38px;
+  }
 }
 
 .overlay ul li a:hover,

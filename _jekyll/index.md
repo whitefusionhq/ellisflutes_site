@@ -44,10 +44,10 @@ Check out our world flute lines [such as the Shakuhachi and Xiao…](/world-flut
 Sign up for the <strong>Geoffrey Ellis Flutes newsletter</strong> and get notified whenever new products are in stock.
 {:class='text-center'}
 
-<form style="max-width:250px;margin: 0 auto" action="https://www.createsend.com/t/subscribeerror?description=" method="post" data-id="5B5E7037DA78A748374AD499497E309E63343B84B65325393DB5D4503F8C8F42CC792579B0261F03C50F43F2A1B8B874C7542608F5804CB14BB4A41EBEF25097">
+<form id="homepage-signup" style="max-width:250px;margin: 0 auto">
 
-  <input name="cm-name" type="text" placeholder="your name" />
-  <input name="cm-pdthjd-pdthjd" type="email" placeholder="email address" />
+  <input name="name" type="text" placeholder="your name" />
+  <input name="email" type="email" placeholder="email address" />
 
   <p class="text-center"><input type="submit" class="button" value="Subscribe" /></p>
 </form>
@@ -94,7 +94,7 @@ In addition to crafting precision musical instruments, there is a beautiful aest
 ### How to Order
 {:class='text-center'}
 
-Many of Geoffrey Ellis' available flute models can be purchased from our in-stock store. (<a href="#" onclick="document.querySelector('nav#menu > a').click();return false">Open the menu to start browsing.</a>) In addition, if the flute you're looking for isn't in stock, <a href="#">you can subscribe to our newsletter</a> to get updated on new flutes in stock. If you know the type of flute you want, you can place a custom order. Due to the current waitlist for Geoffrey Ellis Flutes custom orders, expect a delivery time upwards of six months.
+Many of Geoffrey Ellis' available flute models can be <a href="/products">purchased from our in-stock store</a>. In addition, if the flute you're looking for isn't in stock, <a href="#" onclick="$('footer input[name=\'cm-name\']').focus();return false">you can subscribe to our newsletter</a> to get updated on new flutes in stock. If you know the type of flute you want, you can place a custom order. Due to the current waitlist for Geoffrey Ellis Flutes custom orders, expect a delivery time upwards of six months.
 
 <br/>
 [Custom Order](/custom-order){:class='button hollow white'}
