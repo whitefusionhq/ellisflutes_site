@@ -4,7 +4,7 @@ title: The Essential Flute
 subtitle: A versatile flute for all types of world music including traditional Irish
 extra_page_class: ''
 product_category: transverse-folk
-cloudinary_id: uwbus0atv7po1cvk6j7h
+cloudinary_id: ellisflutes2018/EssentialGroup
 ---
 
 The transverse flute is one of the most recognizable types of flutes in the world, and the silver, orchestral flute is the icon most people imagine when you say the word “flute”. However, transverse wooden and bamboo “folk” flutes come in all shapes and sizes and they have their own wonderful character. Using wood allows for a wide variety of visual styles as well as the ability to bring more control and consistency to the design, when compared to a material such as bamboo.
