@@ -23,9 +23,9 @@ Our Boehm Head Joints are now ready for order! [Here are all the details…](/he
 
 <div class="row no-para-margin fade-on-load">
   <div class="columns medium-6 no-padding" markdown="1">
-![Irish](https://res.cloudinary.com/mariposta/image/upload/w_1500,h_692,c_fill,a_exif,q_75/myeslrdwqaqt8ddhqrda.jpg)
+![Essential Flutes](https://res.cloudinary.com/mariposta/image/upload/w_1500,h_692,c_fill,a_exif,q_75/ellisflutes2018/EssentialGroup.jpg)
 <div class="blue-tag static" markdown="1">
-The latest batch of Irish Flutes are here and [they sound truly amazing…](/irish-flutes)
+The latest batch of Essential Flutes are here and [they sound truly amazing…](/world-flutes/transverse-folk)
 </div>
   </div>
   <div class="columns medium-6 no-padding" markdown="1">
