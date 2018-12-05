@@ -7,7 +7,7 @@ cloudinary_ids:
 html_embed: ''
 out_of_stock: false
 inventory: 1
-weight: '1200'
+weight: '12'
 ---
 
 (Just for testing purposes!)
