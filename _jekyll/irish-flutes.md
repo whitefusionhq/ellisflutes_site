@@ -1,10 +1,13 @@
 ---
-title: Irish Flutes
 layout: product_line
+title: Irish Flutes
+subtitle: ''
+extra_page_class: ''
 cloudinary_id: myeslrdwqaqt8ddhqrda
 product_category: irish-flutes
-custom_ordering: |
-  Irish Flutes price: **$900**
+custom_ordering: 'Irish Flutes price: **$900**
+
+'
 ---
 
 ### High-Performance Keyless Instruments
@@ -16,6 +19,8 @@ What is an Irish flute?  Well, I think wikipedia put it rather well:
 These transverse flutes that are designed for ITM (Irish Traditional Music) players are based upon the antique Pratten’s Perfected, a well known 19th century flute model.   My current version is made from resin-stabilized hard maple for greater density, featuring nickel silver bore rings and a combination joint and tuning slide with a nickel silver tenon and Delrin lined socket.
 
 These are high-performance keyless instruments with a diatonic major tuning that is ideal for ITM or other types of folk music.
+
+For a less expensive, high-performance alternative to these flutes, consider the [Essential Flute](http://www.ellisflutes.com/world-flutes/transverse-folk), a one-piece keyless flutes that plays the same scale.
 
 ### Excellence Through Collaboration
 
