@@ -9,6 +9,10 @@
     <script src="/js/html5shiv.js"></script>
   <![endif]-->
 
+  <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+
   <link rel="alternate" type="application/rss+xml" title="{{ site.name }}" href="{{ site.url }}/feed.xml" />
 
   <link href="//fonts.googleapis.com/css?family=Stoke:300" rel="stylesheet" type="text/css" />
@@ -19,7 +23,11 @@
   <link rel="stylesheet" href="{{ site.baseurl }}/css/fa/font-awesome.min.css" />
 
   <script src="//code.jquery.com/jquery-2.2.4.min.js"></script>
-  <script src="https://cdn.snipcart.com/scripts/2.0/snipcart.js" data-api-key="NGI4YTYzY2EtNTM4OC00OTA5LTlmMjQtM2FiMGU4ZTMwMzMwNjM2NzE4ODE0MjU4MDQ4Nzk4" id="snipcart"></script>
+  {% if jekyll.environment == "production" %}
+    <script src="https://cdn.snipcart.com/scripts/2.0/snipcart.js" data-api-key="NGI4YTYzY2EtNTM4OC00OTA5LTlmMjQtM2FiMGU4ZTMwMzMwNjM2NzE4ODE0MjU4MDQ4Nzk4" id="snipcart"></script>
+  {% else %}
+    <script src="https://cdn.snipcart.com/scripts/2.0/snipcart.js" data-api-key="NGI4YTYzY2EtNTM4OC00OTA5LTlmMjQtM2FiMGU4ZTMwMzMwNjM2NzE4ODE0MjU4MDQ4Nzk4" id="snipcart"></script>
+  {% endif %}
   <script src="{{ site.baseurl }}/js/foundation.js"></script>
   <script src="{{ site.baseurl }}/js/modernizr.custom.js"></script>
   <script src="{{ site.baseurl }}/js/app.js"></script>
