@@ -4,3 +4,4 @@ node_modules
 npm-debug.log
 _site
 previewbuild.log
+_jekyll/css/app.css

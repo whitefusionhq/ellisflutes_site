@@ -149,6 +149,12 @@ div.blue-tag {
     margin-top: 0;
     text-align: center;
   }
+  &.third {
+    @media (min-width: 1112px) {
+      padding-left: 37px;
+      padding-right: 37px;
+    }
+  }
 }
 
 div.no-para-margin, div.blue-tag {

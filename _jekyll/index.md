@@ -17,20 +17,20 @@ layout: homepage
 <!-- ![Boehm Head Joints](/assets/MixedHeadjoints.jpg) -->
 </div>
 
-<div class="blue-tag static fade-on-load" markdown="1">
+<div class="blue-tag static first fade-on-load" markdown="1">
 Our Boehm Head Joints are now ready for order! [Here are all the details…](/headjoints)
 </div>
 
 <div class="row no-para-margin fade-on-load">
   <div class="columns medium-6 no-padding" markdown="1">
 ![Essential Flutes](https://res.cloudinary.com/mariposta/image/upload/w_1500,h_692,c_fill,g_north,a_exif,q_75/ellisflutes2018/EssentialGroup.jpg)
-<div class="blue-tag static" markdown="1">
+<div class="blue-tag static second" markdown="1">
 The latest batch of Essential Flutes are here and [they sound truly amazing…](/world-flutes/transverse-folk)
 </div>
   </div>
   <div class="columns medium-6 no-padding" markdown="1">
 ![Shakuhachi](/assets/ShakuhachiGroup.jpg)
-<div class="blue-tag static" markdown="1">
+<div class="blue-tag static third" markdown="1">
 Check out our world flute lines [such as the Shakuhachi and Xiao…](/world-flutes)
 </div>
   </div>
