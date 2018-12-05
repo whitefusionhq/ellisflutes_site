@@ -1,7 +1,7 @@
 ---
 title: A Big Drill
-subtitle: ''
-cloudinary_id: ''
+subtitle: The boring part of flute making
+cloudinary_id: ellisflutes2018/Driller_tfysyr
 ---
 
 As we all know, a flute is a hollow tube with holes in it.  Early flutes were usually made of bamboo, cane or even bone.  Flute makers tended to use these types of materials because they were either already hollow or were very easy to hollow out.  Early flute makers did not grab a nice, seasoned branch from some tree in the rosewood family and start trying to gouge it out with a pen knife!  That would be brutal.  They took the easy road and adapted natural materials to their purpose.
@@ -10,9 +10,7 @@ Modern makers have expanded their horizons in terms of materials because the adv
 
 And not just any drill.  A really, really big drill.
 
-I started my career making Native American style flutes, and as many of you know these flutes are often made by gluing two halves of the flute together.  In other words, a tool like a router is used to cut half of a cylinder in one piece of wood and half in another.  The two pieces are glued together making a complete cylinder.  This process actually has some advantages for that type of flute, but it has many disadvantages as well.  It is slow and messy to do the glue-up and then with many woods there is a visible seam in the flute.
-
-In 2007 I decided that I wanted to change direction and explore the flutes of other cultures and at the same time I decided that I was no longer going to use this glue-based method.  I wanted my flutes to be made from a solid piece of wood, and for that I was going to need a drill.  I had heard of makers using what are called “gun drills”, which are long, hollow drills that were originally created for making firearms.  They evolved to have a multitude of applications for what is called “deep hole drilling” and they are ideal for flute makers.  The easiest way to use a gun drill is to mount the wood in a lathe which will spin it at high speed while the gun drill is fed into the work.  So whereas a normal drill of the everyday variety turns a drill bit to cut into stationary wood, the usual gun-drilling set up spins the wood and the drill stays stationary (or at least it doesn’t spin).  At the same time that the drill is being fed into the wood, compressed air is being forced through the hollow shaft of the drill and out of some small holes at the cutting end, ejecting the chips from the bore as you drill.  This is crucial!  Without this air, the bore will quickly clog with chips, overheat and probably make your wood burst into flames!
+I had heard of makers using what are called “gun drills”, which are long, hollow drills that were originally created for making firearms.  They evolved to have a multitude of applications for what is called “deep hole drilling” and they are ideal for flute makers.  The easiest way to use a gun drill is to mount the wood in a lathe which will spin it at high speed while the gun drill is fed into the work.  So whereas a normal drill of the everyday variety turns a drill bit to cut into stationary wood, the usual gun-drilling set up spins the wood and the drill stays stationary (or at least it doesn’t spin).  At the same time that the drill is being fed into the wood, compressed air is being forced through the hollow shaft of the drill and out of some small holes at the cutting end, ejecting the chips from the bore as you drill.  This is crucial!  Without this air, the bore will quickly clog with chips, overheat and probably make your wood burst into flames!
 
 I did a lot of research about gun drilling, and most of the solutions were very expensive.  I was hovering on the edge of the subject, not willing to commit to expensive equipment without really knowing what I was doing when I was fortunate enough to talk with fellow flute maker Russ Wolf.  It turns out that Russ–a very creative thinker–had already solved a great many of the problems that were intimidating me, and he was extremely generous with his knowledge and assistance when I told him I wanted to drill my flutes.  He showed me his set up, which was actually quite simple and relatively inexpensive.
 
