@@ -14,7 +14,7 @@ source:             ./_jekyll
 destination:        ./_site
 
 baseurl:            ""
-url:                https://preview.ellisflutes.com
+url:                https://www.ellisflutes.com
 timezone:           America/Los_Angeles
 
 collections:
