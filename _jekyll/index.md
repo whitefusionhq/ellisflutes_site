@@ -1,5 +1,8 @@
 ---
 layout: homepage
+title: ''
+subtitle: ''
+extra_page_class: ''
 ---
 
 <div class="no-para-margin fade-on-load" markdown="1">
@@ -94,7 +97,7 @@ In addition to crafting precision musical instruments, there is a beautiful aest
 ### How to Order
 {:class='text-center'}
 
-Many of Geoffrey Ellis' available flute models can be <a href="/products">purchased from our in-stock store</a>. In addition, if the flute you're looking for isn't in stock, <a href="#" onclick="$('footer input[name=\'cm-name\']').focus();return false">you can subscribe to our newsletter</a> to get updated on new flutes in stock. If you know the type of flute you want, you can place a custom order. Due to the current waitlist for Geoffrey Ellis Flutes custom orders, expect a delivery time upwards of six months.
+Many of Geoffrey Ellis' available flute models can be <a href="/products">purchased from our in-stock store</a>. In addition, if the flute you're looking for isn't in stock, <a href="#" onclick="$('footer input[name=\'cm-name\']').focus();return false">you can subscribe to our newsletter</a> to get updated on new flutes in stock. If you know the type of flute you want, you can place a custom order. The wait time for custom orders is variable, but an estimate will be provided when the order is placed.
 
 <br/>
 [Custom Order](/custom-order){:class='button hollow white'}
