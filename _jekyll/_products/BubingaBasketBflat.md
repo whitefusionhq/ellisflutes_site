@@ -1,5 +1,5 @@
 ---
-title: Bubinga Basketmaker, Key of Bflat (for right-handed player)
+title: Bubinga Basketmaker, Key of Bflat (for right-handed player) Domestic sale only!
 categories: rim-blown
 price: 275.0
 cloudinary_ids:
@@ -15,3 +15,5 @@ weight: '450'
 Bubinga Basketmaker, Key of Bflat (right-handed).
 
 Sorry, the only sound sample available is in the key of A below.  This will give you a close idea of the sound and range of the flute, if not the exact pitch.
+
+Dut to the CITIES restrictions on certain types of woods, this flute can only be shipped within the U.S.
