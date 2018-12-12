@@ -4,7 +4,7 @@ title: The Basketmaker Flute
 subtitle: Modern day interpretations of ancient American Southwest artifacts
 extra_page_class: ''
 product_category: rim-blown
-cloudinary_id: jtqzmxltwrzexiaq8zef
+cloudinary_id: ellisflutes2018/Basketmaker
 ---
 
 The Basketmaker flute was created in collaboration with recording artist Scott August and features a thumb hole to allow for an extended scale.   The standard tuning I use is a pentatonic major scale available in the keys of F#,G, Aflat, A, Bflat and B.  There is a minor tuned version called the Mojave 6 as well, only available in the key of B which does not have a thumb hole.
