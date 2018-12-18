@@ -1,7 +1,7 @@
 ---
-layout: product_line
+layout: world_flute
 title: Irish Flutes
-subtitle: ''
+subtitle: 'High-performance keyless instruments with a diatonic major tuning'
 extra_page_class: ''
 cloudinary_id: myeslrdwqaqt8ddhqrda
 product_category: irish-flutes
