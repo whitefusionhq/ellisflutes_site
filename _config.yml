@@ -17,6 +17,8 @@ baseurl:            ""
 url:                https://www.ellisflutes.com
 timezone:           America/Los_Angeles
 
+include: [_redirects]
+
 collections:
   # Products Setup #
   products:
