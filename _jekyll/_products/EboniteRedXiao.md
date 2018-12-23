@@ -1,7 +1,7 @@
 ---
 title: 3-piece xiao, Cumberland Ebonite, Key of D (tonic G)
 categories: xiao
-price: 850.0
+price: 875.0
 cloudinary_ids:
 - ellisflutes2018/EboniteXiao2_sbrvsa
 - ellisflutes2018/EboniteXiao1_uemfdu
