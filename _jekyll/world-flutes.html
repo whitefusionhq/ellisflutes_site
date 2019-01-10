@@ -13,7 +13,7 @@ custom_ordering: |
       <div class="blue content-box" markdown="1">
         <h3><a href="{{ flute.url }}" class="no-border">{{ flute.title | smartify }}</a></h3>
 
-        <a href="{{ flute.url }}"><div class="full-width flute-image" style="background-image: url({{ flute.cloudinary_id | cloudinary_url:'a_exif,c_limit,h_4000,q_75,w_2048' }})"></div></a>
+        <a href="{{ flute.url }}"><div class="full-width flute-image" style="{% if flute.url contains 'transverse-folk' %}background-position: center top;{% endif %}background-image: url({{ flute.cloudinary_id | cloudinary_url:'a_exif,c_limit,h_4000,q_75,w_2048' }})"></div></a>
 
         <div style="min-height:5rem">
           <p>{{ flute.subtitle | smartify }}</p>
