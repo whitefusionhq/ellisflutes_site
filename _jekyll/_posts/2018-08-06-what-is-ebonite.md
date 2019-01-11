@@ -38,7 +38,7 @@ Ebonite is a pleasure to use.  It is beautiful, stable and sounds amazing.  Is i
 
 *Comparing Grenadilla and hard rubber clarinets from a pragmatic, logistical standpoint, hard rubber clarinets are consistently more stable, more uniform from clarinet to clarinet, take and hold much more precise and uniform bore dimensions, and are virtually crack-free. On the acoustical/aesthetic/performance side, well-made, well-designed, high quality hard rubber clarinets have quicker response, more even blowing resistance, better, more stable tuning, a darker, sweeter tone and are coloristically much more stable throughout the full pitch and dynamic range of the clarinet. In short, hard rubber clarinets give you the best of both worlds, satisfying the logistical needs of the manufacturer and the artistic needs of the clarinetist."*
 
-This was the article that inspired me to try ebonite in the first place, and my experiences so far coincide exactly with the observations made my Mr. Ridenour.  Ebonite is an amazing material for woodwinds.
+This was the article that inspired me to try ebonite in the first place, and my experiences so far coincide exactly with the observations made by Mr. Ridenour.  Ebonite is an amazing material for woodwinds.
 
 I also have other motivations for using it.  Now more than ever our rain forests are endangered, and many instrument makers are facing tough decisions in the face of new regulations that restrict the use of tropical timbers.  As a professional flute maker I’ve seen these new regulations impacting my fellow instrument makers and it seemed to me that the time had come to change direction.  
 
