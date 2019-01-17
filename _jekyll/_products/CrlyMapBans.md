@@ -14,10 +14,9 @@ weight: '450'
 
 Curly Maple (dyed) with African Blackwood lip plate.
 
+*For all wooden flutes, I recommend one of my Flute Care Kits.  They are only available as an add-on purchase at the time of checkout (after you have pressed the “Add to cart” button you will see the option for the care kit right along side and you have to select it from the menu). The care kit includes the recommended wax, fine steel wool and instructions for maintaining the finish on your flute.  Not for use on ebonite flutes*
+
 Listen below to the incomparable Joshua Geisler demonstrate a raga on an Ellis bansuri in E.
 
-* The African blackwood lip plate on these flutes is a rosewood and therefore falls under the CITIES index. Future bansuri will be made with polished black ebonite (natural hard rubber) lip plates.
+The African blackwood lip plate on these flutes is a rosewood and therefore falls under the CITIES index. Future bansuri will be made with polished black ebonite (natural hard rubber) lip plates.
 
-* There have been many recent changes in the CITIES regulations. The Convention on International Trade in Endangered Species (CITES) regulates trade for certain species through a system of permits between custom inspections at both ends of the supply chain. This provides extra measures to ensure that various species are protected so that international trade does not threaten their survival. Most species of Rosewood have been added to the CITIES appendix. Not all of them are endangered or even seriously threatened, but many are facing potential over-harvesting that might ultimately endanger them, so their trade is being restricted.
-
-As a result, even artisans like myself who have stockpiles of flute woods that were acquired pre-CITIES now require special permits to ship instruments made from these woods outside of the U.S. These permits are costly and cumbersome, and having them does not guarantee that the international customer will not have to negotiate certain complications on their end when it comes to receiving such woods. Therefore I am limiting sale of all rosewoods to customers within the U.S. who face no restrictions and require no permits to purchase. I have very limited stockpiles of rosewood species and I do not intend to acquire any more, even though the permit process does still allow commercial trade in these woods.
