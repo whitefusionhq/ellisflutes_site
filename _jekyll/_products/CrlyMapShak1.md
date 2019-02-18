@@ -1,7 +1,7 @@
 ---
 title: Shakuhachi, Curly Maple, 1.8 Key of D
 categories: shakuhachi
-price: 425.0
+price: 450.0
 cloudinary_ids:
 - k9wruja24rfgj75yknuw
 - kx7uiccihj2thstxmk4l
