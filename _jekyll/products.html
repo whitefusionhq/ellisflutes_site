@@ -5,27 +5,47 @@ extra_page_class: ' page product'
 ---
 
 <header id="page-title">
-
   <h1 class="text-center">Products in Stock</h1>
-
 </header>
 
-<div class="fade-on-load">
-{% assign products = site.products | where: "out_of_stock", false | sort: 'title' %}
-{% if products.size > 0 %}
-  {% for product in products %}
-    <!-- SKU: {{ product.slug }} -->
-    {% include product.html %}
-    <br/><br/>
-  {% endfor %}
-{% else %}
-  <section class="row">
-    <div id="content" class="medium-8 medium-offset-2 columns">
-      <p class="text-center">No products are currently in stock.</p>
+<div id="products-list" class="fade-on-load">
+  {% assign products = site.products | where: "out_of_stock", false | sort: 'title' | sort: 'categories' %}
 
-      <br/>
-      <p class="text-center"><a href="/custom-order">Information about custom ordering can be found here.</a></p>
+  {% if products.size > 0 %}
+    <div class="row" style="max-width:1100px">
+      <div class="column">
+        <h3 class="text-center" style="margin-bottom:2em">Filter by Category</h3>
+      </div>
     </div>
-  </section>
-{% endif %}
+    <section id="category-buttons" class="row small-up-2 medium-up-3 large-up-3" style="max-width:1100px">
+      <div class="column column-block">
+        <button class="category-option category-active"
+          onclick="$('#products-list div[data-category]').removeClass('hide');$('#category-buttons button').removeClass('category-active');$(this).addClass('category-active')">Show All</button>
+      </div>
+      {% for product in products %}
+        {% assign currentcategory = product.categories[0] %}
+        {% if currentcategory != previouscategory %}
+          <div class="column column-block">
+            <button class="category-option"
+              onclick="$('#products-list div[data-category]').addClass('hide');$('#products-list div[data-category={{ currentcategory }}]').removeClass('hide');$('#category-buttons button').removeClass('category-active');$(this).addClass('category-active')">{{ site.data.category_labels[currentcategory].title }}</button>
+          </div>
+          {% assign previouscategory = currentcategory %} 
+        {% endif %}
+      {% endfor %}
+    </section>
+
+    {% for product in products %}
+      <!-- SKU: {{ product.slug }} -->
+      {% include product.html %}
+    {% endfor %}
+  {% else %}
+    <section class="row">
+      <div id="content" class="medium-8 medium-offset-2 columns">
+        <p class="text-center">No products are currently in stock.</p>
+
+        <br/>
+        <p class="text-center"><a href="/custom-order">Information about custom ordering can be found here.</a></p>
+      </div>
+    </section>
+  {% endif %}
 </div>

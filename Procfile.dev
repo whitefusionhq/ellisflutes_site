@@ -1,2 +1,2 @@
 jekyll: jekyll serve -P 4004 -t -D --unpublished --HOST 10.0.0.50
-foundation: foundation watch
+gulp: node_modules/gulp/bin/gulp.js
