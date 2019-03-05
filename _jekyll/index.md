@@ -38,6 +38,11 @@ Check out our world flute lines [such as the Shakuhachi and Xiao…](/world-flut
 </div>
   </div>
 </div>
+<div class="blue-tag static first fade-on-load" style="background:#333">
+  <div class="responsive-embed widescreen"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/SZMR02skj6Q" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+  <h3 style="color:rgb(241, 195, 99);margin-top:1em">Ellis Flutes</h3>
+  <p>a film by Blayne Chastain</p>
+</div>
 
 <br/><br/>
 
