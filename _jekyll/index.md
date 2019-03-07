@@ -92,7 +92,7 @@ Geoffrey Ellis has been a respected maker of world flutes since 1997. He lives i
 In addition to crafting precision musical instruments, there is a beautiful aesthetic to Geoffrey’s flutes that players have come to recognize, and the _widespread appeal_ of these flutes for both casual enthusiasts and professional performers is undeniable.  When you order a flute from Geoffrey Ellis, expect to receive a high-quality, stable, and reliable instrument that will _last a lifetime_.
 
 <br/>
-[All About the Flutemaking Process](/process){: .button .hollow .white'}
+[All About the Flutemaking Process](/process){: .button .hollow .white}
 {: .text-center}
   </div>
 </div>
