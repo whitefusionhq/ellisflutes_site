@@ -49,10 +49,11 @@ Check out our world flute lines [such as the Shakuhachi and Xiao…](/world-flut
 <br/><br/>
 
 ### Stay in Touch
-{:class='text-center'}
+{: .text-center}
 
 Sign up for the <strong>Geoffrey Ellis Flutes newsletter</strong> and get notified whenever new products are in stock.
-{:class='text-center'}
+{: .text-center}
+{: style="margin-left:10px;margin-right:10px"}
 
 <form id="homepage-signup" style="max-width:250px;margin: 0 auto">
 
@@ -70,13 +71,13 @@ Sign up for the <strong>Geoffrey Ellis Flutes newsletter</strong> and get notifi
   </div>
   <div class="columns medium-6 top-padding max-text with-left-space" markdown="1">
 ### About the Maker
-{:class='text-center'}
+{: .text-center}
 
 Geoffrey Ellis has been a respected maker of world flutes since 1997. He lives in the redwood forest in _Northern California_, taking advantage of the quiet and solitude to give his full attention to his craft. His ongoing collaborations with top flautists and gifted fellow makers has resulted in an _exquisite portfolio_ of world flutes that are played by amateur and professional musicians around the globe.
 
 <br/>
-[Read Geoffrey's Biography](/about){:class='button hollow white'}
-{:class='text-center'}
+[Read Geoffrey's Biography](/about){: .button .hollow .white}
+{: .text-center}
   </div>
 </div>
 
@@ -86,13 +87,13 @@ Geoffrey Ellis has been a respected maker of world flutes since 1997. He lives i
   </div>
   <div class="columns medium-6 top-padding max-text with-right-space" markdown="1">
 ### Artisan Craftsmanship
-{:class='text-center'}
+{: .text-center}
 
 In addition to crafting precision musical instruments, there is a beautiful aesthetic to Geoffrey’s flutes that players have come to recognize, and the _widespread appeal_ of these flutes for both casual enthusiasts and professional performers is undeniable.  When you order a flute from Geoffrey Ellis, expect to receive a high-quality, stable, and reliable instrument that will _last a lifetime_.
 
 <br/>
-[All About the Flutemaking Process](/process){:class='button hollow white'}
-{:class='text-center'}
+[All About the Flutemaking Process](/process){: .button .hollow .white'}
+{: .text-center}
   </div>
 </div>
 
@@ -102,13 +103,13 @@ In addition to crafting precision musical instruments, there is a beautiful aest
   </div>
   <div class="columns medium-6 top-padding max-text with-left-space" markdown="1">
 ### How to Order
-{:class='text-center'}
+{: .text-center}
 
 Many of Geoffrey Ellis' available flute models can be <a href="/products">purchased from our in-stock store</a>. In addition, if the flute you're looking for isn't in stock, <a href="#" onclick="$('footer input[name=\'cm-name\']').focus();return false">you can subscribe to our newsletter</a> to get updated on new flutes in stock. If you know the type of flute you want, you can place a custom order. The wait time for custom orders is variable, but an estimate will be provided when the order is placed.
 
 <br/>
-[Custom Order](/custom-order){:class='button hollow white'}
-{:class='text-center'}
+[Custom Order](/custom-order){: .button .hollow .white}
+{: .text-center}
   </div>
 </div>
 
