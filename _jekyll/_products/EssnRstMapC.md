@@ -6,8 +6,8 @@ cloudinary_ids:
 - ellisflutes2018/EsRstMapC2_btay0j
 - ellisflutes2018/EsRstMapC1_abiu31
 html_embed: ''
-out_of_stock: false
-inventory: 1
+out_of_stock: true
+inventory: 0
 weight: '450'
 ---
 
