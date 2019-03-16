@@ -78,6 +78,3 @@ DEPENDENCIES
   jekyll (= 3.6.2)
   jekyll-contentblocks
   jekyll-money
-
-BUNDLED WITH
-   1.11.2
