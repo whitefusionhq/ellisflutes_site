@@ -7,7 +7,7 @@ cloudinary_ids:
 - ellisflutes2018/BocoteEssentialF2_prq4sr
 html_embed: ''
 out_of_stock: false
-inventory: 1
+inventory: 0
 weight: '450'
 ---
 
