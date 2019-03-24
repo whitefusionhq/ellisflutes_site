@@ -6,7 +6,7 @@ cloudinary_ids:
 - ellisflutes2018/BocoteEssentialF1_chj4cg
 - ellisflutes2018/BocoteEssentialF2_prq4sr
 html_embed: ''
-out_of_stock: false
+out_of_stock: true
 inventory: 0
 weight: '450'
 ---
