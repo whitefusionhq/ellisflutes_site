@@ -5,7 +5,8 @@ price: 399.0
 cloudinary_ids:
 - ellisflutes2018/EsGranC2_oftljt
 - ellisflutes2018/EsGranC1_tpwbac
-html_embed: ''
+html_embed: <iframe width="100%" height="20" scrolling="no" frameborder="no" allow="autoplay"
+  src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/597340230&color=%23ff5500&inverse=false&auto_play=false&show_user=true"></iframe>
 out_of_stock: false
 inventory: 1
 weight: '450'
@@ -15,4 +16,4 @@ Essential Flute in Granadillo, key of C.   The Essential Flute is ideal for both
 
 The finger hole spacing on the C tuning is may not be suitable for players with smaller hands.  In which case I'd recommend the keys of D, Eflat or F.  
 
-Sound sample coming soon!
+Sound sample is C flute being played in the score from the EllisFlutes micro-documentary.
