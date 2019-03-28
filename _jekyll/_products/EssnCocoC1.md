@@ -1,10 +1,10 @@
 ---
-title: NEW! The Essential Flute, Roasted Curly Maple, Key of C
+title: NEW! The Essential Flute, Cocobolo, Key of C (Domestic sale only)
 categories: transverse-folk
 price: 399.0
 cloudinary_ids:
-- ellisflutes2018/CrlyMapEssentialC1_glr3kc
-- ellisflutes2018/CrlyMapEssentialC2_l1iy5c
+- ellisflutes2018/Coco1EssentialC1_kzt8c6
+- ellisflutes2018/Coco1EssentialC2_r4qqyw
 html_embed: <iframe width="100%" height="20" scrolling="no" frameborder="no" allow="autoplay"
   src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/597340230&color=%23ff5500&inverse=false&auto_play=false&show_user=true"></iframe>
 out_of_stock: false
@@ -12,7 +12,7 @@ inventory: 1
 weight: '450'
 ---
 
-Essential Flute in lightly roasted Curly Maple, key of C.   The Essential Flute is ideal for both Celtic music and World music of all kinds. Diatonic major tuning. Featuring a tapered head bore for improved intonation and projection. Ergonomic embouchure hole placement for right-handed player.  
+Essential Flute in Cocobolo, key of C.   The Essential Flute is ideal for both Celtic music and World music of all kinds. Diatonic major tuning. Featuring a tapered head bore for improved intonation and projection. Ergonomic embouchure hole placement for right-handed player.  Due to current CITIES regulations on this wood, it is only available for shipment within the U.S.
 
 The finger hole spacing on the C tuning is may not be suitable for players with smaller hands.  In which case I'd recommend the keys of D, Eflat or F.  
 
