@@ -1,7 +1,7 @@
 ---
 title: 3-piece xiao, Curly Maple, Key of D (tonic G)
 categories: xiao
-price: 825.0
+price: 795.0
 cloudinary_ids:
 - ellisflutes2018/3PcCrlyMapXiao3_hymieo
 - ellisflutes2018/3PcCurlyMapXiao1_ximkjv

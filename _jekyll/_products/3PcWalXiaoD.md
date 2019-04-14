@@ -1,7 +1,7 @@
 ---
 title: 3-piece xiao, Curly Black Walnut, Key of D (tonic G)
 categories: xiao
-price: 825.0
+price: 795.0
 cloudinary_ids:
 - ellisflutes2018/3PcBlkWalXiao3_z4osyx
 - ellisflutes2018/3PcBlkWalXiao1_gq52bd

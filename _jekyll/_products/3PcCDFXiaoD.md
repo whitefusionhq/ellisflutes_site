@@ -1,7 +1,7 @@
 ---
 title: 3-piece xiao, Curly Douglas Fir, Key of D (tonic G)
 categories: xiao
-price: 875.0
+price: 825.0
 cloudinary_ids:
 - ellisflutes2018/3PcCDFXiao3_gethii
 - ellisflutes2018/3PcCDFXiao1_lhzgc7
