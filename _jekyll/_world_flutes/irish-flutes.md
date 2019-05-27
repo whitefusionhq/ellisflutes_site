@@ -1,7 +1,7 @@
 ---
 layout: world_flute
 title: Irish Flutes
-subtitle: 'High-performance keyless instruments with a diatonic major tuning'
+subtitle: High-performance keyless instruments with a diatonic major tuning
 extra_page_class: ''
 cloudinary_id: myeslrdwqaqt8ddhqrda
 product_category: irish-flutes
@@ -16,7 +16,7 @@ What is an Irish flute?  Well, I think wikipedia put it rather well:
 
 > The term Irish Flute refers to a conical-bore, simple-system wooden flute of the type favored by classical flautists of the early 19th century, or to a flute of modern manufacture derived from this design (often with modifications to optimize its use in Breton Traditional Music, Irish Traditional Music or Scottish Traditional Music). The vast majority of traditional flute players use a wooden, simple-system flute.
 
-These transverse flutes that are designed for ITM (Irish Traditional Music) players are based upon the antique Pratten’s Perfected, a well known 19th century flute model.   My current version is made from resin-stabilized hard maple for greater density, featuring nickel silver bore rings and a combination joint and tuning slide with a nickel silver tenon and Delrin lined socket.
+These transverse flutes that are designed for ITM (Irish Traditional Music) players are based upon the antique Pratten’s Perfected, a well known 19th century flute model.   They are made from black ebonite, a natural (non-synthetic) hard rubber valued for its stability and amazing acoustic properties, and feature nickel silver bore rings and tuning slide.  If you are unfamiliar with ebonite as a material, I recommend [reading my blog on the subject](https://www.ellisflutes.com/blog/what-is-ebonite).
 
 These are high-performance keyless instruments with a diatonic major tuning that is ideal for ITM or other types of folk music.
 
