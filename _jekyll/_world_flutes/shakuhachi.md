@@ -3,11 +3,9 @@ layout: world_flute
 title: Shakuhachi
 subtitle: A Japanese end blown flute tuned to the pentatonic minor scale
 extra_page_class: ''
+custom_ordering: 'Shakuhachi price: **$450**'
 product_category: shakuhachi
 cloudinary_id: asihfca4kagmygkqwsf6
-custom_ordering: 'Shakuhachi price: **$425**
-
-'
 ---
 
 The shakuhachi is a Japanese end blown flute that is normally made with 5 holes and tuned to the pentatonic minor scale. It originally came from China and is traditionally made of bamboo, but modern makers sometimes use plastic and hardwoods. It was used by the monks of the Fuke School of Zen Buddhism in the practice of suizen (blowing meditation).
