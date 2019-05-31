@@ -6,7 +6,7 @@ cloudinary_id: i8trx2bcxvfrnpdpwgly
 
 Ebonite is a natural hard rubber and its name comes from the fact that it was invented as a substitute for Ebony the African hardwood. The potential of this food-safe material was discovered by flute makers not long after it was patented in the 1800s. It is often used for saxophone and clarinet mouthpieces and because it is durable and not affected by moisture it has many advantages for woodwind instruments and has tone reminiscent of dense rosewoods.
 
-It is significantly more costly than wood as a material. The beautifully colored types of ebonite costs about ten times as much as African blackwood.
+It is significantly more costly than wood as a material. The beautifully colored types of ebonite costs about five times as much as African blackwood, a highly favored tonewood.
 
 Richard Rockstro (1826-1906, the famous pupil of Richard Carte) endorsed the material in the following comments:
 
