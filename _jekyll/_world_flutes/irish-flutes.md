@@ -3,7 +3,7 @@ layout: world_flute
 title: Irish Flutes
 subtitle: High-performance keyless instruments with a diatonic major tuning
 extra_page_class: ''
-cloudinary_id: myeslrdwqaqt8ddhqrda
+cloudinary_id: ellisflutes2018/IrishFlute2 
 product_category: irish-flutes
 custom_ordering: 'Irish Flutes price: **$900**
 
