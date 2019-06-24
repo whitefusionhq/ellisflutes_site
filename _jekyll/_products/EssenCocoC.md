@@ -3,12 +3,13 @@ title: NEW! The Essential Flute, Cocobolo, Key of C (Domestic sale only)
 categories: transverse-folk
 price: 399.0
 cloudinary_ids:
-- ellisflutes2018/Coco1EssentialC1_kzt8c6
-- ellisflutes2018/Coco1EssentialC2_r4qqyw
+- ellisflutes2018/EssenCocoC1_ams1s9
+- ellisflutes2018/EssenCocoC2_otkgmt
+- ellisflutes2018/EssenCocoC3_j1bb0i
 html_embed: <iframe width="100%" height="20" scrolling="no" frameborder="no" allow="autoplay"
   src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/597340230&color=%23ff5500&inverse=false&auto_play=false&show_user=true"></iframe>
-out_of_stock: true
-inventory: 0
+out_of_stock: false
+inventory: 1
 weight: '450'
 ---
 

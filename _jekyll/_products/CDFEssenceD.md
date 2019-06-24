@@ -1,7 +1,7 @@
 ---
 title: NEW! The Essential Flute, Curly Douglas Fir, Key of D
 categories: transverse-folk
-price: 399.0
+price: 425.0
 cloudinary_ids:
 - ellisflutes2018/CDFEssenD1_x5ethz
 - ellisflutes2018/CDFEssenD2_voynao
