@@ -22,7 +22,7 @@ Richard Rockstro (1826-1906, the famous pupil of Richard Carte) endorsed the mat
 
 6. **Sixthly, its appearance excels that of the finest ebony, and it generally retains its original lustre with very little attention, though sometimes it loses its extreme blackness. **
 
-Ebonite is a pleasure to use.  It is beautiful, stable and sounds amazing.  Is it a better choice than wood?  I would say that sometimes it is.  The following quote is from an excellent article written by clarinet maker Tom Ridenour ([The Grenadilla Myth](http://ridenourclarinetproducts.com/the-grenadilla-myth.html)).  He refers to ebonite as "hard rubber", which is perfectly accurate.  Natural hard rubber is what it is, and the term "ebonite" is more like a brand name that has become a convenient way to refer to it.
+Ebonite is a pleasure to use.  It is beautiful, stable and sounds amazing.  Is it a better choice than wood?  I would say that sometimes it is, though I would differ with Rockstro in describing it as "practically indestructible".  Ebonite is pretty robust, but if dropped on a hard surface or subjected to trauma it can certainly chip or break, so it is much like wood in that respect.  The following quote is from an excellent article written by clarinet maker Tom Ridenour ([The Grenadilla Myth](http://ridenourclarinetproducts.com/the-grenadilla-myth.html)).  He refers to ebonite as "hard rubber", which is perfectly accurate.  Natural hard rubber is what it is, and the term "ebonite" is more like a brand name that has become a convenient way to refer to it.
 
 *"Hard Rubber vs Grenadilla*
 
