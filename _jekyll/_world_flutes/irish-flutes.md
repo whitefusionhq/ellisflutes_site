@@ -20,14 +20,14 @@ These are high-performance keyless instruments with a diatonic major tuning that
 
 ### Options
 
-I offer these flutes with several options.  All of them feature a nickel silver tuning slide.  The base model is made with a partially lined headjoint, tuning slide, single section body and foot.
+I offer these flutes with several options.  All of them feature a nickel silver tuning slide and nickel silver bore rings.  The base model is made with a partially lined headjoint, tuning slide, single section body and foot.
 A double section body can be requested for an additional $100, and a fully lined headjoint for an additional $50.  The double section body features a joint that allows the two groups of three finger holes to be rotated out of line for easier ergonomics.
 
 For a less expensive, high-performance alternative to these flutes, consider the [Essential Flute](http://www.ellisflutes.com/world-flutes/transverse-folk), a one-piece keyless flutes that plays the same scale.
 
 ### Excellence Through Collaboration
 
-This entire line of flutes is the fruit of a collaboration with Jonathan Walpole, a professor at Portland State University who is not only an avid collector of flutes but also a gifted amateur restorer and maker in his own right.  Jon and I began working together in the Fall of 2012.  I had been developing a line of conical bore flutes for more than a year before we met, using information provided by Australian flute maker Terry McGee, but then I had the great good fortune to become acquainted with Jon and ever since he has been an invaluable ally in my quest to make a top flight Irish flute.  His attention to detail, his love of ITM and his contagious enthusiasm and curiosity have been directly responsible for the rapid evolution of this flute line.  He has shared a great deal of information and insight, has tested prototypes and provided feedback, and has brainstormed with me on almost every aspect of flute making, from design concepts and materials to the manufacture of custom tooling.
+This entire line of flutes is the fruit of a collaboration with Jonathan Walpole, former professor at Portland State University, who is not only an avid collector of flutes but also a gifted amateur restorer and maker in his own right.  Jon and I began working together in the Fall of 2012.  I had been developing a line of conical bore flutes for more than a year before we met, using information provided by Australian flute maker Terry McGee, but then I had the great good fortune to become acquainted with Jon and ever since he has been an invaluable ally in my quest to make a top flight Irish flute.  His attention to detail, his love of ITM and his contagious enthusiasm and curiosity have been directly responsible for the rapid evolution of this flute line.  He has shared a great deal of information and insight, has tested prototypes and provided feedback, and has brainstormed with me on almost every aspect of flute making, from design concepts and materials to the manufacture of custom tooling.
 
 It might say “Ellis” on the flute, but these flutes are really Ellis-Walpole creations.
 
