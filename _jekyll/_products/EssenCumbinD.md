@@ -8,7 +8,7 @@ cloudinary_ids:
 - ellisflutes2018/EssenCumbD3_wppphn
 html_embed: "<iframe width=\"100%\" height=\"20\" scrolling=\"no\" frameborder=\"no\"
   allow=\"autoplay\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/486027465&color=%23ff5500&inverse=false&auto_play=false&show_user=true\"></iframe>\r\n"
-out_of_stock: true
+out_of_stock: false
 inventory: 1
 weight: '450'
 ---
