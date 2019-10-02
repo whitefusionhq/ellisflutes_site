@@ -1,7 +1,7 @@
 ---
 title: 3-piece xiao, Green Ebonite, Key of D (tonic G)
 categories: xiao
-price: 975.0
+price: 1250.0
 cloudinary_ids:
 - ellisflutes2018/3PcGreenXiao3_mbof8l
 - ellisflutes2018/3PcGreenXiao1_grdse9
