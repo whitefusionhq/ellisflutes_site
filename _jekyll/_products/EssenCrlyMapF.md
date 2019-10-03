@@ -5,7 +5,7 @@ price: 399.0
 cloudinary_ids:
 - ellisflutes2018/CrlyMapEssenF1_e7cne3
 html_embed: ''
-out_of_stock: false
+out_of_stock: true
 inventory: 1
 weight: '450'
 ---
