@@ -1,19 +1,18 @@
 ---
-title: Shakuhachi, Curly Maple, 1.8 Key of D
+title: Curly Redwood Shakuhachi, 1.8 Key of D
 categories: shakuhachi
-price: 450.0
+price: 475.0
 cloudinary_ids:
-- k9wruja24rfgj75yknuw
-- kx7uiccihj2thstxmk4l
+- ellisflutes2018/CurlyRedShak_xcpk2p
+- ellisflutes2018/CurlyRedShak2_jx8mnk
+- ellisflutes2018/CurlyRedShak3_rkhbtt
 html_embed: <iframe width="100%" height="20" scrolling="no" frameborder="no" allow="autoplay"
   src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/192693525&color=%23ff5500&inverse=false&auto_play=false&show_user=true"></iframe>
-out_of_stock: true
-inventory: 0
+out_of_stock: false
+inventory: 1
 weight: '450'
 ---
 
-Resin-stabilized, dyed Curly Maple.
-
-Players have different weight preferences for shakuhachi. Resin-stabilized maple is on the heavier end of the spectrum (approximately 16 oz.)
+Curly Redwood Shakuhachi.  Players have different weight preferences for shakuhachi. Curly Redwood is on the light end of the spectrum (approximately 5-6 oz.)
 
 Listen to world flute master Peter Phippen improvise on Ellis shakuhachi below.
