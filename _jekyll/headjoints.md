@@ -3,11 +3,9 @@ layout: product_line
 title: The Ellis-Korb Headjoint
 subtitle: ''
 extra_page_class: ''
+custom_ordering: 'Ellis-Korb headjoint price: **$1,000**'
 cloudinary_id: fvxqknrqmhg58g855vkv
 product_category: headjoints
-custom_ordering: 'Ellis-Korb headjoint price: **$1,000**
-
-'
 ---
 
 ### For Boehm System Flutes
@@ -22,8 +20,3 @@ Theobald Boehm believed that having a wooden headjoint on his metal flutes was t
 
 Players who wish to audition new head joints face the challenge of finding something that will fit their flute properly.  To solve that difficulty Geoffrey developed a tenon-sizing system that allows any player to try a head joint regardless of the make or model of their flute, since the tenon is not permanently fitted until the head joint is purchased.
 
-### Environmental Impact
-
-Choice of materials is an important factor in making a great head joint.  As of January of 2017 the vast majority of woods that are traditionally favored for head joints have been added to the CITIES list of endangered or threatened plant species.  In the interest of environmental responsibility they made a conscious decision to move away from these tropical woods and focus on eco-friendly alternatives, including stabilized domestic woods and Ebonite—a 100% natural, food-grade hard rubber that is both beautiful and has excellent acoustic properties, as well as over 150 years of history as a much sought after flute making material.  These choices ensures a head joint that is impervious to shrinkage and potential cracking throughout it’s life.
-
-Safe, natural and ecologically responsible head joints that sound amazing and look beautiful, providing all the character of a wooden head joint without impacting our tropical forests.
