@@ -1,2 +1,2 @@
-jekyll: jekyll serve -P 4004 -t -D --unpublished --HOST 10.0.0.50
-gulp: node_modules/gulp/bin/gulp.js
+jekyll: jekyll serve -P 4004 -t -D --unpublished --HOST 192.168.0.50
+webpack: yarn dev
