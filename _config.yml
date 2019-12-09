@@ -24,9 +24,17 @@ collections:
   products:
     output: true
     permalink: /collections/:categories/products/:slug
+  ja_products:
+    output: true
+    permalink: /ja/collections/:categories/products/:slug
+    relative_directory: '_products'
   world_flutes:
     output: true
     permalink: /world-flutes/:slug
+  ja_world_flutes:
+    output: true
+    permalink: /ja/world-flutes/:slug
+    relative_directory: '_world_flutes'
 
 defaults:
   - scope:
@@ -40,11 +48,25 @@ defaults:
       type: products
     values:
       layout: product
+      lang: en
   - scope:
       path: ""
       type: world_flutes
     values:
       layout: world_flute
+      lang: en
+  - scope:
+      path: ""
+      type: ja_products
+    values:
+      layout: product
+      lang: ja
+  - scope:
+      path: ""
+      type: ja_world_flutes
+    values:
+      layout: world_flute
+      lang: ja
 
 slideshow_image_ids:
   - MixedHeadjoints_fblwql
