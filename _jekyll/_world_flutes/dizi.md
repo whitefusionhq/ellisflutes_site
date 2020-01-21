@@ -1,7 +1,7 @@
 ---
 layout: world_flute
 title: Dizi
-subtitle: Chinese flutes
+subtitle: Optimized Chinese transverse flute
 extra_page_class: ''
 product_category: dizi
 cloudinary_id: ellisflutes2018/dizicover
