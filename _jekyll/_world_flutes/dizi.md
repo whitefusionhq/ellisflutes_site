@@ -7,7 +7,7 @@ product_category: dizi
 cloudinary_id: ellisflutes2018/dizicover
 ---
 
-### Chinese Flutes
+### Optimized Chinese Transverse Flutes
 
 The Dizi is a Chinese transverse flute, traditionally made from bamboo, but occasionally from other materials including wood and even stone or jade.  The modern Dizi is a six hole instrument whose open hole scale is the diatonic major (do, re, mi).  In additon to the finger holes, there is a hole between the embouchure (blowing) hole and the finger holes called the *mo kong*.  This hole is covered with a thin membrane made from a tissue-like shaving of reed material from the inside of a bamboo stalk  and is called the *dimo*.  The player glues this dimo into place using a natural adhesive, and it is carefully wrinkled in a manner which creates a distinct type of reedy "buzz" when the flute is played.  Applying the dimo is an art unto itself, and the effect is quite unique (listen to sound sample below).  These flutes have about a two and a quarter octave range, and are equal tempered across the scale, with A=440Hz.
 
