@@ -18,6 +18,6 @@ A feast for the eyes and ears!  Gorgeous Briar ebonite xiao in the key of C (ton
 
 For players unfamiliar with ebonite, I strongly encourage you to read [my blog entry on the subject](http://ellisflutes.com/blog/what-is-ebonite).  It is a truly amazing material for woodwinds of all kinds, and it is all-natural (not plastic or synthetic).  Waterproof, stable and demonstrating superior acoustic properties.
 
-Making ebonite is as much art as science, and colored ebonite is very expensive (but worth it!).  The cost for materials alone for a flute of this size is $150, so the price of the flute reflects this.
+Making ebonite is as much art as science, and colored ebonite is very expensive (but worth it!), and the finishing process is much more labor intensive than wood.  The extra cost for materials and labor is reflected in the price of these flutes.
 
 Enjoy the talented Scott August performing an original composition on one of my xiao in C/F!
