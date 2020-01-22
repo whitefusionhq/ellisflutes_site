@@ -1,5 +1,5 @@
 ---
-title: Cherry Bansuri, Key of C (tonic G)
+title: Cherry Bansuri, Key of G (tonic C)
 categories: bansuri
 price: 350.0
 cloudinary_ids:
@@ -12,7 +12,7 @@ inventory: 1
 weight: '450'
 ---
 
-Cherry wood bansuri, Key of C, Tonic G.  The smallest bansuri I make, this is a good choice for beginners who might have trouble with the reach on a larger bansuri.
+Cherry wood bansuri, Key of G, Tonic C.  The smallest bansuri I make, this is a good choice for beginners who might have trouble with the reach on a larger bansuri.
 
 *For all wooden flutes, I recommend one of my Flute Care Kits.  They are only available as an add-on purchase at the time of checkout (after you have pressed the “Add to cart” button you will see the option for the care kit right along side and you have to select it from the menu). The care kit includes the recommended wax, fine steel wool and instructions for maintaining the finish on your flute.  Not for use on ebonite flutes.*
 
