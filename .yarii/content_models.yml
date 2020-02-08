@@ -1,0 +1,159 @@
+default: &default
+  page:
+    class_name: Page
+    order_by: title
+    order_direction: asc
+    primary_fields:
+      -
+        field_type: text
+        field_name: title
+        label: Title
+        placeholder: Untitled Page
+    additional_fields:
+      -
+        field_type: text
+        field_name: layout
+        label: Layout Template
+        placeholder: Leave blank to use the default template
+      -
+        field_type: text
+        field_name: permalink
+        label: Custom Permalink
+        placeholder: Leave blank to use the default permalink
+    content_fields:
+      -
+        field_type: markdown
+        field_name: content
+        placeholder: Page content goes here… 
+  post:
+    class_name: Post
+    primary_fields:
+      -
+        field_type: cloudinary
+        field_name: cloudinary_id
+        label: Featured Image
+      -
+        field_type: text
+        field_name: title
+        label: Title
+        placeholder: Untitled Blog Post
+      -
+        field_type: text
+        field_name: subtitle
+        label: Subtitle
+        placeholder: Description of the content below
+    additional_fields:
+      -
+        field_type: text
+        field_name: layout
+        label: Layout Template
+        placeholder: Leave blank to use the default template
+    content_fields:
+      -
+        field_type: markdown
+        field_name: content
+        placeholder: Blog post content goes here… 
+  bansuri: &product
+    order_by: get_sku
+    order_direction: asc
+    title: Bansuri
+    filter:
+      categories:
+        - bansuri
+    class_name: Product
+    primary_fields:
+      -
+        field_type: cloudinary_multiple
+        field_name: cloudinary_ids
+        label: Featured Images
+        placeholder: ""
+      -
+        field_type: sku
+        field_name: sku
+        label: SKU
+      -
+        field_type: text
+        field_name: title
+        label: Title
+        placeholder: Product name
+      -
+        field_type: text
+        field_name: price
+        label: Price
+    additional_fields:
+#      -
+#        field_type: checkbox
+#        field_name: out_of_stock
+#        label: Out of stock?
+      -
+        field_type: text
+        field_name: inventory
+        label: Inventory
+      -
+        field_type: text
+        field_name: weight
+        label: Weight
+      -
+        field_type: textarea
+        field_name: html_embed
+        label: HTML Embed
+        placeholder: For Soundcloud, etc.
+      -
+        field_type: dropdown
+        field_name: categories
+        label: Product Category
+    content_fields:
+      -
+        field_type: markdown
+        field_name: content
+        placeholder: Product description… 
+  rim-blown:
+    <<: *product
+    title: Basketmaker Flute
+    templates:
+      - DougFirBasketA.md
+    filter:
+      categories:
+        - rim-blown
+  dizi:
+    <<: *product
+    title: Dizi
+    filter:
+      categories:
+        - dizi
+  transverse-folk:
+    <<: *product
+    title: Essential Flute
+    filter:
+      categories:
+        - transverse-folk
+  irish-flutes:
+    <<: *product
+    title: Irish Flute
+    filter:
+      categories:
+        - irish-flutes
+  shakuhachi:
+    <<: *product
+    title: Shakuhachi
+    filter:
+      categories:
+        - shakuhachi
+  xiao:
+    <<: *product
+    title: Xiao
+    filter:
+      categories:
+        - xiao
+
+development:
+  <<: *default
+
+test:
+  <<: *default
+
+staging:
+  <<: *default
+
+production:
+  <<: *default
