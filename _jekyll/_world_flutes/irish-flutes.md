@@ -21,7 +21,8 @@ These are high-performance keyless instruments with a diatonic major tuning that
 ### Options
 
 I offer these flutes with several options.  All of them feature a nickel silver tuning slide and nickel silver bore rings.  The base model is made with a partially lined headjoint, tuning slide, single section body and foot.
-A double section body can be requested for an additional $100, and a fully lined headjoint for an additional $50.  The double section body features a joint that allows the two groups of three finger holes to be rotated out of line for easier ergonomics.
+A double section body can be requested for an additional $100.  The double section body features a joint that allows the two groups of three finger holes to be rotated out of line for easier ergonomics.
+Colored ebonite is offered as an option for an additional $200.
 
 For a less expensive, high-performance alternative to these flutes, consider the [Essential Flute](http://www.ellisflutes.com/world-flutes/transverse-folk), a one-piece keyless flutes that plays the same scale.
 
