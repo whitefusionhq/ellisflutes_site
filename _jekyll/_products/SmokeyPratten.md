@@ -9,7 +9,7 @@ cloudinary_ids:
 - ellisflutes2018/SmokeyPratten4_kxyzs4
 - ellisflutes2018/SmokeyPratten5_opeer0
 html_embed: ''
-out_of_stock: false
+out_of_stock: true
 inventory: 1
 weight: '450'
 ---
