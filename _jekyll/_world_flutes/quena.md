@@ -20,9 +20,6 @@ Sound sample coming soon!
 
 ### Sound Samples
 
-Quena samples...<br/><br/>
 
-<div class="callout">
-  <iframe width="100%" height="20" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/749498290&color=%23ff5500&inverse=false&auto_play=false&show_user=true"></iframe>
-</div>
+
 
