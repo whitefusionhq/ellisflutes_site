@@ -3,7 +3,7 @@ layout: product_line
 title: The Ellis-Korb Headjoint
 subtitle: ''
 extra_page_class: ''
-custom_ordering: 'Ellis-Korb headjoint price: **$1,000**'
+custom_ordering: 'Ellis-Korb headjoint price: **$1,500**'
 cloudinary_id: fvxqknrqmhg58g855vkv
 product_category: headjoints
 ---
