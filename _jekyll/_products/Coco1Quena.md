@@ -6,7 +6,7 @@ cloudinary_ids:
 - ellisflutes2018/Coco1Q1_jr2lh9
 - ellisflutes2018/Coco1Q2_jd0b7s
 html_embed: ''
-out_of_stock: false
+out_of_stock: true
 inventory: 1
 weight: '450'
 ---
