@@ -16,8 +16,8 @@ html_embed: '<iframe width="100%" height="20" scrolling="no" frameborder="no" al
   · <a href="https://soundcloud.com/earth-tone-flutes/peter-phippen-shakuhachi-improvisation-18-d"
   title="Peter Phippen Shakuhachi Improvisation 1.8 (D)" target="_blank" style="color:
   #cccccc; text-decoration: none;">Peter Phippen Shakuhachi Improvisation 1.8 (D)</a></div>'
-out_of_stock: false
-inventory: 1
+out_of_stock: true
+inventory: 0
 weight: '450'
 ---
 
