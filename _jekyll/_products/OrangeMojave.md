@@ -14,8 +14,8 @@ html_embed: '<iframe width="100%" height="20" scrolling="no" frameborder="no" al
   target="_blank" style="color: #cccccc; text-decoration: none;">Geoffrey Ellis Flutes</a>
   · <a href="https://soundcloud.com/earth-tone-flutes/mojave" title="Mojave" target="_blank"
   style="color: #cccccc; text-decoration: none;">Mojave</a></div>'
-out_of_stock: false
-inventory: 1
+out_of_stock: true
+inventory: 0
 weight: '450'
 ---
 
