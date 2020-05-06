@@ -3,12 +3,12 @@ title: Black Walnut Basketmaker, key of Bflat (for right-handed player)
 categories: rim-blown
 price: 275.0
 cloudinary_ids:
-- ellisflutes2018/CrlyBlkWalBflatBasket1_zu3qku
-- ellisflutes2018/BlkWalBasketBflat2_odlsom
+- ellisflutes2018/BlkWalBskBflat1_wko8mf
+- ellisflutes2018/BlkWalBskBflat2_ij6qxd
 html_embed: <iframe width="100%" height="20" scrolling="no" frameborder="no" allow="autoplay"
   src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/536548146&color=%23ff5500&inverse=false&auto_play=false&show_user=true"></iframe>
-out_of_stock: true
-inventory: 0
+out_of_stock: false
+inventory: 1
 weight: '450'
 ---
 
