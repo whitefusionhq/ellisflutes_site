@@ -1,0 +1,20 @@
+---
+title: Roasted Curly Maple Xiao, Key of D (tonic G)
+categories: xiao
+price: 550.0
+cloudinary_ids:
+- ellisflutes2018/RstMapXiao1_pefuwj
+- ellisflutes2018/RstMapXiao2_zt4eps
+- ellisflutes2018/RstMapXiao3_khlmcm
+html_embed: <iframe width="100%" height="20" scrolling="no" frameborder="no" allow="autoplay"
+  src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/232506958&color=%23ff5500&inverse=false&auto_play=false&show_user=true"></iframe>
+out_of_stock: false
+inventory: 1
+weight: '450'
+---
+
+Gorgeous Roasted Curly Maple xiao, Key of D (tonic G).  Roasting gives a natural, caramel color to the wood and makes it very stable as well.
+
+*For all wooden flutes, I recommend one of my Flute Care Kits.  They are only available as an add-on purchase at the time of checkout (after you have pressed the “Add to cart” button you will see the option for the care kit right along side and you have to select it from the menu). The care kit includes the recommended wax, fine steel wool and instructions for maintaining the finish on your flute.  Not for use on ebonite flutes*
+
+Enjoy the talented Scott August performing an original composition on one of my xiao in D/G!
