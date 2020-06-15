@@ -6,8 +6,8 @@ cloudinary_ids:
 - ellisflutes2018/1CocoQuena1_hqeckv
 - ellisflutes2018/1CocoQuena2_qd5lxe
 html_embed: ''
-out_of_stock: false
-inventory: 1
+out_of_stock: true
+inventory: 0
 weight: '450'
 ---
 
