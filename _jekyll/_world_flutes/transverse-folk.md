@@ -17,7 +17,7 @@ Why do I call them the Essential Flute?  They are the archetype image of that in
 
 Transverse flutes are embouchure flutes, requiring the player to create the airstream with their lips and direct it over the tone hole to create a sound. If you are new to this kind of flute, you will need to be patient with the learning process. If you already play other embouchure flutes (Silver flute, Quena, Shakuhachi, Xiao, etc.) you will find these flutes very accessible.
 
-The most common tuning that I use for these flutes is the diatonic major scale in the key of D (do-re-mi scale) which makes them an excellent choice for all types of World music, including traditional Irish music–a nice option for players who want a high performance flute without spending a lot.  I also make them in the keys of C (middle C),  Eflat and F (for players with smaller hands).
+The most common tuning that I use for these flutes is the diatonic major scale in the key of D which makes them an excellent choice for all types of World music, including traditional Irish music–a nice option for players who want a high performance flute without spending a lot.  I also make them in the keys of Bflat, C (middle C),  Eflat and F (for players with smaller hands).
 
 **NOTE:** These flutes are ergonomically set up for right-handed players (meaning players who play with the foot of the flute pointing to the right).  The embouchure hole is rotated six degrees toward the player, a common position chosen by most transverse flute players.  Left-handed versions can be custom made upon request.
 
