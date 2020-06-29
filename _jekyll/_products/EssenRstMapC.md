@@ -1,5 +1,5 @@
 ---
-title: NEW! The Essential Flute, Roasted Curly Maple, Key of C
+title: NEW! The Essential Flute v.2, Roasted Curly Maple, Key of C
 categories: transverse-folk
 price: 399.0
 cloudinary_ids:
@@ -14,6 +14,7 @@ weight: '450'
 ---
 
 Essential Flute in Roasted Curly Maple, key of C.  The roasting of the maple stabilized the wood and creates the beautiful, caramel coloring!  The Essential Flute is ideal for both Celtic music and World music of all kinds. Diatonic major tuning. Featuring a tapered head bore for improved intonation and projection. Ergonomic embouchure hole placement for right-handed player.  
+The newest version of the Essential Flute features additional enhancements for improved performance and continuity of tone.  You can read about it [HERE](https://www.ellisflutes.com/world-flutes/transverse-folk). 
 
 The finger hole spacing on the C tuning is may not be suitable for players with smaller hands.  In which case I'd recommend the keys of D, Eflat or F.  
 
