@@ -1,7 +1,7 @@
 ---
 title: Bocote Shakuhachi, 1.8 Key of D
 categories: shakuhachi
-price: 475.0
+price: 500.0
 cloudinary_ids:
 - ellisflutes2018/BocoteShak1_ig4tsr
 - ellisflutes2018/BocoteShak2_tlnh6n
@@ -13,6 +13,6 @@ inventory: 1
 weight: '450'
 ---
 
-Bocote wood Shakuhachi. Players have different weight preferences for shakuhachi. Bocote is on the heavier end of the spectrum (approximately 15 oz.)
+Bocote wood Shakuhachi, 1.8 Key of D.  Weight: 410 grams
 
 Listen to world flute master Peter Phippen improvise on Ellis shakuhachi below.

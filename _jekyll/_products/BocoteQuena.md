@@ -1,13 +1,13 @@
 ---
-title: 'NEW!  Bocote Quena, Key of G '
+title: NEW!  Bocote Quena, Key of G
 categories: quena
 price: 320.0
 cloudinary_ids:
-- ellisflutes2018/3BocoteQuena1_em4uva
-- ellisflutes2018/3BocoteQuena2_tndobt
+- ellisflutes2018/BocoteQuena1_hhgfre
+- ellisflutes2018/BocoteQuena2_okogsf
 html_embed: ''
-out_of_stock: true
-inventory: 0
+out_of_stock: false
+inventory: 1
 weight: '450'
 ---
 
