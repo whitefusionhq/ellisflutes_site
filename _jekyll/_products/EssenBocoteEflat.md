@@ -1,5 +1,5 @@
 ---
-title: NEW! The Essential Flute v.2, Bocote, Key of Eflat
+title: NEW! The Essential Flute (updated design), Bocote, Key of Eflat
 categories: transverse-folk
 price: 399.0
 cloudinary_ids:

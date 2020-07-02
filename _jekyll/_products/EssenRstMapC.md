@@ -1,5 +1,5 @@
 ---
-title: NEW! The Essential Flute v.2, Roasted Curly Maple, Key of C
+title: NEW! The Essential Flute (updated design), Roasted Curly Maple, Key of C
 categories: transverse-folk
 price: 399.0
 cloudinary_ids:

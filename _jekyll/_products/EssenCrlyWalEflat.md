@@ -1,5 +1,5 @@
 ---
-title: NEW! The Essential Flute v.2, Curly Black Walnut, Key of Eflat
+title: NEW! The Essential Flute (updated design), Curly Black Walnut, Key of Eflat
 categories: transverse-folk
 price: 399.0
 cloudinary_ids:

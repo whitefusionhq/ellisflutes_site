@@ -1,5 +1,6 @@
 ---
-title: NEW! V.2 Curly Black Walnut Essential Flute in D with tuning slide
+title: NEW!  The Essential Flute (updated design) Curly Black Walnut, key of D with
+  tuning slide
 categories: transverse-folk
 price: 499.0
 cloudinary_ids:
