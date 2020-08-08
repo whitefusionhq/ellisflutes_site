@@ -6,8 +6,8 @@ cloudinary_ids:
 - ellisflutes2018/BocoteQuena1_hhgfre
 - ellisflutes2018/BocoteQuena2_okogsf
 html_embed: ''
-out_of_stock: false
-inventory: 1
+out_of_stock: true
+inventory: 0
 weight: '450'
 ---
 
