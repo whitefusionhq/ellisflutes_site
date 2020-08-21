@@ -37,7 +37,11 @@ Shakuhachi come in various sizes and tunings, but at this time I’m only offeri
 Listen to the incomparable [Zac Zinger](http://www.zaczinger.com) performing traditional Kinko style honkyoku piece "Takiochi"
 This is a full length performance piece (18 minutes) and demonstrates the range of both the player and the flute.  Performed on one of my maple shakuhachi.<br/><br/>  
 
-<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/879684958&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/earth-tone-flutes" title="Geoffrey Ellis Flutes" target="_blank" style="color: #cccccc; text-decoration: none;">Geoffrey Ellis Flutes</a> · <a href="https://soundcloud.com/earth-tone-flutes/takiochi" title="Takiochi" target="_blank" style="color: #cccccc; text-decoration: none;">Takiochi</a></div>
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/879684958&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/earth-tone-flutes" title="Geoffrey Ellis Flutes" target="_blank" style="color: #cccccc; text-decoration: none;">Geoffrey Ellis Flutes</a> · <a href="https://soundcloud.com/earth-tone-flutes/takiochi" title="Takiochi" target="_blank" style="color: #cccccc; text-decoration:
+none;">Takiochi</a></div>
+
+<br/><br/>  
+
 
 
 Listen to World Flute virtuoso [Peter Phippen](http://www.peterphippen.com/) improvise on one of my 1.8 shakuhachi.<br/><br/>
