@@ -1,5 +1,5 @@
 ---
-title: Salvaged Old Growth Redwood Bansuir, Key of B (tonic E)
+title: Salvaged Old Growth Redwood Bansuri, Key of B (tonic E)
 categories: bansuri
 price: 350.0
 cloudinary_ids:
