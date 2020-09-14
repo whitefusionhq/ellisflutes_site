@@ -7,8 +7,8 @@ cloudinary_ids:
 - ellisflutes2018/ToffeeQuena2_gbaz36
 - ellisflutes2018/ToffeeQuena3_wvjv0p
 html_embed: ''
-out_of_stock: false
-inventory: 1
+out_of_stock: true
+inventory: 0
 weight: '450'
 ---
 
