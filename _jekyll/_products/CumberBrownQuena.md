@@ -7,8 +7,8 @@ cloudinary_ids:
 - ellisflutes2018/CumberBrownQuena2_dgv4q1
 - ellisflutes2018/CumberBrownQuena3_mmpgjz
 html_embed: ''
-out_of_stock: false
-inventory: 1
+out_of_stock: true
+inventory: 0
 weight: '450'
 ---
 
