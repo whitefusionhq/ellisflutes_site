@@ -29,6 +29,7 @@ Listen to Blayne Chastain (owner of the [Irish Flute Store](http://www.irishflut
   <iframe scrolling="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/486027465&amp;color=%23ff5500&amp;inverse=false&amp;auto_play=false&amp;show_user=true" width="100%" height="20" frameborder="no"></iframe>
   <iframe scrolling="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/486027804&amp;color=%23ff5500&amp;inverse=false&amp;auto_play=false&amp;show_user=true" width="100%" height="20" frameborder="no"></iframe>
 </div>
-
+<br/><br/>
+Blayne gives a guided video tour of the entire range of Essential Flutes!
 <br/><br/>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SpD1Om16E-c" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
