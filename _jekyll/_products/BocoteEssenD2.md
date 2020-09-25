@@ -6,8 +6,16 @@ cloudinary_ids:
 - ellisflutes2018/2BocoteEssenD1_qrohae
 - ellisflutes2018/2BocoteEssen2_wwh0oe
 - ellisflutes2018/2BocoteEssen3_uoyl9q
-html_embed: "<iframe width=\"100%\" height=\"20\" scrolling=\"no\" frameborder=\"no\"
-  allow=\"autoplay\" src=“https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/486027804&color=%23ff5500&inverse=false&auto_play=false&show_user=true\"></iframe>\r\n"
+html_embed: '<iframe width="100%" height="20" scrolling="no" frameborder="no" allow="autoplay"
+  src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/486027465&color=%23ff5500&inverse=false&auto_play=false&show_user=true"></iframe><div
+  style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow:
+  hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida
+  Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight:
+  100;"><a href="https://soundcloud.com/earth-tone-flutes" title="Geoffrey Ellis Flutes"
+  target="_blank" style="color: #cccccc; text-decoration: none;">Geoffrey Ellis Flutes</a>
+  · <a href="https://soundcloud.com/earth-tone-flutes/d-amhran-na-leabhar" title="Blayne
+  Chastain plays Amhran - Na - Leabhar Key of D" target="_blank" style="color: #cccccc;
+  text-decoration: none;">Blayne Chastain plays Amhran - Na - Leabhar Key of D</a></div>'
 out_of_stock: false
 inventory: 1
 weight: '450'
