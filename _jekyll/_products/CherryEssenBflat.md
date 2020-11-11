@@ -9,7 +9,7 @@ cloudinary_ids:
 html_embed: <iframe width="560" height="315" src="https://www.youtube.com/embed/SpD1Om16E-c"
   frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
   allowfullscreen></iframe>
-out_of_stock: true
+out_of_stock: false
 inventory: 1
 weight: '450'
 ---
