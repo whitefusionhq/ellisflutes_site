@@ -6,8 +6,8 @@ cloudinary_ids:
 - ellisflutes2018/RstQuena1_eqopc6
 - ellisflutes2018/RstQuena2_s9xzhe
 html_embed: ''
-out_of_stock: false
-inventory: 1
+out_of_stock: true
+inventory: 0
 weight: '450'
 ---
 
