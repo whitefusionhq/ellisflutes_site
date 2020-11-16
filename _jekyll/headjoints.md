@@ -4,7 +4,7 @@ lang: en
 title: The Ellis-Korb Headjoint
 subtitle: ''
 extra_page_class: ''
-custom_ordering: 'Ellis-Korb headjoint price: **$1,000**'
+custom_ordering: 'Ellis-Korb headjoint price: **$1,500**'
 cloudinary_id: fvxqknrqmhg58g855vkv
 product_category: headjoints
 ---
@@ -19,5 +19,5 @@ Theobald Boehm believed that having a wooden headjoint on his metal flutes was t
 
 ### Fitting Your Flute
 
-Players who wish to audition new head joints face the challenge of finding something that will fit their flute properly.  To solve that difficulty Geoffrey developed a tenon-sizing system that allows any player to try a head joint regardless of the make or model of their flute, since the tenon is not permanently fitted until the head joint is purchased.
+Players who wish to audition new head joints face the challenge of finding something that will fit their flute properly.  To solve that difficulty Geoffrey developed a tenon system that allows any player to try a head joint regardless of the make or model of their flute, since the headjoint is equiped with a threaded socket.  Tenons are also threaded to match, allowing a player to try a variety of different sizes to achieve the closest fit.
 
