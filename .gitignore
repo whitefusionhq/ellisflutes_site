@@ -1,11 +1,35 @@
-.DS_Store
-bower_components
+# Bridgetown
+output
+.bridgetown-cache
+.bridgetown-metadata
+.bridgetown-webpack
+
+# Dependency folders
 node_modules
-npm-debug.log
-_site
-previewbuild.log
-_jekyll/css/all.css
-_jekyll/css/all.css.map
-_jekyll/js/all.js
-_jekyll/js/all.js.map
-_jekyll/.jekyll-cache
+bower_components
+vendor
+
+# Caches
+.sass-cache
+.npm
+.node_repl_history
+
+# Ignore bundler config.
+/.bundle
+
+# Ignore Byebug command history file.
+.byebug_history
+
+# dotenv environment variables file
+.env
+
+# Mac files
+.DS_Store
+
+# Yarn
+yarn-error.log
+yarn-debug.log*
+.pnp/
+.pnp.js
+# Yarn Integrity file
+.yarn-integrity

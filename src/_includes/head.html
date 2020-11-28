@@ -3,7 +3,7 @@
   {% capture page_title %}{{ page.title }}{% endcapture %}
   <title>{% if page_title != "" %}{{ page_title | escape }} | {{ site.title | escape }}{% else %}{{ site.title | escape }} | {{ site.tagline | escape }}{% endif %}</title>
 
-  <meta name="description" content="{{ site.site_description }}" />
+  <meta name="description" content="{{ site.tagline }}" />
 
   <!--[if lt IE 9]>
     <script src="/js/html5shiv.js"></script>
@@ -19,11 +19,11 @@
   <link type="text/css" rel="stylesheet" href="//fast.fonts.net/cssapi/0bfbb00e-91ae-4180-a81f-96945db3b1aa.css"/>
 
   <link href="https://cdn.snipcart.com/themes/2.0/base/snipcart.min.css" rel="stylesheet" type="text/css" />
-  <link rel="stylesheet" href="{{ site.baseurl }}/css/all.css" />
+  <link rel="stylesheet" href="{% webpack_path css %}" />
   <link rel="stylesheet" href="{{ site.baseurl }}/css/fa/font-awesome.min.css" />
 
   <script src="/js/jquery.min.js"></script>
-  {% if jekyll.environment == "production" %}
+  {% if bridgetown.environment == "production" %}
     <script
       src="https://cdn.snipcart.com/scripts/2.0/snipcart.js"
       data-api-key="YjNmOThiNWQtNzQ1Yi00Njg1LTlkMDAtZGJkMjI3ZDg4ZDg3NjM2NzE4ODE0MjU4MDQ4Nzk4"
@@ -44,5 +44,4 @@
   {% endif %}
   
   <script src="{{ site.baseurl }}/js/modernizr.custom.js"></script>
-  <script src="{{ site.baseurl }}/js/all.js"></script>  
-
+  <script src="{% webpack_path js %}" defer></script>

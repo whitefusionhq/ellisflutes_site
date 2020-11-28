@@ -1,40 +1,30 @@
 title: Geoffrey Ellis Flutes
 tagline: Contemporary World Flute Store
 
-# Dependencies
-markdown:           kramdown
-#Syntax Highlighter
-#highlighter:        pygments
-
-# Permalinks
 permalink:          pretty
-
-# Server
-source:             ./_jekyll
-destination:        ./_site
 
 baseurl:            ""
 url:                https://www.ellisflutes.com
 timezone:           America/Los_Angeles
 
-include: [_redirects]
+#include: [_redirects]
 
 collections:
   # Products Setup #
   products:
     output: true
     permalink: /collections/:categories/products/:slug
-  ja_products:
-    output: true
-    permalink: /ja/collections/:categories/products/:slug
-    relative_directory: '_products'
+#  ja_products:
+#    output: true
+#    permalink: /ja/collections/:categories/products/:slug
+#    relative_directory: '_products'
   world_flutes:
     output: true
     permalink: /world-flutes/:slug
-  ja_world_flutes:
-    output: true
-    permalink: /ja/world-flutes/:slug
-    relative_directory: '_world_flutes'
+#  ja_world_flutes:
+#    output: true
+#    permalink: /ja/world-flutes/:slug
+#    relative_directory: '_world_flutes'
 
 defaults:
   - scope:
