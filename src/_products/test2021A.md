@@ -6,7 +6,7 @@ published: true
 price: '5.00'
 cloudinary_ids:
 - ellisflutes2018/CumbHeadjoint2_g5gtqk
-inventory: 3
+inventory: 2
 ---
 
 This is a five dollar product. Woo hoo!
