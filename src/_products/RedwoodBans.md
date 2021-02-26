@@ -16,8 +16,8 @@ html_embed: '<iframe width="100%" height="20" scrolling="no" frameborder="no" al
   · <a href="https://soundcloud.com/earth-tone-flutes/joshua-geisler-plays-raga-yaman-b-e"
   title="Joshua Geisler plays Raga Yaman in B/E" target="_blank" style="color: #cccccc;
   text-decoration: none;">Joshua Geisler plays Raga Yaman in B/E</a></div>'
-out_of_stock: false
-inventory: 1
+out_of_stock: true
+inventory: 0
 weight: '450'
 ---
 
