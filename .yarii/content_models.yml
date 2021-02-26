@@ -133,6 +133,12 @@ default: &default
     filter:
       categories:
         - irish-flutes
+  quena:
+    <<: *product
+    title: Quena
+    filter:
+      categories:
+        - quena
   shakuhachi:
     <<: *product
     title: Shakuhachi
