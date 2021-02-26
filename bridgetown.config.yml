@@ -4,7 +4,7 @@ tagline: Contemporary World Flute Store
 permalink:          pretty
 
 baseurl:            ""
-url:                https://www.ellisflutes.com
+url:                https://ellisflutes2021.netlify.app
 timezone:           America/Los_Angeles
 
 #include: [_redirects]
