@@ -7,8 +7,8 @@ cloudinary_ids:
 - ellisflutes2018/GreenQuena2_dmdwjv
 - ellisflutes2018/GreenQuena3_qynftk
 html_embed: ''
-out_of_stock: false
-inventory: 1
+out_of_stock: true
+inventory: 0
 weight: '450'
 ---
 
