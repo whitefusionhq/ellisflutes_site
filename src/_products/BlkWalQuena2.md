@@ -6,8 +6,8 @@ cloudinary_ids:
 - ellisflutes2018/BlkWal1Q1_jblc7e
 - ellisflutes2018/BlkWal2Q2_ylay6s
 html_embed: ''
-out_of_stock: false
-inventory: 1
+out_of_stock: true
+inventory: 0
 weight: '450'
 ---
 
