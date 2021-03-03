@@ -52,7 +52,45 @@ default: &default
       -
         field_type: markdown
         field_name: content
-        placeholder: Blog post content goes here… 
+        placeholder: Blog post content goes here…
+  world_flutes:
+    order_by: title
+    order_direction: asc
+    class_name: WorldFlute
+    primary_fields:
+      -
+        field_type: cloudinary
+        field_name: cloudinary_id
+        label: Featured Image
+      -
+        field_type: dropdown
+        field_name: product_category
+        label: Product Category
+      -
+        field_type: text
+        field_name: title
+        label: Title
+        placeholder: Untitled Flute Page
+      -
+        field_type: text
+        field_name: subtitle
+        label: Subtitle
+        placeholder: Description of the content below
+    additional_fields:
+      -
+        field_type: text
+        field_name: layout
+        label: Layout Template
+        placeholder: Leave blank to use the default template
+    content_fields:
+      -
+        field_type: markdown
+        field_name: content
+        placeholder: Flute page content goes here…
+      -
+        field_type: markdown
+        field_name: custom_ordering
+        placeholder: Any additional custom ordering info…
   bansuri: &product
     order_by: get_sku
     order_direction: asc
