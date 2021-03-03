@@ -24,7 +24,8 @@
       {{ content }}
     </div>
 
-    <br/><br/>
+    <!-- disabled -->
+    {% if 1 == 2 %}
     {% assign products = site.products | where: "categories", page.product_category %}
     {% if products.size > 0 %}
       <hr />
@@ -37,6 +38,9 @@
         {% include product.html %}
       {% endfor %}
     {% endif %}
+    {% endif %}
+
+    <p class="text-center" style="margin: 3rem 0"><a href="/products" class="button large"><i class="fa fa-shopping-cart"></i> Shop for In-Stock Flutes</a></p>
 
     {% if page.custom_ordering %}
       <hr />
