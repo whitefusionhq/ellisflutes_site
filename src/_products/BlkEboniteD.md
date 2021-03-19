@@ -3,7 +3,7 @@ title: NEW! The Essential Flute (updated design), Black Ebonite, Key of D
 date: '2021-03-19T18:14:10+00:00'
 categories: transverse-folk
 published: true
-price: 499
+price: 450
 cloudinary_ids:
 - ellisflutes2018/BlkEboniteD1_irrbte
 - ellisflutes2018/BlkEboniteD2_h4yyft
