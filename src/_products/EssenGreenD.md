@@ -4,10 +4,10 @@ categories: transverse-folk
 published: true
 price: '499.0'
 cloudinary_ids:
-- ellisflutes2018/EssenGreenD1_j2rzq6
-- ellisflutes2018/EssenGreenD2_uqzowe
-- ellisflutes2018/EssenGreenD3_gxrajf
-- ellisflutes2018/1GreenEboniteD4_ihqclb
+- ellisflutes2018/1GreenEboniteD1_jciwlb
+- ellisflutes2018/1GreenEboniteD2_qscvoq
+- ellisflutes2018/1GreenEboniteD3_jmdqr7
+- ellisflutes2018/1GreenEboniteD4_ifjigk
 html_embed: "<iframe width=\"100%\" height=\"20\" scrolling=\"no\" frameborder=\"no\"
   allow=\"autoplay\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/486027465&color=%23ff5500&inverse=false&auto_play=false&show_user=true\"></iframe>\r\n"
 out_of_stock: false
