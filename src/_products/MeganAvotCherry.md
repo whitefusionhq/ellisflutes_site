@@ -11,8 +11,8 @@ cloudinary_ids:
 html_embed: <iframe width="560" height="315" src="https://www.youtube.com/embed/UK83tmoxwbk"
   title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
   encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-out_of_stock: false
-inventory: 1
+out_of_stock: true
+inventory: 0
 weight: 450
 ---
 
