@@ -4,7 +4,7 @@
   <head>
     {% include head.html %}
   </head>
-  <body class="{{ page.layout }}{{ page.extra_page_class }}">
+  <body class="{{ page.layout }}{{ page.extra_page_class }}" data-api-url="{{ site.api_url }}">
     {% include header.html %}
 
     {{ content }}

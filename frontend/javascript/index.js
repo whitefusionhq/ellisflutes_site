@@ -1,6 +1,7 @@
 import '../styles/index.scss'
 import Foundation from 'foundation-sites'
 import scrollEffect from './scrollEffect.js'
+import "./checkProductStock"
 
 scrollEffect()
 
@@ -24,11 +25,40 @@ $(document).ready(function() {
 Snipcart.subscribe('cart.ready', function (data) {
   updateCartCount();
 });
+
+let justAddedItem = false
+let cartOpened = false
+
 Snipcart.subscribe('item.added', function (item) {
   updateCartCount();
+  lockItemOnBackend(item)
+
+  if (cartOpened && !document.querySelector("#product-lockout-notice")) {
+    setTimeout(() => {
+      addLockoutMessage()
+    }, 50)
+  } else {
+    justAddedItem = true
+  }
 });
+
+Snipcart.subscribe('cart.opened', function() {
+  cartOpened = true
+  if (justAddedItem && !document.querySelector("#product-lockout-notice")) {
+    addLockoutMessage()
+  }
+  justAddedItem = false
+})
+Snipcart.subscribe('cart.closed', function() {
+  cartOpened = false
+  if (document.querySelector("#product-lockout-notice")) {
+    document.querySelector("#product-lockout-notice").remove()
+  }
+});
+
 Snipcart.subscribe('item.removed', function (item) {
   updateCartCount();
+  unlockItemOnBackend(item)
 });
 Snipcart.subscribe('order.completed', function (data) {
   $('nav#menu .item-count').text('').addClass('empty');
@@ -41,6 +71,28 @@ function updateCartCount() {
   } else {
     $('nav#menu .item-count').text('').addClass('empty');
   }
+}
+
+function addLockoutMessage() {
+  const el = document.createElement("p")
+  el.id = "product-lockout-notice"
+  el.style.color = "#333"
+  el.innerHTML = `<strong style="color:red">!!</strong> You have a 7 minute lock on the product you just added to your cart. If you don't checkout within that time, the product will be made available for purchase to the public once more.`
+  document.querySelector("#snipcart-actions").append(el)
+}
+
+function lockItemOnBackend(item) {
+  const apiUrl = document.body.dataset.apiUrl
+  $.post(`${apiUrl}/lock_product`, { 
+    sku: item.id
+  })
+}
+
+function unlockItemOnBackend(item) {
+  const apiUrl = document.body.dataset.apiUrl
+  $.post(`${apiUrl}/unlock_product`, { 
+    sku: item.id
+  })
 }
 
 /*!
