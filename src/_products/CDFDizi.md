@@ -1,7 +1,8 @@
 ---
 title: NEW! Curly Douglas Fir Optimized Chinese Dizi, Key of D
 categories: dizi
-price: 825.0
+published: false
+price: '825.0'
 cloudinary_ids:
 - ellisflutes2018/CDFDizi1_cklbup
 - ellisflutes2018/CDFDizi2_sv38lu
@@ -10,7 +11,7 @@ html_embed: <iframe width="100%" height="20" scrolling="no" frameborder="no" all
   src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/749498290&color=%23ff5500&inverse=false&auto_play=false&show_user=true"></iframe>
 out_of_stock: false
 inventory: 1
-weight: '450'
+weight: 450
 ---
 
 Gorgeous Curly Douglas Fir Dizi, key of D.  Comes with dimo membrane and adhesive.
