@@ -1,10 +1,11 @@
 ---
-layout: world_flute
 title: Dizi
 subtitle: Optimized Chinese transverse flute
-extra_page_class: ''
+published: false
 product_category: dizi
 cloudinary_id: ellisflutes2018/dizicover
+layout: world_flute
+extra_page_class: ''
 ---
 
 ### Optimized Chinese Transverse Flutes
