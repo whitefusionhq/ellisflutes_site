@@ -19,8 +19,8 @@ html_embed: '<iframe width="100%" height="20" scrolling="no" frameborder="no" al
   · <a href="https://soundcloud.com/earth-tone-flutes/d-amhran-na-leabhar" title="Blayne
   Chastain plays Amhran - Na - Leabhar Key of D" target="_blank" style="color: #cccccc;
   text-decoration: none;">Blayne Chastain plays Amhran - Na - Leabhar Key of D</a></div>'
-out_of_stock: true
-inventory: 0
+out_of_stock: false
+inventory: 1
 weight: 450
 ---
 
