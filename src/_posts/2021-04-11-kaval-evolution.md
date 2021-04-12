@@ -1,6 +1,7 @@
 ---
 date: '2021-04-11T14:40:45+00:00'
-published: false
+published: true
+cloudinary_id: ellisflutes2018/DSC_0204_uthwgp
 title: Kaval Evolution
 subtitle: A collaboration of creation!
 ---
