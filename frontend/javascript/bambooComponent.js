@@ -128,8 +128,10 @@ class BambooSlideshow extends HTMLElement {
     const timeout = parseInt(this.getAttribute("timeout") || 10000)
 
     const container = this.shadowRoot.querySelector("bamboo-container")
-    const slides = this.querySelector(".slides")
+    const slides = this.querySelector("bamboo-slides")
     container.append(slides)
+
+    slides.classList.add("slides")
     slides.part.add("slides")
     Array.prototype.map.call(slides.childNodes, (slide) => {
       if (slide.localName == "bamboo-slide") {
