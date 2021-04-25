@@ -1,6 +1,7 @@
 import '../styles/index.scss'
 import Foundation from 'foundation-sites'
 import scrollEffect from './scrollEffect.js'
+import "./bambooComponent.js"
 
 scrollEffect()
 
