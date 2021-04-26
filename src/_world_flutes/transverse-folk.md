@@ -1,15 +1,16 @@
 ---
-layout: world_flute
 title: The Essential Flute
 subtitle: A versatile flute for all types of world music including traditional Irish
-extra_page_class: ''
+published: true
 product_category: transverse-folk
 cloudinary_id: ellisflutes2018/EssentialGroup
+layout: world_flute
+extra_page_class: ''
 ---
 
 The transverse flute is one of the most recognizable types of flutes in the world, and the silver, orchestral flute is the icon most people imagine when you say the word “flute”. However, transverse wooden and bamboo “folk” flutes come in all shapes and sizes and they have their own wonderful character. Using wood allows for a wide variety of visual styles as well as the ability to bring more control and consistency to the design, when compared to a material such as bamboo.
 
-I’ve spent many years doing a lot of intensive research and development to perfect a deceptively simple looking one-piece flute that has the performance characteristics of a much more expensive instrument (I suggest reading my blog "[The Flute That Changed Everything](http://ellisflutes.com/blog/the-flute-that-changed-everything)").  It has been quite a journey and I’ve made many dozens of prototypes in my quest for the perfect one-piece transverse flute, but at last I succeeded.  These flutes have a cylindrical body but the head of the flute has a parabolic taper of the type used for silver flutes.  This taper in the bore increases power and projection as well as balancing the tuning of the two octaves, turning this unassuming flute into something more.
+I’ve spent many years doing a lot of intensive research and development to perfect a deceptively simple looking one-piece flute that has the performance characteristics of a much more expensive instrument (I suggest reading my blog "[The Flute That Changed Everything](http://ellisflutes.com/blog/the-flute-that-changed-everything)").  It has been quite a journey and I’ve made many dozens of prototypes in my quest for the perfect one-piece transverse flute, but at last I succeeded.  These flutes have a cylindrical body but the head of the flute has a parabolic taper of the type used for silver flutes.  This taper in the bore increases power and projection as well as balancing the tuning of the two octaves, turning this unassuming flute into something more.  **NOTE:  On some of the keys an optional tuning slide can be added.**
 
 **UPDATE: As of June of 2020, I have released an enhanced design of the Essential Flute.  This new version of the Essential Flute has been improved yet again by the addition of a choke point in the flute bore.  This bore manipulation has created a delightful feel of compression in the flute, very much akin to the conical bore flutes favored by many players in the "trad" (Irish Traditional Music) world.  An added bonus is that it allows for the widening of the lowest finger hole (always the weakest note on any open hole flute), bringing greater strength of tone to match the rest of the scale.**
 
