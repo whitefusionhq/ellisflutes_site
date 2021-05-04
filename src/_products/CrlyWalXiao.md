@@ -1,7 +1,8 @@
 ---
 title: Curly Walnut Xiao, Key of C (tonic F)
 categories: xiao
-price: 550.0
+published: true
+price: '550.0'
 cloudinary_ids:
 - ellisflutes2018/CrlyWalXiao1_g7g5wu
 - ellisflutes2018/CrlyWalXiao2_gu3bue
@@ -30,7 +31,7 @@ html_embed: "<iframe width=\"100%\" height=\"166\" scrolling=\"no\" frameborder=
   performed by Connor Keene</a></div>"
 out_of_stock: false
 inventory: 1
-weight: '450'
+weight: 450
 ---
 
 Beautiful Curly Black Wanut xiao, Key of C (tonic F) with black ebonite mouthpiece.

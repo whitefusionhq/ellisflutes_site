@@ -6,19 +6,14 @@ subtitle: ''
 extra_page_class: ''
 ---
 
-<div class="no-para-margin fade-on-load" markdown="1">
-
-<div class="slideshow-container">
-
-<div id="cycler">
-{% for slideshow_image_id in site.slideshow_image_ids %}
-  <figure {% if forloop.index0 == 0 %}class="base" {% endif %}style="background-image:url({{ slideshow_image_id | cloudinary_url:'w_2048,h_4000,c_limit,a_exif,q_75' }})"></figure>
-{% endfor %}
-</div>
-
-</div>
-
-<!-- ![Boehm Head Joints](/assets/MixedHeadjoints.jpg) -->
+<div class="no-para-margin fade-on-load">
+  <bamboo-slideshow speed="1500" timeout="4500">
+    <bamboo-slides>
+      {% for slideshow_image_id in site.slideshow_image_ids %}
+        <bamboo-slide style="background-image:url({{ slideshow_image_id | cloudinary_url:'w_2048,h_4000,c_limit,a_exif,q_75' }})"></bamboo-slide>
+      {% endfor %}
+    </bamboo-slides>
+  </bamboo-slideshow>
 </div>
 
 <div class="blue-tag static first fade-on-load" markdown="1">
@@ -114,21 +109,3 @@ Many of Geoffrey Ellis' available flute models can be <a href="/products">purcha
   </div>
 </div>
 
-<script type="text/javascript">
-function cycleImages(){
-      var $active = $('#cycler .active');
-      var $next = ($active.next().not('.base').length > 0) ? $active.next().not('.base') : $('#cycler figure').not('.base').first();
-      $next.css('z-index',2);//move the next image up the pile
-      $active.fadeOut(1500,function(){//fade out the top image
-	      $active.css('z-index',1).show().removeClass('active');//reset the z-index and unhide the image
-          $next.css('z-index',3).addClass('active');//make the next image the top one
-      });
-    }
-
-$(document).ready(function(){
-$('#cycler figure.base').clone().prependTo('#cycler');
-$('#cycler figure.base').last().removeClass('base').addClass('active');
-$('#cycler figure').show();
-// run every 6s
-setInterval('cycleImages()', 6000);
-})</script>

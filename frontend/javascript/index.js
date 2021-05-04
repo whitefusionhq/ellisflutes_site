@@ -2,6 +2,7 @@ import '../styles/index.scss'
 import Foundation from 'foundation-sites'
 import scrollEffect from './scrollEffect.js'
 import "./checkProductStock"
+import "./bambooComponent.js"
 
 scrollEffect()
 

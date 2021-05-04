@@ -1,7 +1,8 @@
 ---
 title: NEW! Sunset Ebonite Optimized Chinese Dizi, Key of D
 categories: dizi
-price: 1100.0
+published: false
+price: '1100.0'
 cloudinary_ids:
 - ellisflutes2018/SunsetEbDizi1_wpmcby
 - ellisflutes2018/SunsetEbDizi2_zf5qib
@@ -10,7 +11,7 @@ html_embed: "<iframe width=\"100%\" height=\"20\" scrolling=\"no\" frameborder=\
   allow=\"autoplay\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/749498290&color=%23ff5500&inverse=false&auto_play=false&show_user=true\"></iframe>\r\n"
 out_of_stock: false
 inventory: 1
-weight: '450'
+weight: 450
 ---
 
 Unique "Suunset" ebonite Dizi, Key of D.  This is a unique, one-of-a-kind ebonite formula (cannot be repeated).  Comes with membrane material and adhesive.  
