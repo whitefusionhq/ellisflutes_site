@@ -1,13 +1,11 @@
 title: Geoffrey Ellis Flutes
 tagline: Contemporary World Flute Store
 
-permalink:          pretty
+permalink: pretty
 
-baseurl:            ""
-url:                https://www.ellisflutes.com
-timezone:           America/Los_Angeles
-
-#include: [_redirects]
+url: https://www.ellisflutes.com
+api_url: https://admin-beta.ellisflutes.com
+timezone: America/Los_Angeles
 
 collections:
   # Products Setup #

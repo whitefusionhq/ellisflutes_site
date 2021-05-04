@@ -15,24 +15,31 @@
       <h4>{{ product.price | times:100 | money }}
 
         {% unless product.out_of_stock %}
-          {% for cloudinary_id in product.cloudinary_ids limit:1 %}
-            {% capture thumbnail %}{{ cloudinary_id | cloudinary_url:'a_exif,c_limit,h_100,q_75,w_100' }}{% endcapture %}
-          {% endfor %}
-          <button
-          class="snipcart-add-item button large"
-          data-item-id="{{ product.slug }}"
-          data-item-name="{{ product.title }}"
-          data-item-price="{{ product.price }}"
-          data-item-url="{{ site.url }}{{ product.url }}"
-          data-item-max-quantity="1"
-          data-item-custom1-name="Flute Care Pack"
-          data-item-custom1-options="Not Included|Included +$10[+10.00]"
-          {% if product.weight %}
-          data-item-weight="{{ product.weight }}"
-          {% endif %}
-          data-item-image="{{ thumbnail }}">
-            <i class="fa fa-shopping-cart" aria-hidden="true"></i> Add to Cart
-          </button>
+          <check-product-stock sku="{{ product.slug }}">
+            {% for cloudinary_id in product.cloudinary_ids limit:1 %}
+              {% capture thumbnail %}{{ cloudinary_id | cloudinary_url:'a_exif,c_limit,h_100,q_75,w_100' }}{% endcapture %}
+            {% endfor %}
+            <button
+            class="snipcart-add-item button large"
+            data-item-id="{{ product.slug }}"
+            data-item-name="{{ product.title }}"
+            data-item-price="{{ product.price }}"
+            data-item-url="{{ site.url }}{{ product.url }}"
+            data-item-max-quantity="1"
+            data-item-custom1-name="Flute Care Pack"
+            data-item-custom1-options="Not Included|Included +$10[+10.00]"
+            {% if product.weight %}
+            data-item-weight="{{ product.weight }}"
+            {% endif %}
+            data-item-image="{{ thumbnail }}">
+              <i class="fa fa-shopping-cart" aria-hidden="true"></i> Add to Cart
+            </button>
+
+            <span slot="locked" style="font-size: 0.9em;opacity: 0.65">
+              <em>(temporarily unavailable)</em><br/>
+              <small>Check back in a few minutes to see if it's still in stock</small>
+            </span>
+          </check-product-stock>
         {% else %}
           <em style="font-size: 0.9em;opacity: 0.65">(out of stock)</em>
         {% endunless %}
