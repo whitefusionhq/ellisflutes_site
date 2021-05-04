@@ -32,6 +32,7 @@
 .snip-layout .snip-btn--highlight {
   background: get-color(primary);
   color: white;
+  margin-bottom: 10px;
 }
 .snip-layout .snip-btn--highlight:hover {
   background-color: $body-font-color;

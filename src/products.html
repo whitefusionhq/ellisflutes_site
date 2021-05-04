@@ -10,7 +10,7 @@ extra_page_class: ' page product'
 </header>
 
 <div id="products-list" class="fade-on-load">
-  {% assign products = site.products | where: "out_of_stock", false | sort: 'title' | sort: 'categories' %}
+  {% assign products = site.products | sort: 'title' | sort: 'categories' %}
 
   {% if products.size > 0 %}
     <div class="row" style="max-width:1100px">
