@@ -1,8 +1,8 @@
 ---
 layout: homepage
-lang: en
-title: ''
+published: true
 subtitle: ''
+lang: en
 extra_page_class: ''
 ---
 
@@ -17,7 +17,7 @@ extra_page_class: ''
 </div>
 
 <div class="blue-tag static first fade-on-load" markdown="1">
-Our Boehm Head Joints are now ready for order! [Here are all the details…](/headjoints)
+New and unique flutes are added to the store on a regular basis. [Time to go shopping…](/products)
 </div>
 
 <div class="row no-para-margin fade-on-load">

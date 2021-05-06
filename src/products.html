@@ -1,8 +1,9 @@
 ---
+layout: default
+published: true
 title: Store
 lang: en
-layout: default
-extra_page_class: ' page product'
+extra_page_class: " page product"
 ---
 
 <header id="page-title">
@@ -34,6 +35,13 @@ extra_page_class: ' page product'
         {% endif %}
       {% endfor %}
     </section>
+	
+	  <section class="row">
+      <div id="content" class="medium-8 medium-offset-2 columns">
+        <p class="text-center">Can't find what you're looking for? <a href="#" onclick="$('footer input[name=\'cm-name\']').focus();return false">Sign up for the Geoffrey Ellis Flutes mailing list</a> to get notified when stock is added to the online store. Or <a href="/custom-order/">place a custom order</a> to receive a one-of-a-kind instrument made just for you.</p>
+				<br/><br/>
+		  </div>
+	  </section>
 
     {% for product in products %}
       <!-- SKU: {{ product.slug }} -->
