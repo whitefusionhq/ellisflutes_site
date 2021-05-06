@@ -1,8 +1,9 @@
 ---
 layout: product_line
-lang: en
+published: true
 title: The Ellis-Korb Headjoint
 subtitle: ''
+lang: en
 extra_page_class: ''
 custom_ordering: 'Ellis-Korb headjoint price: **$1,500**'
 cloudinary_id: fvxqknrqmhg58g855vkv
@@ -10,6 +11,8 @@ product_category: headjoints
 ---
 
 ### For Boehm System Flutes
+
+(NOTE: I'm not currently accepting custom orders for headjoints)
 
 The Ellis-Korb headjoint is the result of a unique and fruitful collaboration between Geoffrey Ellis and flute specialist [Ron Korb](http://www.ronkorb.com). The story began in 2011 when the original idea was simply to make a new design for Ron’s own personal use.  Once they were a few years into the process they realized that they were developing something special that needed to be shared with other flute players.  The process took years of research and experimentation in what became a search for the “holy grail” of wooden headjoints.  
 
