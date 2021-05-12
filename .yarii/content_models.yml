@@ -165,6 +165,12 @@ default: &default
     filter:
       categories:
         - transverse-folk
+  headjoints:
+    <<: *product
+    title: Headjoint
+    filter:
+      categories:
+        - headjoints
   irish-flutes:
     <<: *product
     title: Irish Flute
