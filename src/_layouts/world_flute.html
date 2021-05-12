@@ -2,10 +2,10 @@
 <!--[if IE 9]><html class="lt-ie10" lang="en" > <![endif]-->
 <html lang="en">
   <head>
-    {% include head.html %}
+    {% render "head", site: site, page: page, bridgetown: bridgetown %}
   </head>
   <body class="{{ page.layout }}{{ page.extra_page_class }} spaced-footer">
-    {% include header.html %}
+    {% render "header" %}
 
     <header id="page-title">
 
@@ -35,14 +35,14 @@
 
       {% for product in products %}
         <!-- SKU: {{ product.slug }} -->
-        {% include product.html %}
+        {% render "product", site: site, product: product %}
       {% endfor %}
     {% endif %}
     {% endif %}
 
-    <p class="text-center" style="margin: 3rem 0"><a href="/products" class="button large"><i class="fa fa-shopping-cart"></i> Shop for In-Stock Flutes</a></p>
+    <p class="text-center" style="margin: 3rem 0"><a href="/products" class="button large"><i class="fa fa-shopping-cart"></i> Shop for Flutes</a></p>
 
-    {% if page.custom_ordering %}
+    {% if page.custom_ordering and page.custom_ordering != "" %}
       <hr />
       <h2 class="text-center">Custom Ordering</h2>
       <hr />
@@ -60,6 +60,6 @@
 
     <p class="text-center"><a href="/world-flutes" class="button hollow"><i class="fa fa-arrow-left"></i> Return to World Flutes</a></p>
 
-    {% include footer.html %}
+    {% render "footer" %}
   </body>
 </html>

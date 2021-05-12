@@ -44,7 +44,7 @@ extra_page_class: " page product"
 
     {% for product in products %}
       <!-- SKU: {{ product.slug }} -->
-      {% include product.html %}
+      {% render "product", site: site, product: product %}
     {% endfor %}
   {% else %}
     <section class="row">

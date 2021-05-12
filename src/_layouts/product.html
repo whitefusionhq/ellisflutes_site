@@ -10,7 +10,7 @@ hide_hero: true
 
 <div class="fade-on-load">
 {% assign product = page %}
-{% include product.html %}
+{% render "product", site: site, product: product %}
 
   <p class="text-center"><a href="{{ site.data.category_labels[category].url }}" class="button large">Shop for More {{ site.data.category_labels[category].title }}</a></p>
   <br/><br/>

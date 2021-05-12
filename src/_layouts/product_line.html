@@ -2,10 +2,10 @@
 <!--[if IE 9]><html class="lt-ie10" lang="en" > <![endif]-->
 <html lang="en">
   <head>
-    {% include head.html %}
+    {% render "head", site: site, page: page, bridgetown: bridgetown %}
   </head>
   <body class="{{ page.layout }}{{ page.extra_page_class }} spaced-footer">
-    {% include header.html %}
+    {% render "header" %}
 
     <header id="page-title">
 
@@ -34,26 +34,32 @@
 
         {% for product in products %}
           <!-- SKU: {{ product.slug }} -->
-          {% include product.html %}
+          {% render "product", site: site, product: product %}
         {% endfor %}
       {% endif %}
     {% else %}
       {{ content }}
     {% endunless %}
 
-    <hr />
-    <h2 class="text-center">Custom Ordering</h2>
-    <hr />
+    <p class="text-center" style="margin: 3rem 0"><a href="/products" class="button large"><i class="fa fa-shopping-cart"></i> Shop for Flutes</a></p>
 
-    <div class="blue content-box">
-      <h3>Pricing</h3>
+    {% if page.custom_ordering and page.custom_ordering != "" %}
+      <hr />
+      <h2 class="text-center">Custom Ordering</h2>
+      <hr />
 
-      {{ page.custom_ordering | markdownify }}
+      <div class="blue content-box">
+        <h3>Pricing</h3>
 
-      <br/>
-      <p class="text-center"><a href="/custom-order" class="button hollow white">How to Custom Order</a></p>
-    </div>
+        {{ page.custom_ordering | markdownify }}
 
-    {% include footer.html %}
+        <br/>
+        <p class="text-center"><a href="/custom-order" class="button hollow white">How to Custom Order</a></p>
+      </div>
+    {% else %}
+      <p class="text-center"><a href="/custom-order" class="button hollow">How to Custom Order</a></p>
+    {% endif %}
+
+    {% render "footer" %}
   </body>
 </html>

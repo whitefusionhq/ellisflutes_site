@@ -2,13 +2,13 @@
 <!--[if IE 9]><html class="lt-ie10" lang="en" > <![endif]-->
 <html lang="en">
   <head>
-    {% include head.html %}
+    {% render "head", site: site, page: page, bridgetown: bridgetown %}
   </head>
   <body class="{{ page.layout }}{{ page.extra_page_class }}" data-api-url="{{ site.api_url }}">
-    {% include header.html %}
+    {% render "header" %}
 
     {{ content }}
 
-    {% include footer.html %}
+    {% render "footer" %}
   </body>
 </html>

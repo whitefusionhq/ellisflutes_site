@@ -1,11 +1,11 @@
 ---
-layout: product_line
+layout: world_flute
 published: true
 title: The Ellis-Korb Headjoint
-subtitle: ''
+subtitle: 'For Boehm System Flutes'
 lang: en
 extra_page_class: ''
-custom_ordering: 'Ellis-Korb headjoint price: **$1,500**'
+custom_ordering: ''
 cloudinary_id: fvxqknrqmhg58g855vkv
 product_category: headjoints
 ---
