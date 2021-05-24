@@ -19,8 +19,8 @@ html_embed: '<iframe width="100%" height="20" scrolling="no" frameborder="no" al
   title="Blayne Chastain plays Eb - The Foggy Dew- Key of Eflat" target="_blank" style="color:
   #cccccc; text-decoration: none;">Blayne Chastain plays Eb - The Foggy Dew- Key of
   Eflat</a></div>'
-out_of_stock: false
-inventory: 1
+out_of_stock: true
+inventory: 0
 weight: 450
 ---
 
