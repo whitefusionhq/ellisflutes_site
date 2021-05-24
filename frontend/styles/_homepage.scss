@@ -79,9 +79,7 @@ header#page-title {
 
 div.amber {
   background: #6e5f42;
-  color: white;
-  position: relative;
-  h3 { color: #f1c363;}
+
   .left-col-background {
     background: #4d422e;
     position: absolute;
@@ -94,23 +92,9 @@ div.amber {
     }
   }
 }
-/*div.green {
-  background: map-get($foundation-palette, primary);
-  color: white;
-  h3 { color: #f1c363; }
-}*/
 div.blue {
   background: map-get($foundation-palette, secondary);
-  color: white;
-  position: relative;
-  h3 { color: #f1c363; }
-  a {
-    color: inherit;
-    border-bottom: 3px solid rgba(255,255,255,0.5);
-    &.no-border {
-      border-bottom: none;
-    }
-  }
+
   .right-col-background {
     background: #11495a;
     position: absolute;
@@ -120,6 +104,20 @@ div.blue {
     bottom: 0;
     @media (max-width: map-get($breakpoints, medium)) {
       display: none;
+    }
+  }
+}
+div.amber, div.blue {
+  color: white;
+  position: relative;
+
+  h3 { color: #f1c363;}
+
+  a {
+    color: inherit;
+    border-bottom: 3px solid rgba(255,255,255,0.5);
+    &.no-border {
+      border-bottom: none;
     }
   }
 }
