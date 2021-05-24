@@ -8,8 +8,8 @@ cloudinary_ids:
 - ellisflutes2018/1DyeMapQ1_fix1sb
 - ellisflutes2018/1DyeMapQ2_eiywhf
 - ellisflutes2018/1DyeMapQ3_lqdxwt
-out_of_stock: false
-inventory: 1
+out_of_stock: true
+inventory: 0
 weight: 450
 ---
 
