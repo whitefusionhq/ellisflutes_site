@@ -8,7 +8,9 @@ cloudinary_ids:
 - ellisflutes2018/CrlyMapAvot1_qo17jp
 - ellisflutes2018/CrlyMapAvot2_acu1cl
 - ellisflutes2018/CrlyMapAvot3_jwjdi1
-html_embed: https://youtu.be/hCh03T0Kddk
+html_embed: <iframe width="560" height="315" src="https://www.youtube.com/embed/hCh03T0Kddk"
+  title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
+  encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 out_of_stock: false
 inventory: 1
 weight: 450

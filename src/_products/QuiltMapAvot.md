@@ -8,7 +8,9 @@ cloudinary_ids:
 - ellisflutes2018/QulitedMapAvot1_ohygkt
 - ellisflutes2018/QulitMapAvot2_lbcf1u
 - ellisflutes2018/QuiltMapAvot3_fahfek
-html_embed: https://youtu.be/hCh03T0Kddk
+html_embed: <iframe width="560" height="315" src="https://www.youtube.com/embed/hCh03T0Kddk"
+  title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
+  encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 out_of_stock: false
 inventory: 1
 weight: 450
