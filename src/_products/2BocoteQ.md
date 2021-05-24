@@ -8,8 +8,8 @@ cloudinary_ids:
 - ellisflutes2018/2BocoteQ1_mhljos
 - ellisflutes2018/2BocoteQ2_ghn6up
 - ellisflutes2018/2BocoteQ3_yhpu3v
-out_of_stock: false
-inventory: 1
+out_of_stock: true
+inventory: 0
 weight: 450
 ---
 
