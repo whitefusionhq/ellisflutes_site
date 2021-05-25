@@ -32,7 +32,7 @@ body.post, body.page {
     }
 
     p, li, blockquote {
-      a {
+      a:not(.button) {
         border-bottom: 3px solid rgba(12,61,34,0.2);
       }
     }
