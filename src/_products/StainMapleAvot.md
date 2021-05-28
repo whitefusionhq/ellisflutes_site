@@ -1,18 +1,18 @@
 ---
-title: Curly Maple Rim Blown Flute (stained), Megan Avot scale, Key of C
-date: '2021-05-21T13:32:55+00:00'
+title: Curly Maple (stained), Megan Avot scale, Key of C
+date: '2021-05-28T15:39:17+00:00'
 categories: rim-blown
 published: true
 price: 325
 cloudinary_ids:
-- ellisflutes2018/DyeMapAvot1_fepu30
-- ellisflutes2018/DyeCrlyMapAvot2_wfdfzx
-- ellisflutes2018/DyeCrlyMapAvot3_kaelnj
+- ellisflutes2018/DyeMapAvot1_nsmdnm
+- ellisflutes2018/DyeCrlyMapAvot2_gnvyp7
+- ellisflutes2018/DyeCrlyMapAvot3_kuldno
 html_embed: <iframe width="560" height="315" src="https://www.youtube.com/embed/hCh03T0Kddk"
   title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
   encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-out_of_stock: true
-inventory: 0
+out_of_stock: false
+inventory: 1
 weight: 450
 ---
 
