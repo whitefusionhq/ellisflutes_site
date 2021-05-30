@@ -1,5 +1,5 @@
 ---
-title: Curly Maple Rim Blown Flute, Megan Avot scale, Key of C
+title: Curly Maple Rim Blown Flute, Magen Avot scale, Key of C
 date: '2021-05-21T13:30:53+00:00'
 categories: rim-blown
 published: true

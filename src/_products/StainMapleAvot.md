@@ -1,5 +1,5 @@
 ---
-title: Curly Maple (stained), Megan Avot scale, Key of C
+title: Curly Maple (stained), Magen Avot scale, Key of C
 date: '2021-05-28T15:39:17+00:00'
 categories: rim-blown
 published: true

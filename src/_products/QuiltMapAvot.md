@@ -1,5 +1,5 @@
 ---
-title: Pacific Quilted Maple Rim Blown Flute (stained), Megan Avot scale, Key of C
+title: Pacific Quilted Maple Rim Blown Flute (stained), Magen Avot scale, Key of C
 date: '2021-05-21T13:36:41+00:00'
 categories: rim-blown
 published: true
