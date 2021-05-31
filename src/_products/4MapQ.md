@@ -8,8 +8,8 @@ cloudinary_ids:
 - ellisflutes2018/4MapQ1_pwzzpv
 - ellisflutes2018/4MapQ2_elekmv
 - ellisflutes2018/4MapQ3_y1w3au
-out_of_stock: false
-inventory: 1
+out_of_stock: true
+inventory: 0
 weight: 450
 ---
 
