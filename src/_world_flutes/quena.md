@@ -30,6 +30,7 @@ There are challenges to creating such flutes, because manufacturing wooden flute
 
 ### Sound Samples
 
+Ashley Jarmack demonstrates the quena in G!
 
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o4mcMUva8os" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
