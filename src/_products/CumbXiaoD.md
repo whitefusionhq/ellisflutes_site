@@ -1,7 +1,8 @@
 ---
 title: Cumberland Ebonite 3-Piece Xiao, Key of D (tonic G)
 categories: xiao
-price: 1250.0
+published: false
+price: '1250.0'
 cloudinary_ids:
 - ellisflutes2018/CumbXiaoD1_dafroo
 - ellisflutes2018/CumbXiaoD2_sao4ib
@@ -32,7 +33,7 @@ html_embed: "<iframe width=\"100%\" height=\"20\" scrolling=\"no\" frameborder=\
   src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/232506958&color=%23ff5500&inverse=false&auto_play=false&show_user=true\"></iframe>"
 out_of_stock: true
 inventory: 0
-weight: '450'
+weight: 450
 ---
 
 A feast for the eyes and ears!  Gorgeous Cumberland ebonite xiao in the key of D (tonic G), featuring nickel silver tuning slide and tenons.

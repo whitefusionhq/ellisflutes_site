@@ -1,7 +1,8 @@
 ---
 title: Cherry Xiao, Key of D (tonic G)
 categories: xiao
-price: 525.0
+published: false
+price: '525.0'
 cloudinary_ids:
 - ellisflutes2018/CherryXiao1_trh12l
 - ellisflutes2018/CherryXiao2_oex0wg
@@ -21,7 +22,7 @@ html_embed: "<iframe width=\"100%\" height=\"20\" scrolling=\"no\" frameborder=\
   src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/232506958&color=%23ff5500&inverse=false&auto_play=false&show_user=true\"></iframe>"
 out_of_stock: true
 inventory: 0
-weight: '450'
+weight: 450
 ---
 
 Cherry Xiao, Key of D (tonic G) with black ebonite mouthpiece.

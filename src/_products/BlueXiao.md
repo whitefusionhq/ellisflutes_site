@@ -1,7 +1,8 @@
 ---
 title: Curly Maple "Mystic Blue" xiao, key of C (tonic F)
 categories: xiao
-price: 550.0
+published: false
+price: '550.0'
 cloudinary_ids:
 - ellisflutes2018/BlueXiao1_qbulr7
 - ellisflutes2018/BlueXiao2_uyhwyq
@@ -11,7 +12,7 @@ html_embed: <iframe width="560" height="315" src="https://www.youtube.com/embed/
   allowfullscreen></iframe>
 out_of_stock: true
 inventory: 0
-weight: '450'
+weight: 450
 ---
 
 Beautiful "Mystic Blue" Curly Maple xiao, key of C (tonic F).  Black ebonite mouthpiece.
