@@ -4,6 +4,11 @@ date: '2021-07-21T16:15:05+00:00'
 categories: shakuhachi
 published: true
 price: 500
+cloudinary_ids:
+- ellisflutes2018/MapleShak1_mtulgi
+- ellisflutes2018/MapleShak2_ugefos
+- ellisflutes2018/MapleShak3_z2qedg
+- ellisflutes2018/MapleShak4_ibeolx
 html_embed: "<iframe width=\"100%\" height=\"20\" scrolling=\"no\" frameborder=\"no\"
   allow=\"autoplay\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/879684958&color=%23ff5500&inverse=false&auto_play=false&show_user=true\"></iframe><div
   style=\"font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow:
