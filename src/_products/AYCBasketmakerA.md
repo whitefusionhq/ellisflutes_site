@@ -1,17 +1,17 @@
 ---
 title: Alaskan Yellow Cedar Basketmaker, Key of A (right-handed)
-date: '2021-06-02T23:01:36+00:00'
+date: '2021-07-21T16:18:13+00:00'
 categories: rim-blown
 published: true
 price: 275
 cloudinary_ids:
-- ellisflutes2018/AYCBasketA1_wx4dcl
-- ellisflutes2018/AYCBasketA2_ucwnuk
-- ellisflutes2018/AYCBasketA3_vb8zla
+- ellisflutes2018/AYCBasketA1_bvezkx
+- ellisflutes2018/AYCBasketA2_ny7zc5
+- ellisflutes2018/AYCBasketA3_ruvaoy
 html_embed: <iframe width="100%" height="20" scrolling="no" frameborder="no" allow="autoplay"
   src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/536548146&color=%23ff5500&inverse=false&auto_play=false&show_user=true"></iframe>
-out_of_stock: true
-inventory: 0
+out_of_stock: false
+inventory: 1
 weight: 450
 ---
 
