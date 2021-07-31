@@ -30,8 +30,8 @@ html_embed: "<iframe width=\"100%\" height=\"166\" scrolling=\"no\" frameborder=
   title=\"C/F Xiao &quot;Trail Of Angels&quot; performed by Connor Keene\" target=\"_blank\"
   style=\"color: #cccccc; text-decoration: none;\">C/F Xiao &quot;Trail Of Angels&quot;
   performed by Connor Keene</a></div>"
-out_of_stock: false
-inventory: 1
+out_of_stock: true
+inventory: 0
 weight: 450
 ---
 
