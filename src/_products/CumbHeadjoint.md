@@ -9,6 +9,7 @@ cloudinary_ids:
 - ellisflutes2018/CumbHeadjoint3_fcnrnn
 - ellisflutes2018/CumbHeadjoint4_jc3lpa
 out_of_stock: true
+inventory: 0
 weight: 450
 ---
 
