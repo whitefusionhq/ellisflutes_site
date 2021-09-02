@@ -3,7 +3,7 @@ title: NEW! The Essential Flute (updated design), Black Ebonite tunable, Key of 
 date: '2021-07-21T15:57:19+00:00'
 categories: transverse-folk
 published: true
-price: 485
+price: 525
 cloudinary_ids:
 - ellisflutes2018/BlkEbonEssen1_ovqa5t
 - ellisflutes2018/BlkEbEssen2_mcuxxe
@@ -18,8 +18,8 @@ html_embed: '<iframe width="100%" height="20" scrolling="no" frameborder="no" al
   title="Blayne Chastain plays Eb - The Foggy Dew- Key of Eflat" target="_blank" style="color:
   #cccccc; text-decoration: none;">Blayne Chastain plays Eb - The Foggy Dew- Key of
   Eflat</a></div>'
-out_of_stock: false
-inventory: 1
+out_of_stock: true
+inventory: 0
 weight: 450
 ---
 
