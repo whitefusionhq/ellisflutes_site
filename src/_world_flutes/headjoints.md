@@ -1,13 +1,12 @@
 ---
-layout: world_flute
-published: true
 title: The Ellis-Korb Headjoint
-subtitle: 'For Boehm System Flutes'
+subtitle: For Boehm System Flutes
+published: false
+product_category: headjoints
+cloudinary_id: fvxqknrqmhg58g855vkv
+layout: world_flute
 lang: en
 extra_page_class: ''
-custom_ordering: ''
-cloudinary_id: fvxqknrqmhg58g855vkv
-product_category: headjoints
 ---
 
 ### For Boehm System Flutes
