@@ -1,12 +1,13 @@
 ---
-layout: world_flute
 title: Irish Flutes
 subtitle: 'High-performance keyless instruments with a diatonic major tuning (NOTE:
   Not currently accepting orders)'
-extra_page_class: ''
+published: false
+product_category: irish-flutes
 custom_ordering: Not currently accepting orders for these flutes
 cloudinary_id: ellisflutes2018/IrishFlute2
-product_category: irish-flutes
+layout: world_flute
+extra_page_class: ''
 ---
 
 ### High-Performance Keyless Instruments
