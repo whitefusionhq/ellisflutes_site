@@ -3,7 +3,7 @@ title: Maple (faux bamboo) shakuhachi, 1.8 Key of D
 date: '2021-07-21T16:15:05+00:00'
 categories: shakuhachi
 published: true
-price: 500
+price: 550
 cloudinary_ids:
 - ellisflutes2018/MapleShak1_mtulgi
 - ellisflutes2018/MapleShak2_ugefos

@@ -1,7 +1,8 @@
 ---
 title: Smokey Ebonite Shakuhachi, 1.8 Key of D
 categories: shakuhachi
-price: 1100.0
+published: true
+price: '1300.0'
 cloudinary_ids:
 - ellisflutes2018/SmokeyShak1_q9r01x
 - ellisflutes2018/SmokeyShak2_mac78o
@@ -18,7 +19,7 @@ html_embed: '<iframe width="100%" height="20" scrolling="no" frameborder="no" al
   none;">Zac Zinger performs &quot;Takiochi&quot;</a></div>'
 out_of_stock: true
 inventory: 0
-weight: '450'
+weight: 450
 ---
 
  Mysterious smokey ebonite shakuhachi! 1.8, Key of D.   Weight: 450grams (16 oz.) For players unfamiliar with ebonite, I strongly encourage you to read [my blog entry on the subject](http://ellisflutes.com/blog/what-is-ebonite).  It is a truly amazing material for woodwinds of all kinds, and it is all-natural (not plastic or synthetic).  Waterproof, stable and demonstrating superior acoustic properties.
