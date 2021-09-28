@@ -120,6 +120,11 @@ div.amber, div.blue {
       border-bottom: none;
     }
   }
+
+  .button.hollow.white:hover, .button.hollow.white:focus {
+    border-color: $light-gold;
+    color: $light-gold;
+  }
 }
 
 div.blue-tag {

@@ -25,13 +25,15 @@ extra_page_class: " page product"
           onclick="$('#products-list div[data-category]').removeClass('hide');$('#category-buttons button').removeClass('category-active');$(this).addClass('category-active')">Show All</button>
       </div>
       {% for product in products %}
-        {% assign currentcategory = product.categories[0] %}
-        {% if currentcategory != previouscategory %}
-          <div class="column column-block">
-            <button class="category-option"
-              onclick="$('#products-list div[data-category]').addClass('hide');$('#products-list div[data-category={{ currentcategory }}]').removeClass('hide');$('#category-buttons button').removeClass('category-active');$(this).addClass('category-active')">{{ site.data.category_labels[currentcategory].title }}</button>
-          </div>
-          {% assign previouscategory = currentcategory %} 
+        {% if product.categories[0] != "bamboo" %}
+          {% assign currentcategory = product.categories[0] %}
+          {% if currentcategory != previouscategory %}
+            <div class="column column-block">
+              <button class="category-option"
+                onclick="$('#products-list div[data-category]').addClass('hide');$('#products-list div[data-category={{ currentcategory }}]').removeClass('hide');$('#category-buttons button').removeClass('category-active');$(this).addClass('category-active')">{{ site.data.category_labels[currentcategory].title }}</button>
+            </div>
+            {% assign previouscategory = currentcategory %} 
+          {% endif %}
         {% endif %}
       {% endfor %}
     </section>
@@ -43,8 +45,10 @@ extra_page_class: " page product"
 	  </section>
 
     {% for product in products %}
-      <!-- SKU: {{ product.slug }} -->
-      {% render "product", site: site, product: product %}
+      {% if product.categories[0] != "bamboo" %}
+        <!-- SKU: {{ product.slug }} -->
+        {% render "product", site: site, product: product %}
+      {% endif %}
     {% endfor %}
   {% else %}
     <section class="row">
