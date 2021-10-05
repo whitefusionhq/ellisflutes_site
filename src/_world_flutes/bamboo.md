@@ -17,7 +17,7 @@ cloudinary_id: rlsfjgii5qflqxmbpezr
 
 Bamboo is one of the most useful plants on Earth, and it has a millennia long history as being a valued flute-making material in cultures all over the planet.  Crafting high-quality bamboo flutes is a delightful challenge, because each piece is unique and requires the maker to adapt to its organic nature.
 
-I strongly encourage anyone interested in a bamboo flute to read through the entire FAQ section presented here first, and also to read my three-part blog on the subject of bamboo flute craft: [Bamboo Journey](#)."
+I strongly encourage anyone interested in a bamboo flute to read through the entire FAQ section presented here first, and also to read my three-part blog on the subject of bamboo flute craft: [Bamboo Journey](#).
 
 ### Bamboo FAQ
 
