@@ -1,20 +1,21 @@
 ---
-title: NEW! Updated design.  Cherry Xiao, Key of D/G
-date: '2021-10-11T18:31:21+00:00'
+title: NEW! Updated design.  Boxwood Xiao, Key of D/G
+date: '2021-10-11T18:28:31+00:00'
 categories: xiao
 published: false
-price: 550
+price: 575
 cloudinary_ids:
-- ellisflutes2018/CherryXiao1_qysghy
-- ellisflutes2018/CherryXiao2_vcu4rq
-- ellisflutes2018/CherryXiao3_d0u6s0
-- ellisflutes2018/CherryXiao4_oms0fz
+- ellisflutes2018/BoxXiao1_ye0pan
+- ellisflutes2018/BoxXiao2_qvonpb
+- ellisflutes2018/BoxXiao3_tm6gca
+- ellisflutes2018/BoxXiao4_mplbsv
+- ellisflutes2018/BoxXiao5_t2hyij
 out_of_stock: false
 inventory: 1
 weight: 450
 ---
 
-Cherry wood Xiao, Key of D, tonic G.
+Boxwood Xiao, Key of D, tonic G.  Boxwood might easily be called "banana wood" in many cases, due to its historically established tendency to warp like crazy (just take a look at that fourth photo).  If you look at historical photos of wooden flutes from the 18th and 19th century you will see a lot of very bendy woodwinds.  This has no effect upon the voice or playability of the flute.  And in fact, boxwood makes a gorgeous sounding flute.  However, due to the rather unusual shape of these flutes I did not add a subtantial upcharge for the wood (Boxwood is expensive and rare in instrument grade pieces).
 
 New narrow bore xiao design brings a richer harmonic spectrum and improved intonation.  Redesigned mouthpiece with ebonite cap.  To learn more about how the new design came about, check out my blog: [Revisiting the Xiao.](https://www.ellisflutes.com/blog/revisiting-the-xiao)
 

@@ -1,20 +1,20 @@
 ---
-title: NEW! Updated design.  Cherry Xiao, Key of D/G
-date: '2021-10-11T18:31:21+00:00'
+title: NEW! Updated design.  Bocote Xiao, Key of D/G
+date: '2021-10-11T17:38:31+00:00'
 categories: xiao
 published: false
 price: 550
 cloudinary_ids:
-- ellisflutes2018/CherryXiao1_qysghy
-- ellisflutes2018/CherryXiao2_vcu4rq
-- ellisflutes2018/CherryXiao3_d0u6s0
-- ellisflutes2018/CherryXiao4_oms0fz
+- ellisflutes2018/BocoteXiao1_xwskhx
+- ellisflutes2018/BocoteXiao2_zristx
+- ellisflutes2018/BocoteXiao3_eej0n1
+- ellisflutes2018/BocoteXiao4_pmnb5z
 out_of_stock: false
 inventory: 1
 weight: 450
 ---
 
-Cherry wood Xiao, Key of D, tonic G.
+Bocote Xiao, Key of D, tonic G.
 
 New narrow bore xiao design brings a richer harmonic spectrum and improved intonation.  Redesigned mouthpiece with ebonite cap.  To learn more about how the new design came about, check out my blog: [Revisiting the Xiao.](https://www.ellisflutes.com/blog/revisiting-the-xiao)
 

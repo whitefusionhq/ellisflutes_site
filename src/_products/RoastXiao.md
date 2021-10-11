@@ -1,20 +1,20 @@
 ---
-title: NEW! Updated design.  Cherry Xiao, Key of D/G
-date: '2021-10-11T18:31:21+00:00'
+title: NEW! Updated design. Roasted Curly Maple Xiao, Key of D/G
+date: '2021-10-11T18:51:52+00:00'
 categories: xiao
 published: false
-price: 550
+price: 575
 cloudinary_ids:
-- ellisflutes2018/CherryXiao1_qysghy
-- ellisflutes2018/CherryXiao2_vcu4rq
-- ellisflutes2018/CherryXiao3_d0u6s0
-- ellisflutes2018/CherryXiao4_oms0fz
+- ellisflutes2018/RoastXiao1_ebzzmc
+- ellisflutes2018/RoastXiao2_m9oqjq
+- ellisflutes2018/RoastXiao3_krlsou
+- ellisflutes2018/RoastXiao4_rmojph
 out_of_stock: false
 inventory: 1
 weight: 450
 ---
 
-Cherry wood Xiao, Key of D, tonic G.
+Roasted Curly Maple Xiao, Key of D, tonic G.
 
 New narrow bore xiao design brings a richer harmonic spectrum and improved intonation.  Redesigned mouthpiece with ebonite cap.  To learn more about how the new design came about, check out my blog: [Revisiting the Xiao.](https://www.ellisflutes.com/blog/revisiting-the-xiao)
 

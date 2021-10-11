@@ -1,20 +1,22 @@
 ---
-title: NEW! Updated design.  Cherry Xiao, Key of D/G
-date: '2021-10-11T18:31:21+00:00'
+title: 'NEW! Updated design.  UNIQUE:  Desert Ironwood Xiao, Key of D/G'
+date: '2021-10-11T18:49:31+00:00'
 categories: xiao
 published: false
-price: 550
+price: 850
 cloudinary_ids:
-- ellisflutes2018/CherryXiao1_qysghy
-- ellisflutes2018/CherryXiao2_vcu4rq
-- ellisflutes2018/CherryXiao3_d0u6s0
-- ellisflutes2018/CherryXiao4_oms0fz
+- ellisflutes2018/IronXiao1_z1d1fi
+- ellisflutes2018/IronXiao2_a67ydx
+- ellisflutes2018/IronXiao3_kwcfom
+- ellisflutes2018/IronXiao4_stj8te
 out_of_stock: false
 inventory: 1
 weight: 450
 ---
 
-Cherry wood Xiao, Key of D, tonic G.
+Desert Ironwood Xiao, Key of D, tonic G.
+
+This is a unique flute, and I doubt you'll find another anywhere on Earth!  I had a small selection of pieces of Desert Ironwood which make up this one-of-a-kind xiao.  This is not a commercially available wood and I've been saving the few odd pieces that I have for many years waiting for a worthy use for them.  Not as heavy as you'd think either, considering that it's called Ironwood.  Still, it is a beautiful, dense wood that really projects.  A joy to play.
 
 New narrow bore xiao design brings a richer harmonic spectrum and improved intonation.  Redesigned mouthpiece with ebonite cap.  To learn more about how the new design came about, check out my blog: [Revisiting the Xiao.](https://www.ellisflutes.com/blog/revisiting-the-xiao)
 
