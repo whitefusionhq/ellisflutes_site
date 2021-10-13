@@ -10,7 +10,7 @@ extra_page_class: ''
 
 ### Quena Flutes
 
-The quena (pronounced kay-nah) is a traditional flute of the Andes.  It is typically in the key of G, has six holes and a thumb hole and plays the diatonic major (do re mi) scale.  It is known for it’s distinct timber and strong voice.
+The quena (pronounced kay-nah) is a traditional flute of the Andes.  It is typically in the key of G, has six holes and a thumb hole and plays the diatonic major (do re mi) scale.  It is known for it’s distinct timber and strong voice.  The quenacho is of the same design, only a lower key, typically D.
 
 Taditional quena designs are often plagued by issues with tuning accuracy and limited dynamic range.  Meaning that they are difficult to play in the second octave, requiring a very powerful embouchure (and consequently being nearly impossible to play softly), and depending upon the design, having a tendency to be either flat in the second octave, or (in the case of tapered bore quena) sharp in the second octave.  These idiosyncracies are generally accepted among quena players and compensated for in degree.  
 
@@ -23,6 +23,8 @@ Recent collaboration with a professional winds player ([Ashley Jarmack](https://
 The new quena features a cylindrical bore and very thin walls where the finger holes are located.  This design alteration profoundly affects the tuning balance between the octaves.  I had noticed years ago that the North Indian bansuri, which features very thin walls and large finger holes, had a naturally superior tuning balance compared with most other types of cylindrical bore flutes.  I applied this design feature to the quena with excellent results.
 
 There are challenges to creating such flutes, because manufacturing wooden flutes with extremely thin walls is a delicate business.  Also, I needed to keep the girth of the flute larger at the blowing end in order to have the blowing notch behave like a traditional quena, keeping the classic voice.  In order to create a balanced look I added a "flare" at the distal end of the flute.  The result does not look very much like a traditional quena, but I believe the tuning accuracy is going to be far more important to musicians who need to use a quena in an ensemble setting.
+
+These same design criteria were applied on a larger version that I also make--a quenacho in the key of D.
 
 
 
