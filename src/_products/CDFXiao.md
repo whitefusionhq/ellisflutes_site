@@ -1,14 +1,14 @@
 ---
-title: 'NEW! Updated design.  UNIQUE:  Desert Ironwood Xiao, Key of D/G'
-date: '2021-10-11T18:49:31+00:00'
+title: NEW! Updated design.  Curly Douglas Fir Xiao, Key of D/G
+date: '2021-10-14T03:08:37+00:00'
 categories: xiao
 published: true
-price: 850
+price: 595
 cloudinary_ids:
-- ellisflutes2018/IronXiao1_z1d1fi
-- ellisflutes2018/IronXiao2_a67ydx
-- ellisflutes2018/IronXiao3_kwcfom
-- ellisflutes2018/IronXiao4_stj8te
+- ellisflutes2018/CDFXiao1_qo5zlv
+- ellisflutes2018/CDFXiao2_pye8dy
+- ellisflutes2018/CDFXiao3_glv85a
+- ellisflutes2018/CDFXiao4_a8loj0
 html_embed: '<iframe width="100%" height="20" scrolling="no" frameborder="no" allow="autoplay"
   src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1141899223&color=%23ff5500&inverse=false&auto_play=false&show_user=true"></iframe><div
   style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow:
@@ -24,9 +24,7 @@ inventory: 1
 weight: 450
 ---
 
-Desert Ironwood Xiao, Key of D, tonic G.
-
-This is a unique flute, and I doubt you'll find another anywhere on Earth!  I had a small selection of pieces of Desert Ironwood which make up this one-of-a-kind xiao.  This is not a commercially available wood and I've been saving the few odd pieces that I have for many years waiting for a worthy use for them.  Not as heavy as you'd think either, considering that it's called Ironwood.  Still, it is a beautiful, dense wood that really projects.  A joy to play.
+Curly Douglas Fir, Key of D, tonic G.
 
 New narrow bore xiao design brings a richer harmonic spectrum and improved intonation.  Redesigned mouthpiece with ebonite cap.  To learn more about how the new design came about, check out my blog: [Revisiting the Xiao.](https://www.ellisflutes.com/blog/revisiting-the-xiao)
 
