@@ -3,9 +3,19 @@
     <div class="small-12 medium-6 columns">
       {% for cloudinary_id in product.cloudinary_ids %}
 
-        <figure>
-          <img src="{{ cloudinary_id | cloudinary_url:'a_exif,c_limit,h_4000,q_75,w_2048' }}" class="product-image" alt="">
-        </figure>
+        {% if forloop.index0 == 0 %}
+          <figure onclick="$('#large-{{ cloudinary_id | slugify }}')[0].open = true">
+            <img src="{{ cloudinary_id | cloudinary_url:'a_exif,c_limit,h_4000,q_75,w_2048' }}" class="product-image" alt="" loading="lazy">
+          </figure>
+        {% else %}
+          <figure onclick="$('#large-{{ cloudinary_id | slugify }}')[0].open = true" class="product-thumbnail"><img src="{{ cloudinary_id | cloudinary_url:'a_exif,c_fill,h_200,q_75,w_200' }}" class="product-image" loading="lazy" /></figure>
+        {% endif %}
+
+        <sl-dialog id="large-{{ cloudinary_id | slugify }}" style="--width: 100%; --sl-panel-background-color: transparent; --header-spacing: 0" onclick="this.open = false">
+          <figure class="text-center">
+            <img src="{{ cloudinary_id | cloudinary_url:'a_exif,c_limit,h_4000,q_75,w_2048' }}" class="product-image" alt="" loading="lazy" />
+          </figure>
+        </sl-dialog>
 
       {% endfor %}
     </div>

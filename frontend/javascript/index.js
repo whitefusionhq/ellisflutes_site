@@ -4,6 +4,9 @@ import scrollEffect from './scrollEffect.js'
 import "./checkProductStock"
 import "./bambooComponent.js"
 
+import "@shoelace-style/shoelace/dist/themes/light.css"
+import "@shoelace-style/shoelace/dist/components/dialog/dialog.js"
+
 scrollEffect()
 
 Foundation.addToJquery($)
