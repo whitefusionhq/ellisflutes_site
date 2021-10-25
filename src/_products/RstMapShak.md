@@ -1,14 +1,14 @@
 ---
-title: Roasted curly maple shakuhachi, 1.8 Key of D
-date: '2021-09-23T23:47:33+00:00'
+title: Roasted Curly Maple Shakuhachi, 1.8 Key of D
+date: '2021-10-25T16:56:25+00:00'
 categories: shakuhachi
 published: true
 price: 600
 cloudinary_ids:
-- ellisflutes2018/2RstCrlyMapShak1_rbaaz4
-- ellisflutes2018/2RstCrlyMapShak2_wcao3g
-- ellisflutes2018/2RstCrlyMapShak3_jykgho
-- ellisflutes2018/2RstCrlyMapShak4_rfpkp2
+- ellisflutes2018/RstMapShak1_bqwsro
+- ellisflutes2018/RstMapShak2_qyj83m
+- ellisflutes2018/RstMapShak3_w9dg1m
+- ellisflutes2018/RstMapShak4_ckp0c2
 html_embed: "<iframe width=\"100%\" height=\"20\" scrolling=\"no\" frameborder=\"no\"
   allow=\"autoplay\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/879684958&color=%23ff5500&inverse=false&auto_play=false&show_user=true\"></iframe><div
   style=\"font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow:
@@ -22,8 +22,8 @@ html_embed: "<iframe width=\"100%\" height=\"20\" scrolling=\"no\" frameborder=\
   width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/CYjHrvtQ5fw\" title=\"YouTube
   video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write;
   encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>\r\n"
-out_of_stock: true
-inventory: 0
+out_of_stock: false
+inventory: 1
 weight: 450
 ---
 
