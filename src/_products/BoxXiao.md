@@ -20,8 +20,8 @@ html_embed: '<iframe width="100%" height="20" scrolling="no" frameborder="no" al
   · <a href="https://soundcloud.com/earth-tone-flutes/rain-in-jiang-nan-performed-by-connor-keene"
   title="Rain In Jiang Nan - Performed by Connor Keene" target="_blank" style="color:
   #cccccc; text-decoration: none;">Rain In Jiang Nan - Performed by Connor Keene</a></div>'
-out_of_stock: false
-inventory: 1
+out_of_stock: true
+inventory: 0
 weight: 450
 ---
 
