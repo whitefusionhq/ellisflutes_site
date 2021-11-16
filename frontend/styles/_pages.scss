@@ -103,11 +103,19 @@ body.product_line, body.product, body.world_flute {
       margin-top: 2rem;
     }
   }
+
   .amber h4 {
     color: white;
     margin-top: 1rem;
     margin-bottom: 1rem;
   }
+
+  .product-item {
+    figure {
+      cursor: pointer;
+    }
+  }
+
   img.product-image {
     margin-bottom: 1rem;
     border-radius: 8px;
@@ -119,6 +127,43 @@ body.product_line, body.product, body.world_flute {
     }
   }
 
+  img.image-preview {
+    transition: all 0.2s ease-out;
+
+    &:hover {
+      translate: 0px -6px;
+      scale: 1.03;
+    }
+  }
+
+  --sl-z-index-dialog: 10000;
+
+  sl-dialog {
+    --body-spacing: 0 1.25rem 1.25rem;
+    @media (max-width: map-get($breakpoints, medium)) {
+      --body-spacing: 0 0.5rem 1.25rem;
+    }
+
+    --sl-shadow-x-large: none;
+  }
+
+  sl-dialog::part(panel) {
+    max-height: 100vh;
+    max-width: 100%;
+  }
+  sl-dialog::part(close-button) {
+    color: white;
+  }
+
+  sl-dialog img.product-image {
+    max-height: calc(100vh - 3.75rem);
+  }
+
+  .product-thumbnail {
+    width: 100px;
+    margin-right: 0.6rem;
+  }
+
   .button.large {
     font-size: 1.15rem;
     margin-bottom: 0.3em;
@@ -127,6 +172,15 @@ body.product_line, body.product, body.world_flute {
     box-shadow: 0px 3px 6px rgba(0,0,0,0.3);
     i.fa {
       margin-right: 0.25em;
+    }
+  }
+
+  .button.snipcart-add-item {
+    transition: all 0.2s ease-out;
+
+    &:hover {
+      translate: 0px -6px;
+      scale: 1.03;
     }
   }
 
@@ -220,5 +274,11 @@ button.category-option {
   &.category-active {
     background: #6e5f42;
     color: white;
+  }
+}
+
+.product-item {
+  .product-thumbnail {
+    display: inline-block;
   }
 }
