@@ -131,7 +131,7 @@ body.product_line, body.product, body.world_flute {
     transition: all 0.2s ease-out;
 
     &:hover {
-      transform: translate(0px -6px) scale(1.03);
+      transform: translate(0px, -6px) scale(1.03);
     }
   }
 
@@ -178,7 +178,7 @@ body.product_line, body.product, body.world_flute {
     transition: all 0.2s ease-out;
 
     &:hover {
-      transform: translate(0px -6px) scale(1.03);
+      transform: translate(0px, -6px) scale(1.03);
     }
   }
 
