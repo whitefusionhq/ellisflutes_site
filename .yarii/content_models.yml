@@ -119,10 +119,6 @@ default: &default
         field_name: price
         label: Price
     additional_fields:
-#      -
-#        field_type: checkbox
-#        field_name: out_of_stock
-#        label: Out of stock?
       -
         field_type: text
         field_name: inventory
@@ -144,7 +140,13 @@ default: &default
       -
         field_type: markdown
         field_name: content
-        placeholder: Product description… 
+        placeholder: Product description…
+  bamboo:
+    <<: *product
+    title: Bamboo Flutes
+    filter:
+      categories:
+        - bamboo
   rim-blown:
     <<: *product
     title: Basketmaker Flute
