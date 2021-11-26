@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 
-gem "bridgetown", "~> 0.20"
+gem "bridgetown", "~> 0.21"
 
 group :bridgetown_plugins do
   gem "cloudinary"

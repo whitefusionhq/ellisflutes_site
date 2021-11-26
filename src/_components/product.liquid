@@ -1,11 +1,42 @@
-<div class="amber" data-category="{{ product.categories[0] }}" style="margin-bottom:2.2em">
+<div class="amber product-item" data-category="{{ product.categories[0] }}" style="margin-bottom:2.2em">
   <div class="row">
     <div class="small-12 medium-6 columns">
       {% for cloudinary_id in product.cloudinary_ids %}
+        {% assign largeid = cloudinary_id | slugify | prepend: "large-" %}
 
-        <figure>
-          <img src="{{ cloudinary_id | cloudinary_url:'a_exif,c_limit,h_4000,q_75,w_2048' }}" class="product-image" alt="">
-        </figure>
+        {% if forloop.index0 == 0 %}
+          <figure onclick="$('#{{ largeid }}')[0].open = true">
+            <img
+              src="{{ cloudinary_id | cloudinary_url:'a_exif,c_limit,h_4000,q_75,w_2048' }}"
+              class="product-image image-preview"
+              alt="product thumbnail image"
+              loading="lazy"
+            />
+          </figure>
+        {% else %}
+          <figure onclick="$('#{{ largeid }}')[0].open = true" class="product-thumbnail">
+            <img
+              src="{{ cloudinary_id | cloudinary_url:'a_exif,c_fill,h_200,q_75,w_200' }}"
+              class="product-image image-preview"
+              alt="product thumbnail image"
+              loading="lazy"
+            /></figure>
+        {% endif %}
+
+        <sl-dialog
+          id="{{ largeid }}"
+          style="--width: 100%; --sl-panel-background-color: transparent; --header-spacing: 0"
+          onclick="this.open = false"
+        >
+          <figure class="text-center">
+            <img
+              src="{{ cloudinary_id | cloudinary_url:'a_exif,c_limit,h_4000,q_75,w_2048' }}"
+              class="product-image"
+              alt="large product image"
+              loading="lazy"
+            />
+          </figure>
+        </sl-dialog>
 
       {% endfor %}
     </div>
@@ -20,18 +51,19 @@
               {% capture thumbnail %}{{ cloudinary_id | cloudinary_url:'a_exif,c_limit,h_100,q_75,w_100' }}{% endcapture %}
             {% endfor %}
             <button
-            class="snipcart-add-item button large"
-            data-item-id="{{ product.slug }}"
-            data-item-name="{{ product.title }}"
-            data-item-price="{{ product.price }}"
-            data-item-url="{{ site.url }}{{ product.url }}"
-            data-item-max-quantity="1"
-            data-item-custom1-name="Flute Care Pack"
-            data-item-custom1-options="Not Included|Included +$10[+10.00]"
-            {% if product.weight %}
-            data-item-weight="{{ product.weight }}"
-            {% endif %}
-            data-item-image="{{ thumbnail }}">
+              class="snipcart-add-item button large"
+              data-item-id="{{ product.slug }}"
+              data-item-name="{{ product.title }}"
+              data-item-price="{{ product.price }}"
+              data-item-url="{{ site.url }}{{ product.url }}"
+              data-item-max-quantity="1"
+              data-item-custom1-name="Flute Care Pack"
+              data-item-custom1-options="Not Included|Included +$10[+10.00]"
+              {% if product.weight %}
+              data-item-weight="{{ product.weight }}"
+              {% endif %}
+              data-item-image="{{ thumbnail }}"
+            >
               <i class="fa fa-shopping-cart" aria-hidden="true"></i> Add to Cart
             </button>
 

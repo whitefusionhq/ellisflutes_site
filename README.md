@@ -1,20 +1,52 @@
-# Jekyll Foundation Template Website
+# Geoffrey Ellis Flutes (Bridgtown Website)
 
-This site is built using the Jekyll static site generator along with ZURB Foundation 6. It uses Gulp for SASS processing and Bower to load in Foundation's initial CSS/JS components.
+## Table of Contents
 
-We use Foreman to start `foundation watch` (basically runs Gulp) and `jekyll serve`. The CSS is auto-generated into the `_jekyll/css` folder from the original `scss` folder, and we've manually copied the main Foundation JS file into `_jekyll/js`.
+- [Prerequisites](#prerequisites)
+- [Install](#install)
+- [Development](#development)
+- [Commands](#commands)
+- [Deployment](#deployment)
+- [Contributing](#contributing)
 
-## Get Started
+## Prerequisites
 
-Make sure you have `npm` installed. Make sure you have `rvm` installed. The `.ruby-version` file will set up a new gemset for rvm when you `cd` into the project folder.
+- [GCC](https://gcc.gnu.org/install/)
+- [Make](https://www.gnu.org/software/make/)
+- [Ruby](https://www.ruby-lang.org/en/downloads/)
+  - `>= 2.5`
+- [Bridgetown Gem](https://rubygems.org/gems/bridgetown)
+  - `gem install bundler bridgetown -N`
+- [Node](https://nodejs.org)
+  - `>= 10.13`
+- [Yarn](https://yarnpkg.com)
 
-1. Run `npm install --global foundation-cli` (note: if you installed npm via Homebrew on macOS, you might need to manually create a symlink in /usr/local/bin to the `foundation` executable that was installed. Otherwise, you might need to run this via `sudo`.)
-2. Run `npm install --global bower` (note: same caveats as above)
-3. Run `npm install`
-4. Run `bower install`
-5. Run `bundle install` (note: you may need to run `gem install bundler` first)
-6. Run `gem install foreman`
-7. Run `foreman start`.
-8. You should be able to view the site now at [http://127.0.0.1:4001/](http://127.0.0.1:4001/). If you need to change the port number from 4001, just edit the `Procfile`.
+## Install
 
-—[WHITEFUSION*UX](http://ux.whitefusion.io)
+```sh
+cd ellisflutes_site
+bundle install && yarn install
+```
+
+To start your site in development mode, run `yarn start` and navigate to [localhost:4000](https://localhost:4000/)!
+
+### Commands
+
+```sh
+# running locally
+yarn start
+
+# build & deploy to production
+yarn deploy
+
+# load the site up within a Ruby console (IRB)
+bundle exec bridgetown console
+```
+
+> Learn more: [Bridgetown CLI Documentation](https://www.bridgetownrb.com/docs/command-line-usage)
+
+## Deployment
+
+You can deploy Bridgetown sites on "Jamstack" hosts (Netlify, Vercel, Render, etc.) or virtually any tranditional web server by simply building and copying the output folder to your HTML root.
+
+> Read the [Bridgetown Deployment Documentation](https://www.bridgetownrb.com/docs/deployment) for more information.

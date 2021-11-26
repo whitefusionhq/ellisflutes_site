@@ -4,7 +4,7 @@
   <head>
     {% render "head", site: site, page: page, bridgetown: bridgetown %}
   </head>
-  <body class="{{ page.layout }}{{ page.extra_page_class }} spaced-footer">
+  <body class="{{ page.layout }}{{ page.extra_page_class }} spaced-footer" data-api-url="{{ site.api_url }}">
     {% render "header" %}
 
     <header id="page-title">

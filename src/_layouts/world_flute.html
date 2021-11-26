@@ -4,7 +4,7 @@
   <head>
     {% render "head", site: site, page: page, bridgetown: bridgetown %}
   </head>
-  <body class="{{ page.layout }}{{ page.extra_page_class }} spaced-footer">
+  <body class="{{ page.layout }}{{ page.extra_page_class }} spaced-footer" data-api-url="{{ site.api_url }}">
     {% render "header" %}
 
     <header id="page-title">
@@ -24,23 +24,25 @@
       {{ content }}
     </div>
 
-    <!-- disabled -->
-    {% if 1 == 2 %}
-    {% assign products = site.products | where: "categories", page.product_category %}
-    {% if products.size > 0 %}
-      <hr />
-      <h2 class="text-center">Store</h2>
-      <hr />
-      <br/><br/>
+    {% if page.product_category == "bamboo" %}
+      {% assign products = site.products | where: "categories", page.product_category %}
+      {% if products.size > 0 %}
+        <br/><br/>
+        <hr />
+        <h2 id="store" class="text-center">Store</h2>
+        <hr />
+        <br/><br/>
 
-      {% for product in products %}
-        <!-- SKU: {{ product.slug }} -->
-        {% render "product", site: site, product: product %}
-      {% endfor %}
-    {% endif %}
-    {% endif %}
-
-    <p class="text-center" style="margin: 3rem 0"><a href="/products" class="button large"><i class="fa fa-shopping-cart"></i> Shop for Flutes</a></p>
+        {% for product in products %}
+          <!-- SKU: {{ product.slug }} -->
+          {% render "product", site: site, product: product %}
+        {% endfor %}
+      {% else %}
+        <br/><br/>
+      {% endif %}
+    {% else %}
+      <p class="text-center" style="margin: 3rem 0"><a href="/products" class="button large"><i class="fa fa-shopping-cart"></i> Shop for Flutes</a></p>
+    {% endif %}  
 
     {% if page.custom_ordering and page.custom_ordering != "" %}
       <hr />

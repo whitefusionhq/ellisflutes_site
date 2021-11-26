@@ -1,5 +1,9 @@
 # Changelog
 
+## Version 2.0 (December 2020)
+
+* Upgrade the site to Bridgetown
+
 ## Version 1.1 (November 3, 2017)
 
 * Updated Jekyll to 3.6.2

@@ -20,7 +20,7 @@
 
   <link href="https://cdn.snipcart.com/themes/2.0/base/snipcart.min.css" rel="stylesheet" type="text/css" />
   <link rel="stylesheet" href="{% webpack_path css %}" />
-  <link rel="stylesheet" href="{{ site.baseurl }}/css/fa/font-awesome.min.css" />
+  <link rel="stylesheet" href="/css/fa/font-awesome.min.css" />
 
   <script src="/js/jquery.min.js"></script>
   {% if bridgetown.environment == "production" %}
@@ -43,5 +43,5 @@
     </script>
   {% endif %}
   
-  <script src="{{ site.baseurl }}/js/modernizr.custom.js"></script>
+  <script src="/js/modernizr.custom.js"></script>
   <script src="{% webpack_path js %}" defer></script>
