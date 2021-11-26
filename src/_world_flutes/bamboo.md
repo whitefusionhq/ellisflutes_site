@@ -5,6 +5,7 @@ subtitle: These are bamboo.
 extra_page_class: ''
 product_category: bamboo
 cloudinary_id: rlsfjgii5qflqxmbpezr
+hide_from_indexes: true
 ---
 
 ### Bamboo Flutes
