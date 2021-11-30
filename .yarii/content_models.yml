@@ -60,6 +60,7 @@ default: &default
         field_type: cloudinary_multiple
         field_name: cloudinary_ids
         label: Gallery Images
+        placeholder: ""
       -
         field_type: text
         field_name: title
