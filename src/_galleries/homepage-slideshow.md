@@ -2,11 +2,21 @@
 title: Homepage Slideshow
 published: true
 cloudinary_ids:
-- ellisflutes2018/2BocoteQ1_mhljos
-- ellisflutes2018/2BocoteQ2_ghn6up
-- ellisflutes2018/2BocoteQ3_yhpu3v
+  - ellisflutes2018/SquareShak1
+  - ellisflutes2018/SlideShow2
+  - MixedHeadjoints_fblwql
+  - ellisflutes2018/SlideShow4c
+  - ellisflutes2018/SlideShow5c
+  - ellisflutes2018/SlideShow6
+  - jukxcq1gd7cmy8klpciz
+  - ellisflutes2018/SlideShow8
 ---
 
-Item 1
-Item 2
-Item 3
+Image 1
+Image 2
+Image 3
+Image 4
+Image 5
+Image 6
+Image 7
+Image 8

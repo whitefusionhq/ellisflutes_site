@@ -9,8 +9,11 @@ extra_page_class: ''
 <div class="no-para-margin fade-on-load">
   <bamboo-slideshow speed="1500" timeout="4500">
     <bamboo-slides>
-      {% for slideshow_image_id in site.slideshow_image_ids %}
-        <bamboo-slide style="background-image:url({{ slideshow_image_id | cloudinary_url:'w_2048,h_4000,c_limit,a_exif,q_75' }})"></bamboo-slide>
+      {% find slideshow_gallery in site.galleries, title == "Homepage Slideshow" %}
+      {% for slideshow_image_id in slideshow_gallery.cloudinary_ids %}
+        <bamboo-slide style="background-image:url({{ slideshow_image_id | cloudinary_url:'w_2048,h_4000,c_limit,a_exif,q_75' }})">
+          <!-- bamboo-caption part="caption">{{ slideshow_gallery.captions[forloop.index0] }}</bamboo-caption -->
+        </bamboo-slide>
       {% endfor %}
     </bamboo-slides>
   </bamboo-slideshow>
