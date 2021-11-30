@@ -53,6 +53,24 @@ default: &default
         field_type: markdown
         field_name: content
         placeholder: Blog post content goes here…
+  gallery:
+    class_name: Gallery
+    primary_fields:
+      -
+        field_type: cloudinary_multiple
+        field_name: cloudinary_ids
+        label: Gallery Images
+      -
+        field_type: text
+        field_name: title
+        label: Name
+        placeholder: Untitled Gallery
+    additional_fields: []
+    content_fields:
+      -
+        field_type: textarea
+        field_name: content
+        placeholder: Image captions (one per line)
   world_flutes:
     order_by: title
     order_direction: asc

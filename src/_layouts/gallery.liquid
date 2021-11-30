@@ -1,0 +1,40 @@
+---
+layout: default
+---
+
+<header id="page-title">
+  <h1 class="text-center">Gallery: {{ page.title }}</h1>
+</header>
+
+<section class="row fade-on-load">
+  <div id="content" class="medium-8 medium-offset-2 columns" style="padding-bottom:8rem">
+    {% for cloudinary_id in page.cloudinary_ids %}
+      {% assign largeid = cloudinary_id | slugify | prepend: "large-" %}
+
+      <figure onclick="$('#{{ largeid }}')[0].open = true" style="display: inline-block">
+        <img
+          src="{{ cloudinary_id | cloudinary_url:'a_exif,c_fill,h_200,q_75,w_200' }}"
+          class="image-preview"
+          alt="gallery thumbnail image"
+          loading="lazy"
+        />
+        <figcaption>{{ page.captions[forloop.index0] }}</figcaption>
+      </figure>
+
+      <sl-dialog
+        id="{{ largeid }}"
+        style="--width: 100%; --sl-panel-background-color: transparent; --header-spacing: 0"
+        onclick="this.open = false"
+      >
+        <figure class="text-center">
+          <img
+            src="{{ cloudinary_id | cloudinary_url:'a_exif,c_limit,h_4000,q_75,w_2048' }}"
+            alt="large product image"
+            loading="lazy"
+          />
+        </figure>
+      </sl-dialog>
+
+    {% endfor %}
+  </div>
+</section>

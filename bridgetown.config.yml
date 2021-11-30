@@ -19,6 +19,9 @@ collections:
   world_flutes:
     output: true
     permalink: /world-flutes/:slug
+  galleries:
+    output: true
+    permalink: /galleries/:slug
 #  ja_world_flutes:
 #    output: true
 #    permalink: /ja/world-flutes/:slug
@@ -36,6 +39,12 @@ defaults:
       type: products
     values:
       layout: product
+      lang: en
+  - scope:
+      path: ""
+      type: galleries
+    values:
+      layout: gallery
       lang: en
   - scope:
       path: ""
