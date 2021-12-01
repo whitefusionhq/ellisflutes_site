@@ -14,7 +14,7 @@ It is the grandfather of what later became the shakuhachi flute after it migrate
 
 There are many varieties of xiao, with different design characteristics. I currently make an eight hole instrument with a capped mouthpiece (the Chinese nomenclature around the xiao is not always clear, but I have heard these referred to as a “bei xiao”). This version is sealed at the mouthpiece end and has a small aperture cut into it through which the player blows. The cap is made from ebonite (natural hard rubber). Un-capped (open end versions) are available upon request as a custom option.  The bei xiao favors a narrow bore to impart a distinct timbre that is valued for classical Chinese music.
 
-The xiao is not just for Chinese music (though it excels in that context). These are fully-realized open-holed flutes with a tremendous range, and are ideal for many forms of music. You can play in a wide variety of styles with a remarkable tonal range. A true, Desert Island Flute! 
+The xiao is not just for Chinese music (though it excels in that context). These are fully-realized open-holed flutes with a tremendous range, and are ideal for many forms of music. You can play in a wide variety of styles with a remarkable tonal range. 
 
 I have recently redesigned my entire xiao line.  If you are interested in how this came about and and what is different about the new xiao, you can read my blog on the subject:  [Revisiting The Xiao.](https://www.ellisflutes.com/blog/revisiting-the-xiao)
 
