@@ -26,7 +26,7 @@ Me:  “Well, I don’t sell seconds and I can’t keep all of them because I ca
 
 Him:  “I’m taking these with me—I can fit them in my suitcase”.
 
-Me:  “Check inside for spiders—they’ve been in there for a couple of weeks…”
+Me:  “Check inside for spiders—they’ve been sitting there for a couple of weeks…”
 
 Now I must admit that it goes against the grain to have to throw out flutes that at one point I considered good enough to sell.  And I know of a few players who have cringed in horror at this practice.  But to my chagrin, all of my attempts to explain *why* I feel compelled to do this haven’t really seemed to convince anyone that it’s a reasonable practice. 
 
