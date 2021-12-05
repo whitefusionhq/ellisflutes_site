@@ -46,5 +46,12 @@ body.post, body.page {
         border: 6px solid #f1c363;
       }
     }
+
+
+    bamboo-slideshow {
+      @media (min-width: 767px) {
+        height: 42vw;
+      }
+    }
   }
 }
