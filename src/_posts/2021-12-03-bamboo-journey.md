@@ -14,6 +14,10 @@ This is something I’m qualified to say, because over the last twenty-four year
 
 And this love is not limited to flutes, since it is probably the single most versatile and useful plant on Earth, and most human beings seem to feel a deep, inner connection with it.  And despite the tendency of some types of bamboo to crack, it’s completely accepted as part of the bamboo experience.  After all, cracks can usually be repaired.
 
+
+{% gallery Homepage Slideshow %}
+
+
 I love bamboo as well.  Two of my personal favorite flutes in my collection are bamboo (and neither was made by me).  One is a Patrick Olwell bamboo D transverse flute and other is a xiao from China (I don’t recall the name of the maker, but I can attest that he is very skilled).   These flutes have a sound…a vibe, if you will.   In short, they feel good.  They sound really good, and they even smell good!  There is just something about bamboo.
 
 So, even though I love bamboo and everyone else does too, until recently I have never made bamboo flutes.  Why is that?
