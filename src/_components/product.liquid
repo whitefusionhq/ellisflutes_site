@@ -43,7 +43,7 @@
     <div class="small-12 medium-6 columns">
       <h3>{{ product.title }}</h3>
 
-      <h4>{{ product.price | times:100 | money }}
+      <h4>{{ product.price | money }}
 
         {% unless product.out_of_stock %}
           <check-product-stock sku="{{ product.slug }}">
