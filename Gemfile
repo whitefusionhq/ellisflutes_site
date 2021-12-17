@@ -4,5 +4,6 @@ gem "bridgetown", "~> 0.21"
 
 group :bridgetown_plugins do
   gem "cloudinary"
-  gem "money", "~> 6.8"
 end
+
+gem "money", "~> 6.8"
