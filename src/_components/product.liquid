@@ -81,7 +81,13 @@
 
       {% if product.html_embed and product.html_embed != '' %}
         <div class="callout"><!-- HTML embed for YouTube, Soundcloud, etc. -->
-          {{ product.html_embed }}
+          {% if product.html_embed contains "youtube.com/embed" %}
+            <div class="responsive-embed widescreen">
+              {{ product.html_embed }}
+            </div>
+          {% else %}
+            {{ product.html_embed }}
+          {% endif %}
         </div>
       {% endif %}
     </div>
