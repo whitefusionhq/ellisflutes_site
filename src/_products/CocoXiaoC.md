@@ -2,7 +2,7 @@
 title: NEW! Updated design.  Cocobolo Xiao, Key of C/F (FOR DOMESTIC SALE ONLY)
 date: '2022-02-14T18:48:53+00:00'
 categories: xiao
-published: false
+published: true
 price: 675
 cloudinary_ids:
 - ellisflutes2018/CocoC1_e6mqat

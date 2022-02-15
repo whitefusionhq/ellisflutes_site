@@ -2,7 +2,7 @@
 title: NEW! Updated design.  Stained Boxwood Xiao, Key of D/G
 date: '2022-02-14T17:57:59+00:00'
 categories: xiao
-published: false
+published: true
 price: 700
 cloudinary_ids:
 - ellisflutes2018/BoxD1_knf5xk

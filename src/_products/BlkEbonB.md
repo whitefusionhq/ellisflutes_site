@@ -2,7 +2,7 @@
 title: NEW! Updated design.  Black Ebonite Xiao, Key of B/E
 date: '2022-02-14T15:48:08+00:00'
 categories: xiao
-published: false
+published: true
 price: 750
 cloudinary_ids:
 - ellisflutes2018/BlkEbonB1_lz59rg

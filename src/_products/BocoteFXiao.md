@@ -2,7 +2,7 @@
 title: NEW! Updated design.  Bocote Xiao, Key of F/Bflat
 date: '2022-02-14T17:51:14+00:00'
 categories: xiao
-published: false
+published: true
 price: 600
 cloudinary_ids:
 - ellisflutes2018/BocF1_mor6fr

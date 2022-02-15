@@ -2,7 +2,7 @@
 title: NEW! Updated design.  Maple (faux bamboo) Xiao, Key of D/G
 date: '2022-02-14T19:11:26+00:00'
 categories: xiao
-published: false
+published: true
 price: 550
 cloudinary_ids:
 - ellisflutes2018/FBD1a_evxs9r

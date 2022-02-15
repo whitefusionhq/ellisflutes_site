@@ -2,7 +2,7 @@
 title: NEW! Updated design.  Stained Boxwood Xiao, Key of F/Bflat
 date: '2022-02-14T18:05:28+00:00'
 categories: xiao
-published: false
+published: true
 price: 700
 cloudinary_ids:
 - ellisflutes2018/BoxF1_r6tlly

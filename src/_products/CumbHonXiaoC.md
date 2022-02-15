@@ -2,7 +2,7 @@
 title: NEW! Updated design.  Cumberland-Honey Ebonite Xiao, Key of C/F
 date: '2022-02-14T18:55:26+00:00'
 categories: xiao
-published: false
+published: true
 price: 900
 cloudinary_ids:
 - ellisflutes2018/EbonC1_qx7epy

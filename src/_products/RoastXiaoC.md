@@ -2,7 +2,7 @@
 title: NEW! Updated design. Roasted Curly Maple Xiao, Key of C/F
 date: '2022-02-14T21:23:44+00:00'
 categories: xiao
-published: false
+published: true
 price: 600
 cloudinary_ids:
 - ellisflutes2018/RstMapC1_hqrzv3
