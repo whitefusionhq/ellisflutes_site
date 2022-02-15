@@ -1,14 +1,13 @@
 ---
-title: NEW! Updated design.  Cherry Xiao, Key of D/G
-date: '2021-10-11T18:31:21+00:00'
+title: NEW! Updated design.  Stained Boxwood Xiao, Key of D/G
+date: '2022-02-14T17:57:59+00:00'
 categories: xiao
-published: true
-price: 550
+published: false
+price: 700
 cloudinary_ids:
-- ellisflutes2018/CherryXiao1_qysghy
-- ellisflutes2018/CherryXiao2_vcu4rq
-- ellisflutes2018/CherryXiao3_d0u6s0
-- ellisflutes2018/CherryXiao4_oms0fz
+- ellisflutes2018/BoxD1_knf5xk
+- ellisflutes2018/BoxD2_sf5kfw
+- ellisflutes2018/BoxD3_fickum
 html_embed: "<iframe width=\"100%\" height=\"20\" scrolling=\"no\" frameborder=\"no\"
   allow=\"autoplay\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1141899223&color=%23ff5500&inverse=false&auto_play=false&show_user=true\"></iframe><div
   style=\"font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow:
@@ -19,17 +18,17 @@ html_embed: "<iframe width=\"100%\" height=\"20\" scrolling=\"no\" frameborder=\
   Ellis Flutes</a> · <a href=\"https://soundcloud.com/earth-tone-flutes/rain-in-jiang-nan-performed-by-connor-keene\"
   title=\"Rain In Jiang Nan - Performed by Connor Keene\" target=\"_blank\" style=\"color:
   #cccccc; text-decoration: none;\">Rain In Jiang Nan - Performed by Connor Keene</a></div>\r\n"
-out_of_stock: true
-inventory: 0
+out_of_stock: false
+inventory: 1
 weight: 450
 ---
 
-Cherry wood Xiao, Key of D, tonic G.
+Boxwood (stained), Key of D.  Boxwood is a wonderful wood for flutes, but it is very costly (which is reflected in the price).  Finding pieces long enough to make a xiao is not easy! 
 
-New narrow bore xiao design brings a richer harmonic spectrum and improved intonation.  Redesigned mouthpiece with ebonite cap.  To learn more about how the new design came about, check out my blog: [Revisiting the Xiao.](https://www.ellisflutes.com/blog/revisiting-the-xiao)
+This new narrow bore xiao design brings a richer harmonic spectrum and improved intonation.  Redesigned mouthpiece with ebonite cap.  To learn more about how the new design came about, check out my blogs: [Revisiting the Xiao.](https://www.ellisflutes.com/blog/revisiting-the-xiao) and [Keene on the Xiao](https://www.ellisflutes.com/blog/keene-on-the-xiao)
 
 The xiao is not just for Chinese music (though it excels in that context).  These are fully-realized open-holed flutes with a tremendous range, and are ideal for many forms of music.  You can play in a wide variety of styles with a remarkable tonal range.  A true, Desert Island Flute!  You can learn more about the xiao [HERE](https://www.ellisflutes.com/world-flutes/xiao).
 
-*For all wooden flutes, I recommend one of my Flute Care Kits. They are only available as an add-on purchase at the time of checkout (after you have pressed the “Add to cart” button you will see the option for the care kit right along side and you have to select it from the menu). The care kit includes the recommended wax, fine steel wool and instructions for maintaining the finish on your flute. Not for use on ebonite flutes.*
+*For all flutes, I recommend one of my Flute Care Kits. They are only available as an add-on purchase at the time of checkout (after you have pressed the “Add to cart” button you will see the option for the care kit right along side and you have to select it from the menu).*
 
 Listen to Connor Keene performing on the new xiao design in the key of D!

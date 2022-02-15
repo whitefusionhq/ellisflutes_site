@@ -1,23 +1,28 @@
 ---
-title: Curly Douglas Fir Basketmaker, Key of Bflat (right-handed)
-date: '2021-06-02T22:59:09+00:00'
+title: Curly Douglas Fir Basketmaker, Key of Bflat (Right-handed)
+date: '2022-02-14T21:47:09+00:00'
 categories: rim-blown
-published: true
+published: false
 price: 350
 cloudinary_ids:
-- ellisflutes2018/CDFBasketBflat1_uning9
-- ellisflutes2018/CDFBasketBflat2_v9jtuk
-- ellisflutes2018/CDFBasketBflat3_zpye3m
-- ellisflutes2018/CDFBasketBflat4_yacnqr
-html_embed: <iframe width="100%" height="20" scrolling="no" frameborder="no" allow="autoplay"
-  src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/536548146&color=%23ff5500&inverse=false&auto_play=false&show_user=true"></iframe>
-out_of_stock: true
-inventory: 0
+- ellisflutes2018/CDFBasket1_zdlnjh
+- ellisflutes2018/CDFBasket2_ng21wf
+- ellisflutes2018/CDFBasket3_ioeyog
+html_embed: '<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay"
+  src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/217467941&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div
+  style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow:
+  hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida
+  Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight:
+  100;"><a href="https://soundcloud.com/earth-tone-flutes" title="Geoffrey Ellis Flutes"
+  target="_blank" style="color: #cccccc; text-decoration: none;">Geoffrey Ellis Flutes</a>
+  · <a href="https://soundcloud.com/earth-tone-flutes/chaco-canyon-flute-sample" title="Chaco
+  Canyon Flute Sample" target="_blank" style="color: #cccccc; text-decoration: none;">Chaco
+  Canyon Flute Sample</a></div>'
+out_of_stock: false
+inventory: 1
 weight: 450
 ---
 
-Beautiful and rare Curly Douglas Fir Basketmaker, Key of Bflat for a right-handed player.  This flute has a decorative black ebonite foot cap.  Sorry the sound sample is in the key of A, but it will give you a feeling for the range.
+Rare Curly Douglas Fir Basketmaker, Key of Bflat for right-handed player.  
 
-*For all wooden flutes, I recommend one of my Flute Care Kits.  They are only available as an add-on purchase at the time of checkout (after you have pressed the “Add to cart” button you will see the option for the care kit right along side and you have to select it from the menu). The care kit includes the recommended wax, fine steel wool and instructions for maintaining the finish on your flute.  Not for use on ebonite flutes.*
-
-Listen to Scott August demonstrating the Basketmaker flute!
+*For all flutes, I recommend one of my Flute Care Kits. They are only available as an add-on purchase at the time of checkout (after you have pressed the “Add to cart” button you will see the option for the care kit right along side and you have to select it from the menu).*
