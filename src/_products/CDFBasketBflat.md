@@ -2,7 +2,7 @@
 title: Curly Douglas Fir Basketmaker, Key of Bflat (Right-handed)
 date: '2022-02-14T21:47:09+00:00'
 categories: rim-blown
-published: false
+published: true
 price: 350
 cloudinary_ids:
 - ellisflutes2018/CDFBasket1_zdlnjh

@@ -2,7 +2,7 @@
 title: Curly Maple (stained) Basketmaker, Key of A (right-handed)
 date: '2022-02-14T21:50:45+00:00'
 categories: rim-blown
-published: false
+published: true
 price: 320
 cloudinary_ids:
 - ellisflutes2018/CrlyMapBasket1_jwxjo6

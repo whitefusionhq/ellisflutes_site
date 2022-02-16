@@ -2,7 +2,7 @@
 title: Rare Curly Douglas Fir Shakuhachi, 1.8 Key of D
 date: '2022-02-14T21:57:33+00:00'
 categories: shakuhachi
-published: false
+published: true
 price: 750
 cloudinary_ids:
 - ellisflutes2018/CDFShak1_ngblqq
