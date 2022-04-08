@@ -1,5 +1,5 @@
 ---
-title: NEW! Updated design.  East Meets West Series, Maple Barqoue-style xiao, key
+title: NEW! Updated design.  East Meets West Series, Maple Baroque-style xiao, key
   of C/F
 date: '2022-03-28T13:57:20+00:00'
 categories: xiao
