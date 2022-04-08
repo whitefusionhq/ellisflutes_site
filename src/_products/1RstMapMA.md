@@ -21,7 +21,7 @@ inventory: 1
 weight: 450
 ---
 
-rim blown flute featuring the Magen Avot 7-hole scale (has a thumb hole), with ergonomic hole placement for right-handed player.   Beautiful and exotic tuning in the key of C.   Note: the finger hole spacing makes it advisable to use the piper’s grip on the lower holes, using the little finger for the bottom hole.  Fingering chart included with this tuning.
+Roasted Curly Maple rim blown flute featuring the Magen Avot 7-hole scale (has a thumb hole), with ergonomic hole placement for right-handed player.   Beautiful and exotic tuning in the key of C.   Note: the finger hole spacing makes it advisable to use the piper’s grip on the lower holes, using the little finger for the bottom hole.  Fingering chart included with this tuning.
 
 *For all wooden flutes, I recommend one of my Flute Care Kits.  They are only available as an add-on purchase at the time of checkout (after you have pressed the “Add to cart” button you will see the option for the care kit right along side and you have to select it from the menu). The care kit includes the recommended wax, fine steel wool and instructions for maintaining the finish on your flute.  Not for use on ebonite flutes.*
 
