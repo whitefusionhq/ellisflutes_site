@@ -1,5 +1,5 @@
 ---
-title: NEW! Pacific Quilited Maple Magen Avot Rim Blown Flute, Key of C (right-handed)
+title: NEW! Pacific Quilted Maple Magen Avot Rim Blown Flute, Key of C (right-handed)
 date: '2022-03-27T20:15:05+00:00'
 categories: rim-blown
 published: true
