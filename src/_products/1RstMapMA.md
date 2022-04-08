@@ -3,7 +3,7 @@ title: NEW! Roasted Curly Maple Magen Avot Rim Blown Flute, Key of C (right-hand
 date: '2022-03-28T00:52:47+00:00'
 categories: rim-blown
 published: true
-price: 300
+price: 325
 cloudinary_ids:
 - ellisflutes2018/1RstMapMA1_jlmqjd
 - ellisflutes2018/1RstMapMA2_woiwgx
