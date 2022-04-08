@@ -3,7 +3,7 @@ title: NEW! Updated design.  East Meets West Series, Curly Maple Barqoue-style x
   key of C/F
 date: '2022-03-28T13:51:50+00:00'
 categories: xiao
-published: false
+published: true
 price: 1050
 cloudinary_ids:
 - ellisflutes2018/BarMapXiaoC1_qgm6xg

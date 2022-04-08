@@ -2,7 +2,7 @@
 title: NEW! Updated design. Curly Maple Xiao, Key of Bflat/Eflat
 date: '2022-03-28T18:19:08+00:00'
 categories: xiao
-published: false
+published: true
 price: 600
 cloudinary_ids:
 - ellisflutes2018/CrlyMapXiaoBflat1_byo48m

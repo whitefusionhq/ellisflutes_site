@@ -2,7 +2,7 @@
 title: Roasted Curly Maple Basketmaker, Key of Aflat (right-handed)
 date: '2022-04-08T13:44:12+00:00'
 categories: rim-blown
-published: false
+published: true
 price: 325
 cloudinary_ids:
 - ellisflutes2018/RstBasketAflat1_la7ceg

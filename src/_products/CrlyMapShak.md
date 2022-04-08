@@ -1,14 +1,14 @@
 ---
-title: Roasted Curly Maple Shakuhachi, 1.8 Key of D
-date: '2022-03-28T14:08:39+00:00'
+title: Curly Maple (stained) Shakuhachi, 1.8 Key of D
+date: '2022-04-08T14:00:25+00:00'
 categories: shakuhachi
 published: true
-price: 600
+price: 575
 cloudinary_ids:
-- ellisflutes2018/RstMapShak1_du2fbe
-- ellisflutes2018/RstMapShak2_zaql88
-- ellisflutes2018/RstMapShak3_gzjyid
-- ellisflutes2018/RstMapShak4_qcpvh2
+- ellisflutes2018/CrlyMapShak1_qmudf3
+- ellisflutes2018/CrlyMapShak2_hyfail
+- ellisflutes2018/CrlyMapShak3_m2mydb
+- ellisflutes2018/CrlyMapShak4_yfejqu
 html_embed: "<iframe width=\"100%\" height=\"20\" scrolling=\"no\" frameborder=\"no\"
   allow=\"autoplay\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/879684958&color=%23ff5500&inverse=false&auto_play=false&show_user=true\"></iframe><div
   style=\"font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow:
@@ -27,8 +27,8 @@ inventory: 1
 weight: 450
 ---
 
-Luthier grade roasted curly maple with dense figure.  Weight: 247 grams.
+Curly Maple (stained) Shakuhachi, 1.8 Key of D. 
 
-*For all wooden flutes, I recommend one of my Flute Care Kits.  They are only available as an add-on purchase at the time of checkout (after you have pressed the “Add to cart” button you will see the option for the care kit right along side and you have to select it from the menu). The care kit includes the recommended wax, fine steel wool and instructions for maintaining the finish on your flute.  Not for use on ebonite flutes.*
+*For all flutes, I recommend one of my Flute Care Kits. They are only available as an add-on purchase at the time of checkout (after you have pressed the “Add to cart” button you will see the option for the care kit right along side and you have to select it from the menu).*
 
 Listen to the incomparable Zac Zinger perfrom the traditional Kinko style honkyoku piece "Takiochi”!  The sound sample is just above the embedded video (they are sort of close together).

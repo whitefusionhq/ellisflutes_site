@@ -2,7 +2,7 @@
 title: NEW! Updated design.  Curly Douglas Fir Xiao, Key of C/F
 date: '2022-03-28T13:33:20+00:00'
 categories: xiao
-published: false
+published: true
 price: 625
 cloudinary_ids:
 - ellisflutes2018/2CDFXiao1_rspo85

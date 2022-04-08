@@ -3,7 +3,7 @@ title: NEW! Updated design.  East Meets West Series, Maple Barqoue-style xiao, k
   of C/F
 date: '2022-03-28T13:57:20+00:00'
 categories: xiao
-published: false
+published: true
 price: 750
 cloudinary_ids:
 - ellisflutes2018/BarXiaoC1_jgf4bt
