@@ -17,7 +17,7 @@ inventory: 1
 weight: 450
 ---
 
-Boxwood (stained), Key of F.  Boxwood is a wonderful wood for flutes, but it is very costly (which is reflected in the price).  Finding pieces long enough to make a xiao is not easy! 
+Genuine boxwood (*Buxus sempervirens*), stained, Key of F.  Boxwood is a wonderful wood for flutes, but it is very costly (which is reflected in the price).  Finding pieces long enough to make a xiao is not easy! 
 
 This new narrow bore xiao design brings a richer harmonic spectrum and improved intonation.  Redesigned mouthpiece with ebonite cap.  To learn more about how the new design came about, check out my blogs: [Revisiting the Xiao.](https://www.ellisflutes.com/blog/revisiting-the-xiao) and [Keene on the Xiao](https://www.ellisflutes.com/blog/keene-on-the-xiao)
 

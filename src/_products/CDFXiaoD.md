@@ -1,13 +1,14 @@
 ---
-title: NEW! Updated design.  Stained Boxwood Xiao, Key of D/G
-date: '2022-02-14T17:57:59+00:00'
+title: NEW! Updated design.  Curly Douglas Fir Xiao, Key of D/G
+date: '2022-03-28T13:25:39+00:00'
 categories: xiao
-published: true
-price: 700
+published: false
+price: 625
 cloudinary_ids:
-- ellisflutes2018/BoxD1_knf5xk
-- ellisflutes2018/BoxD2_sf5kfw
-- ellisflutes2018/BoxD3_fickum
+- ellisflutes2018/CDFXiaoD1_crod2p
+- ellisflutes2018/CDFXiaoD2_l4ryol
+- ellisflutes2018/CDFXiaoD3_yhsues
+- ellisflutes2018/CDFXiaoD4_jsb2th
 html_embed: "<iframe width=\"100%\" height=\"20\" scrolling=\"no\" frameborder=\"no\"
   allow=\"autoplay\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1141899223&color=%23ff5500&inverse=false&auto_play=false&show_user=true\"></iframe><div
   style=\"font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow:
@@ -23,9 +24,7 @@ inventory: 1
 weight: 450
 ---
 
-Genuine Boxwood  (*Buxus sempervirens*), stained, Key of D.  Boxwood is a wonderful wood for flutes, but it is very costly (which is reflected in the price).  Finding pieces long enough to make a xiao is not easy! 
-
-This new narrow bore xiao design brings a richer harmonic spectrum and improved intonation.  Redesigned mouthpiece with ebonite cap.  To learn more about how the new design came about, check out my blogs: [Revisiting the Xiao.](https://www.ellisflutes.com/blog/revisiting-the-xiao) and [Keene on the Xiao](https://www.ellisflutes.com/blog/keene-on-the-xiao)
+ Rare and beautiful Curly Douglas Fir, key of D/G.  This new narrow bore xiao design brings a richer harmonic spectrum and improved intonation.  Redesigned mouthpiece with ebonite cap.  To learn more about how the new design came about, check out my blogs: [Revisiting the Xiao.](https://www.ellisflutes.com/blog/revisiting-the-xiao) and [Keene on the Xiao](https://www.ellisflutes.com/blog/keene-on-the-xiao)
 
 The xiao is not just for Chinese music (though it excels in that context).  These are fully-realized open-holed flutes with a tremendous range, and are ideal for many forms of music.  You can play in a wide variety of styles with a remarkable tonal range.  A true, Desert Island Flute!  You can learn more about the xiao [HERE](https://www.ellisflutes.com/world-flutes/xiao).
 
