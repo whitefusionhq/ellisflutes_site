@@ -8,8 +8,8 @@ cloudinary_ids:
 - ellisflutes2018/CDFBasket1_zdlnjh
 - ellisflutes2018/CDFBasket2_ng21wf
 - ellisflutes2018/CDFBasket3_ioeyog
-html_embed: '<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay"
-  src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/217467941&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div
+html_embed: '<iframe width="100%" height="20" scrolling="no" frameborder="no" allow="autoplay"
+  src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/217467941&color=%23ff5500&inverse=false&auto_play=false&show_user=true"></iframe><div
   style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow:
   hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida
   Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight:
