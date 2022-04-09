@@ -1,10 +1,11 @@
 ---
-layout: world_flute
 title: The Basketmaker Flute
 subtitle: Modern day interpretations of ancient American Southwest artifacts
-extra_page_class: ''
+published: true
 product_category: rim-blown
 cloudinary_id: ellisflutes2018/Basketmaker
+layout: world_flute
+extra_page_class: ''
 ---
 
 The Basketmaker flute was created in collaboration with recording artist Scott August and features a thumb hole to allow for an extended scale.   The standard tuning I use is a pentatonic major scale available in the keys of F#,G, Aflat, A, Bflat and B.  There is a minor tuned version called the Mojave 6 as well, only available in the key of B which does not have a thumb hole.
@@ -17,4 +18,4 @@ As with other embouchure flutes, the player uses their mouth to direct the airfl
 
 These instruments are considerably more difficult to play than a fipple flute (such as a whistle or a Native American style flute), and they represent one of the most satisfying challenges to the flute player. Do not expect to simply pick one up and start playing!  Some players can get a tone right away, and others take more time.  These flutes take time and *patience* to master, but they are well worth the effort.
 
-For more information on these instruments and their variations, I strongly encourage a visit to [Scott August’s website](http://www.cedarmesa.com/echoesfromtheroad/).
+For more information on these instruments and their variations, I strongly encourage a visit to [Scott August’s website](http://www.cedarmesa.com).
