@@ -2,7 +2,7 @@
 title: Bocote Essential Flute, Key of D
 date: '2022-03-28T14:14:01+00:00'
 categories: transverse-folk
-published: false
+published: true
 price: 399
 cloudinary_ids:
 - ellisflutes2018/BocoteEssenD1_mj9m44

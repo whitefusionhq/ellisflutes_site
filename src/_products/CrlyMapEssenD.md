@@ -2,7 +2,7 @@
 title: Curly Maple Essential Flute, Key of D
 date: '2022-03-28T14:16:34+00:00'
 categories: transverse-folk
-published: false
+published: true
 price: 399
 cloudinary_ids:
 - ellisflutes2018/CrlyMapEssenD1_pjzibl
