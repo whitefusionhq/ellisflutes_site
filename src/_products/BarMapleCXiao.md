@@ -1,6 +1,6 @@
 ---
 title: NEW! Updated design.  East Meets West Series, Curly Maple Baroque-style xiao,
-  key of C/F
+  3-piece tunable, key of C/F
 date: '2022-03-28T13:51:50+00:00'
 categories: xiao
 published: true
