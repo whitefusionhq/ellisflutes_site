@@ -33,6 +33,29 @@ Snipcart.subscribe('cart.ready', function (data) {
 let justAddedItem = false
 let cartOpened = false
 
+const addPoBoxes = () => {
+  let intervalTimer = null
+  let intervalCount = 0
+  if (!document.querySelector("#no-po-boxes")) {
+    setTimeout(() => {
+      intervalTimer = setInterval(() => {
+        if (document.querySelector("#snipcart-actions") && !document.querySelector("#no-po-boxes")) {
+          const poboxes = document.createElement("p")
+          poboxes.id = "no-po-boxes"
+          poboxes.style.color = "#333"
+          poboxes.innerHTML = `NOTE: Shipping address must be a residential or business address, and <b>not</b> a P.O. Box. Domestic carrier is now UPS and they do not deliver to P.O. Boxes.`
+          document.querySelector("#snipcart-actions").append(poboxes)
+          clearInterval(intervalTimer)
+        } else if (intervalCount > 20) {
+          clearInterval(intervalTimer)
+        } else {
+          intervalCount++
+        }
+      }, 100)
+    }, 100)
+  }
+}
+
 Snipcart.subscribe('item.added', function (item) {
   updateCartCount();
   lockItemOnBackend(item)
@@ -40,6 +63,7 @@ Snipcart.subscribe('item.added', function (item) {
   if (cartOpened && !document.querySelector("#product-lockout-notice")) {
     setTimeout(() => {
       addLockoutMessage()
+      addPoBoxes()
     }, 50)
   } else {
     justAddedItem = true
@@ -47,16 +71,25 @@ Snipcart.subscribe('item.added', function (item) {
 });
 
 Snipcart.subscribe('cart.opened', function() {
+  console.info("wee")
   cartOpened = true
   if (justAddedItem && !document.querySelector("#product-lockout-notice")) {
     addLockoutMessage()
   }
+  addPoBoxes()
   justAddedItem = false
 })
 Snipcart.subscribe('cart.closed', function() {
   cartOpened = false
   if (document.querySelector("#product-lockout-notice")) {
     document.querySelector("#product-lockout-notice").remove()
+  }
+});
+
+Snipcart.subscribe('page.validating', function(ev, data) {
+  console.info(ev, data)
+  if((ev.type == 'shipping-address' || ev.type == 'billing-address' && data.shippingSameAsBilling) && data.address1.match(/^P\.? ?O\.? ?Box/)) {
+      ev.addError('address1', 'Please use a residential or business address. Domestic carrier does not ship to P.O. Boxes.');
   }
 });
 
@@ -81,7 +114,8 @@ function addLockoutMessage() {
   const el = document.createElement("p")
   el.id = "product-lockout-notice"
   el.style.color = "#333"
-  el.innerHTML = `<strong style="color:red">!!</strong> You have a 7 minute lock on the product you just added to your cart. If you don't checkout within that time, the product will be made available for purchase to the public once more.`
+  el.style.marginBottom = "1rem"
+  el.innerHTML = `<b style="color:red">!!</b> You have a 7 minute lock on the product you just added to your cart. If you don't checkout within that time, the product will be made available for purchase to the public once more.`
   document.querySelector("#snipcart-actions").append(el)
 }
 
