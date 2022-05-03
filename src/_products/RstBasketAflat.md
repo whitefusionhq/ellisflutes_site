@@ -18,8 +18,8 @@ html_embed: '<iframe width="100%" height="20" scrolling="no" frameborder="no" al
   · <a href="https://soundcloud.com/earth-tone-flutes/anasazi-20-sample" title="Scott
   August- Basketmaker, Key of A" target="_blank" style="color: #cccccc; text-decoration:
   none;">Scott August- Basketmaker, Key of A</a></div>'
-out_of_stock: false
-inventory: 1
+out_of_stock: true
+inventory: 0
 weight: 450
 ---
 
