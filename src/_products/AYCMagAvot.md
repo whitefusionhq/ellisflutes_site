@@ -16,8 +16,8 @@ html_embed: '<iframe width="100%" height="20" scrolling="no" frameborder="no" al
   target="_blank" style="color: #cccccc; text-decoration: none;">Geoffrey Ellis Flutes</a>
   · <a href="https://soundcloud.com/earth-tone-flutes/magen-avot/s-05mWya2lLu0" title="Magen
   Avot" target="_blank" style="color: #cccccc; text-decoration: none;">Magen Avot</a></div>'
-out_of_stock: false
-inventory: 1
+out_of_stock: true
+inventory: 0
 weight: 450
 ---
 
