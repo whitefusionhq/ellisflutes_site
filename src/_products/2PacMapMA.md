@@ -7,15 +7,25 @@ price: 300
 cloudinary_ids:
 - ellisflutes2018/2PacMapMA1_rigtlv
 - ellisflutes2018/2PacMapMA2_k6gk66
-html_embed: '<iframe width="100%" height="20" scrolling="no" frameborder="no" allow="autoplay"
-  src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1246148989%3Fsecret_token%3Ds-05mWya2lLu0&color=%23ff5500&inverse=false&auto_play=false&show_user=true"></iframe><div
-  style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow:
+html_embed: "<iframe width=\"100%\" height=\"20\" scrolling=\"no\" frameborder=\"no\"
+  allow=\"autoplay\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1276316077&color=%23ff5500&inverse=false&auto_play=false&show_user=true\"></iframe><div
+  style=\"font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow:
   hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida
   Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight:
-  100;"><a href="https://soundcloud.com/earth-tone-flutes" title="Geoffrey Ellis Flutes"
-  target="_blank" style="color: #cccccc; text-decoration: none;">Geoffrey Ellis Flutes</a>
-  · <a href="https://soundcloud.com/earth-tone-flutes/magen-avot/s-05mWya2lLu0" title="Magen
-  Avot" target="_blank" style="color: #cccccc; text-decoration: none;">Magen Avot</a></div>'
+  100;\"><a href=\"https://soundcloud.com/earth-tone-flutes\" title=\"Geoffrey Ellis
+  Flutes\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">Geoffrey
+  Ellis Flutes</a> · <a href=\"https://soundcloud.com/earth-tone-flutes/magen-avot-sample-improv\"
+  title=\"Magen Avot Sample - Improv\" target=\"_blank\" style=\"color: #cccccc; text-decoration:
+  none;\">Magen Avot Sample - Improv</a></div>\r\n\r\n\r\n<iframe width=\"100%\" height=\"20\"
+  scrolling=\"no\" frameborder=\"no\" allow=\"autoplay\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1276315624&color=%23ff5500&inverse=false&auto_play=false&show_user=true\"></iframe><div
+  style=\"font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow:
+  hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida
+  Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight:
+  100;\"><a href=\"https://soundcloud.com/earth-tone-flutes\" title=\"Geoffrey Ellis
+  Flutes\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">Geoffrey
+  Ellis Flutes</a> · <a href=\"https://soundcloud.com/earth-tone-flutes/magen-avot-sample-sallys-song\"
+  title=\"Magen Avot Sample - Sally&#x27;s Song\" target=\"_blank\" style=\"color:
+  #cccccc; text-decoration: none;\">Magen Avot Sample - Sally&#x27;s Song</a></div>"
 out_of_stock: false
 inventory: 1
 weight: 450
@@ -25,4 +35,4 @@ Pacific Quilted Maple rim blown flute featuring the Magen Avot 7-hole scale (has
 
 *For all wooden flutes, I recommend one of my Flute Care Kits.  They are only available as an add-on purchase at the time of checkout (after you have pressed the “Add to cart” button you will see the option for the care kit right along side and you have to select it from the menu). The care kit includes the recommended wax, fine steel wool and instructions for maintaining the finish on your flute.  Not for use on ebonite flutes.*
 
-Listen to a short sample of the Magen Avot scale (excuse the simple playing—a more professional sample will be coming soon!)
+Thanks to Connor Keene for the Magen Avot sound samples!
