@@ -2,7 +2,7 @@
 title: Green Ebonite Shakuhachi, 1.8 Key of D
 categories: shakuhachi
 published: true
-price: '1300.0'
+price: 1300
 cloudinary_ids:
 - ellisflutes2018/GreenShak1_dmcz8s
 - ellisflutes2018/GreenShak2_rzkfux

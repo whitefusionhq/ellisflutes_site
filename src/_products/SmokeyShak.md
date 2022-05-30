@@ -2,7 +2,7 @@
 title: Smokey Ebonite Shakuhachi, 1.8 Key of D
 categories: shakuhachi
 published: true
-price: '1300.0'
+price: 1300
 cloudinary_ids:
 - ellisflutes2018/SmokeyShak1_q9r01x
 - ellisflutes2018/SmokeyShak2_mac78o
