@@ -26,8 +26,8 @@ html_embed: "<iframe width=\"100%\" height=\"20\" scrolling=\"no\" frameborder=\
   Ellis Flutes</a> · <a href=\"https://soundcloud.com/earth-tone-flutes/magen-avot-sample-sallys-song\"
   title=\"Magen Avot Sample - Sally&#x27;s Song\" target=\"_blank\" style=\"color:
   #cccccc; text-decoration: none;\">Magen Avot Sample - Sally&#x27;s Song</a></div>"
-out_of_stock: false
-inventory: 1
+out_of_stock: true
+inventory: 0
 weight: 450
 ---
 
