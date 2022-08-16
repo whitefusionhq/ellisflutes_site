@@ -1,7 +1,7 @@
 ---
 title: The Essential Flute
 subtitle: A versatile flute for all types of world music including traditional Irish
-published: true
+published: false
 product_category: transverse-folk
 cloudinary_id: ellisflutes2018/EssentialGroup
 layout: world_flute
