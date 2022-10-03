@@ -1,10 +1,10 @@
 ---
-layout: world_flute
 title: Bamboo Flutes
-subtitle: These are bamboo.
+published: false
+product_category: bansuri
+cloudinary_id: ellisflutes2018/Bamboo_Image22_jgpwa6
+layout: world_flute
 extra_page_class: ''
-product_category: bamboo
-cloudinary_id: rlsfjgii5qflqxmbpezr
 hide_from_indexes: true
 ---
 
@@ -24,7 +24,7 @@ I strongly encourage anyone interested in a bamboo flute to read through the ent
 
 **Custom orders:**
 
-Please note that due to time constraints I cannot accept custom orders for bamboo flutes.  I decided that I don’t want the pressure of deadlines or specific expectations around these flutes, but I will strive to make a variety available as often as possible.  I recommend signing up for my newsletter and I will do an e-mail announcement each time a new batch is going online, giving 24 hours notice before they appear in the store.
+Please note that due to time constraints I cannot accept custom orders for bamboo flutes.  I decided that I don’t want the pressure of deadlines or specific expectations around these flutes, but I will strive to make a variety available as often as possible.  So whereas normally a customer can e-mail me and request that I make a certain flute for them, that is not the case with the bamboo flutes.  I basically just make what I make whenever I can manage it.  I recommend signing up for my newsletter and I will do an e-mail announcement each time a new batch is going online, giving 24 hours notice before they appear in the store.
 
 **Types of bamboo:**
 
@@ -82,11 +82,13 @@ All of my bamboo xiao are one-piece instruments.  This is a very challenging way
 <details markdown="1">
   <summary markdown="1">
 
-### Bamboo Essential Flutes
+### Transverse Flutes
 
   </summary>
 
-These bamboo versions play the diatonic major scale and are suitable for many types of folk music, including Irish Traditional Music and related styles.  They are made from bamboo that exhibits a natural taper in the bore and therefore have a naturally superior tuning balance and response.  The lip plates are also made from bamboo, though they are colored black with non-toxic India ink.
+Most of these bamboo versions play the diatonic major scale and are suitable for many types of folk music, including Irish Traditional Music and related styles.  They are made from bamboo that exhibits a natural taper in the bore and therefore have a naturally superior tuning balance and response.  The lip plates are also made from bamboo, though they are tinted with a dye.  
+
+I also make what I call *meditation flutes* that feature different scales and playing characteristics.
 </details>
 
 <details-preamble></details-preamble>
