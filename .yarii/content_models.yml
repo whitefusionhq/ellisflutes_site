@@ -48,6 +48,11 @@ default: &default
         field_name: layout
         label: Layout Template
         placeholder: Leave blank to use the default template
+      -
+        field_type: text
+        field_name: date
+        label: Date Published
+        placeholder: YYYY-MM-DD
     content_fields:
       -
         field_type: markdown
