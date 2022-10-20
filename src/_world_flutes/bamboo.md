@@ -28,7 +28,7 @@ Please note that due to time constraints I cannot accept custom orders for bambo
 
 **Types of bamboo:**
 
-So far I only use three different types of bamboo.  I use black bamboo (and some others from the same family), as well as very limited amounts of madake, and bambusa multiplex silverstripe.  The silverstripe is used for my transverse flutes because it features a natural taper in the bore which provides superb intonation throughout the scale.
+So far I only use three different types of bamboo.  I use black bamboo (and some others from the same family), bambusa multiplex silverstripe, and very limited amounts of madake.  The silverstripe is used for my transverse flutes because it features a natural taper in the bore which provides superb intonation throughout the scale.
 
 **Types of flutes:**
 
@@ -38,7 +38,7 @@ I make a variety of different types of flutes from bamboo, depending upon what s
 
 There is a widely held belief that bamboo is an inexpensive flute material.  This is very true, especially if you grow your own.  It costs some water and sunlight, and the effort to harvest it. But while the cost of the material might be minimal, the labor involved in utilizing it can be surprising.  The bamboo must be prepared, which involves removing nodes, smoothing the bore, heat-curing and then drying it, all preliminary to being able to use it, so there is a substantial investment of time before the bamboo is even utilized, and then some pieces still get culled during the process.  You might be surprised to hear that the time and labor involved in processing bamboo for flute making is often more than what is required for wood, even though I have to drill/ream the bore of the wooden flute.
 
-I also take extraordinary steps to ensure that the material is as stable as possible and resistant to cracking.  This sometimes involves vacuum stabilization as well as many finish coats of shellac and natural oils to protect the bamboo from sudden shifts in humidity (which is responsible for cracking many a bamboo flute).   And some species also receive the addition of thread wrapping to give extra stability.  These collective steps all contribute to the time investment that goes into each individual instrument, and this is reflected in the cost of the flute.
+I also take extra steps to ensure that the material is as stable as possible and resistant to cracking (see my blog titled "Bamboo Journey").  These collective steps all contribute to the time investment that goes into each individual instrument, and this is reflected in the cost of the flute.
 
 **Cracking:**
 
@@ -46,7 +46,7 @@ As most players of bamboo flutes are aware, cracking can be an issue.  I do ever
 
 **Tuning:**
 
-Most modern instruments are equal tempered and use A440 as their target pitch.  This is the modern orchestral standard.  Many of the flutes I make adhere to this standard, but some don’t.  Some flutes just don’t want to be that rigid, and I might tune to A435, or A432, etc..  This does not mean the flutes will not be “in tune”, because they will always be in proper tune with themselves.  They just might not fit into a modern orchestral setting and may be better suited to solo play.  But each individually listed flute will include this information so you know what you are getting.
+Most modern instruments are equal tempered and use A440 as their target pitch.  This is the modern orchestral standard.  Many of the flutes I make adhere to this standard, but some don’t.  Some flutes just don’t want to be that rigid, and I might tune to A435, or A432, etc., and in some cases (such as the xiao) I target just intonation instead of equal temper (see my blog on tuning).  This does not mean the flutes will not be “in tune”, because they will always be in proper tune with themselves.  They just might not fit into a modern orchestral setting and may be better suited to solo play.  But each individually listed flute will include this information so you know what you are getting.
 
 **All natural ingredients:**
 
@@ -64,7 +64,7 @@ Each piece of bamboo is different, so that means that every single flute is it�
 
   </summary>
 
-My bamboo shakuhachi are strictly jinashi style.  They have a natural bore, with no manipulation of it’s shape.  I tend to use black bamboo or some others from the phyllostachys family (not the more traditional Madake).  So if you are a strict traditionalist, these probably aren’t for you.  But if you want a lovely, well-tuned and fully functional shakuhachi that you can use for personal meditation, then you’ll probably love them.
+My bamboo shakuhachi are strictly jinashi style.  They have a natural bore, with no manipulation of it’s shape.  I tend to use black bamboo or some others from the phyllostachys family (not the more traditional Madake).  So if you are a strict traditionalist, these probably aren’t for you.   Without the modifications to the bore, it may or may not provide the entire range of notes that serious shakuhachi players expect to find.   I can promise that it will play the pentatonic minor scale with good accuracy through the first two octaves.   But if you want a lovely, well-tuned shakuhachi that you can use for personal meditation, then you’ll probably love them.
 </details>
 
 <details-preamble></details-preamble>
