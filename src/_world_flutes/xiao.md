@@ -12,20 +12,32 @@ The Xiao (pronounced “show” as in “shower”) is an ancient Chinese vertic
 
 It is the grandfather of what later became the shakuhachi flute after it migrated to Japan in the 14th century.
 
-There are many varieties of xiao, with different design characteristics. I currently make an eight hole instrument with a capped mouthpiece (the Chinese nomenclature around the xiao is not always clear, but I have heard these referred to as a “bei xiao”). This version is sealed at the mouthpiece end and has a small aperture cut into it through which the player blows. The cap is made from ebonite (natural hard rubber). Un-capped (open end versions) are available upon request as a custom option.  The bei xiao favors a narrow bore to impart a distinct timbre that is valued for classical Chinese music.
+There are many varieties of xiao, with different design characteristics. I make two distinct types of xiao:  The bei xiao and the tang xiao.  
 
-But the xiao is not just for Chinese music (though it excels in that context). These are fully-realized open-holed flutes with a tremendous range, and are ideal for many forms of music. You can play in a wide variety of styles with a remarkable tonal range. 
+Both of these are eight hole instruments with tremendous range.  The bei xiao typically has a capped mouthpiece. This means that it is sealed at the mouthpiece end and has a small aperture cut into it through which the player blows. The cap is made from ebonite (natural hard rubber).   I also make un-capped (open ended versions) of this style that are available upon request as a custom option.  The bei xiao favors a narrow bore to impart a distinct timbre that is valued for classical Chinese music.
+
+The tang xiao has a slightly larger bore and plays the exact same scale over the same range.  However, the tang mouthpiece is quite different, having a wider and shallower "notch" much more akin to the Japanese Shakuahchi.  This different mouthpiece gives the xiao a different voice and slightly different playing characteristics.
+
+I strongly urge anyone who is researching these two types to watch the embedded videos below.  In the first video, professional xiao player Connor Keene gives a complete tour of my bei xiao line with plenty of commentary and demonstrations of the different keys.  In the second (shorter) video he demonstrates and explains the tang xiao.  You can see and hear the differences.
+
+The xiao is not just for Chinese music (though it excels in that context). These are fully-realized open-holed flutes with a tremendous range, and are ideal for many forms of music. You can play in a wide variety of styles with a remarkable tonal range. 
 
 I have recently redesigned my entire xiao line.  If you are interested in how this came about and and what is different about the new xiao, you can read my blogs on the subject:  [Revisiting The Xiao.](https://www.ellisflutes.com/blog/revisiting-the-xiao) and [Keene on the Xiao](https://www.ellisflutes.com/blog/keene-on-the-xiao)
 
-Most of the xiao that I make are one piece instruments (not jointed).  I do make custom flutes with either corked joints or sometimes a metal tuning slide (not available for every key).  I use a wide variety of woods, as well as ebonite, and they are most commonly in the keys of C and D (middle C and the D above it).  Just to make things confusing, there is a difference in how we describe the key of a flute here in the West, versus how the Chinese indicate it. If you buy a xiao from China, it will be marked with either an F or G. What that means is that when all of the holes are closed, the lowest note it plays will actually be C or D, because F and G are considered the tonic notes of those particular flutes.   So when I designate the key, you will see the Western key followed by the Chinese designation. Example: Key of C/F, or D/G. I make bei xiao in a range of tunings (from low to high): A/D, Bflat/Eflat, B/E, C/F, D/G, E/A, and F/Bflat.  
+Most of the xiao that I make are one piece instruments (not jointed).  I do make custom flutes with either corked joints or sometimes a metal tuning slide (not available for every key).  I use a wide variety of woods, as well as ebonite, and they are most commonly in the keys of C and D (middle C and the D above it).  Just to make things confusing, there is a difference in how we describe the key of a flute here in the West, versus how the Chinese indicate it. If you buy a xiao from China, it will be marked with either an F or G. What that means is that when all of the holes are closed, the lowest note it plays will actually be C or D, because F and G are considered the tonic notes of those particular flutes.   So when I designate the key, you will see the Western key followed by the Chinese designation. Example: Key of C/F, or D/G.
 
-To get the best possible overview of these xiao and the tunings available, I recommend watching this video review of the new xiao line:
+I make bei xiao in a range of tunings (from low to high): A/D, Bflat/Eflat, B/E, C/F, D/G, E/A, and F/Bflat.  
+
+The tang xiao is only available in three different tunings: B/E, C/F and D/G.
+
+To get the best possible overview of these xiao and the tunings available, I recommend watching these video reviews of the new xiao line:
 
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/674841764?h=2e5faad0ea&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Ellis Xiao"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/765838414?h=b6f5e4b5a1&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Tang xiao video 1"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
-The length of the bei xiao ranges from around 24” for the smallest xiao up to 36” and it has more than a two octave range.  Skillfully handled it will play four notes of the third (altissimo) octave.  Very skilled players can (technically) achieve fully chromatic play by the use of half-holing, though such notes are not as strong as open-holed notes, and in particular the second note (Eflat on a D/G xiao) will be very anemic when achieved through half-holing.  Because of this it is not really considered a viable option.
+
+The length of the xiao ranges from around 24” for the smallest xiao up to 36” and it has more than a two octave range.  Skillfully handled it will play four notes of the third (altissimo) octave.  Very skilled players can (technically) achieve fully chromatic play by the use of half-holing, though such notes are not as strong as open-holed notes.  
 
 The Xiao (like the rim blown flutes) is an end blown embouchure flute. If a player has experience on any of these flutes they will find the Xiao to be accessible. Just like switching between any two embouchure flutes that are of a different make, adjustments will have to be made, but the skills required for any one of these flutes will translate to any of the others given some patience.
 
