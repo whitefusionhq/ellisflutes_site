@@ -2,7 +2,7 @@
 title: Bamboo Flutes
 published: false
 product_category: bansuri
-cloudinary_id: ellisflutes2018/Bamboo_Image22_jgpwa6
+cloudinary_id: ellisflutes2018/Bamboo_Light_Crop_udiqtm
 layout: world_flute
 extra_page_class: ''
 hide_from_indexes: true
@@ -25,6 +25,10 @@ I strongly encourage anyone interested in a bamboo flute to read through the ent
 **Custom orders:**
 
 Please note that due to time constraints I cannot accept custom orders for bamboo flutes.  I decided that I don’t want the pressure of deadlines or specific expectations around these flutes, but I will strive to make a variety available as often as possible.  So whereas normally a customer can e-mail me and request that I make a certain flute for them, that is not the case with the bamboo flutes.  I basically just make what I make whenever I can manage it.  I recommend signing up for my newsletter and I will do an e-mail announcement each time a new batch is going online, giving 24 hours notice before they appear in the store.
+
+**Sound samples:**
+
+It is rarely possible for me to provide sound samples of individual bamboo flutes.  Each bamboo flute is unique and has its own character and voice, but making an audio sample for each specific flute would be very cumbersome.  Producing a sound sample requires that I sit down, get warmed up, get familiar with the individual flute, play a suitable phrase to show the range of the instrument, then go through the process of editing, uploading, etc..  To do this with each unique flute that goes into the store would be a massively time consuming task.  So I mention this up front because periodically I receive requests to record a sample of a specific flute, and I wanted to explain and forestall such requests.  If I make a truly unusual key or tuning, I will make an effort to create a sound sample.
 
 **Types of bamboo:**
 
@@ -54,7 +58,7 @@ My bamboo flutes aim to be as natural as possible, meaning that I don’t use sy
 
 **Unique:**
 
-Each piece of bamboo is different, so that means that every single flute is it’s own thing.  Even two flutes in the same key will always be different from one another.  This is true of wooden flutes, but to a lesser degree.  Each bamboo flute will have a unique voice and timbre.  I won’t sell a flute that is not a solid instrument in every sense.
+Each piece of bamboo is different, so that means that every single flute is it’s own thing.  Even two flutes in the same key will always be different from one another.  This is true of wooden flutes, but to a lesser degree.  Each bamboo flute will have a unique voice and timbre.  I won’t sell a flute that is not a solid instrument in every sense.  But some pieces will have natural marks on the surface, the result of abrasion or scarring during growth.  I will do my best to fill in any such marks that are highly irregular, and usually I can do so in a way that makes them nearly invisible.  Any pieces that has blemishes that are too outrageous I simply don't use.  But subtle, natural marks are left intact--it's part of the individuality of bamboo.  
 
 <details-preamble></details-preamble>
 <details markdown="1">
@@ -64,7 +68,7 @@ Each piece of bamboo is different, so that means that every single flute is it�
 
   </summary>
 
-My bamboo shakuhachi are strictly jinashi style.  They have a natural bore, with no manipulation of it’s shape.  I tend to use black bamboo or some others from the phyllostachys family (not the more traditional Madake).  So if you are a strict traditionalist, these probably aren’t for you.   Without the modifications to the bore, it may or may not provide the entire range of notes that serious shakuhachi players expect to find.   I can promise that it will play the pentatonic minor scale with good accuracy through the first two octaves.   But if you want a lovely, well-tuned shakuhachi that you can use for personal meditation, then you’ll probably love them.
+My bamboo shakuhachi are not really traditional.  They have a natural bore, with no manipulation of it’s shape.  I tend to use black bamboo or some others from the phyllostachys family (not the traditional Madake root end bamboo).  So if you are a strict traditionalist, these probably aren’t for you.   Without the modifications to the bore, it may or may not provide the entire range of notes that traditional shakuhachi players expect to find.   I can promise that it will play the pentatonic minor scale with good accuracy through the first two octaves and a good player can likely get many of the "in-between" notes that are possible on typical shakuhachi.   So if you want a lovely, well-tuned shakuhachi that you can use for personal meditation, then you’ll probably love them.  But if you are looking to play traditional honkyoku, these may or may not take you where you want to go.
 </details>
 
 <details-preamble></details-preamble>
@@ -75,7 +79,7 @@ My bamboo shakuhachi are strictly jinashi style.  They have a natural bore, with
 
   </summary>
 
-All of my bamboo xiao are one-piece instruments.  This is a very challenging way to make the xiao, but very rewarding.  Clearing the nodes from the bore of a long, single piece flute is a bit of an art, but I personally like the aesthetic of a one-piece xiao.  I’m an avid xiao player myself, so none of these flutes makes it into the store unless it is a flute I would personally play (so the quality has to be very high).
+All of my bamboo xiao are one-piece instruments.  This is a very challenging way to make the xiao, but very rewarding.  Clearing the nodes from the bore of a long, single-piece flute is a bit of an art, but I personally like the aesthetic of a one-piece xiao.  I’m an avid xiao player myself, so none of these flutes makes it into the store unless it is a flute I would personally play (so the quality has to be very high).
 </details>
 
 <details-preamble></details-preamble>
