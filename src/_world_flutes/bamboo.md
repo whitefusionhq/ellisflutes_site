@@ -36,11 +36,11 @@ So far I only use three different types of bamboo.  I use black bamboo (and some
 
 **Types of flutes:**
 
-I make a variety of different types of flutes from bamboo, depending upon what species of bamboo I have available (types are listed below).
+I make a variety of different types of flutes from bamboo, depending upon what species of bamboo I have available (flute types are listed below).
 
 **Cost:**
 
-There is a widely held belief that bamboo is an inexpensive flute material.  This is very true, especially if you grow your own.  It costs some water and sunlight, and the effort to harvest it. But while the cost of the material might be minimal, the labor involved in utilizing it can be surprising.  The bamboo must be prepared, which involves removing nodes, smoothing the bore, heat-curing and then drying it, all preliminary to being able to use it, so there is a substantial investment of time before the bamboo is even utilized, and then some pieces still get culled during the process.  You might be surprised to hear that the time and labor involved in processing bamboo for flute making is often more than what is required for wood, even though I have to drill/ream the bore of the wooden flute.
+There is a widely held belief that bamboo is an inexpensive flute material.  This is true if you grow your own bamboo.  It costs some water and sunlight, and the effort to harvest it. But while the cost of the material might be minimal, the labor involved in utilizing it can be surprising.  The bamboo must be prepared, which involves removing nodes, smoothing the bore, heat-curing and then drying it, all preliminary to being able to use it, so there is a substantial investment of time before the bamboo is even utilized, and then some pieces still get culled during the process.  You might be surprised to hear that the time and labor involved in processing bamboo for flute making is often more than what is required for wood, even though I have to drill/ream the bore of the wooden flute.
 
 I also take extra steps to ensure that the material is as stable as possible and resistant to cracking (see my blog titled "Bamboo Journey").  These collective steps all contribute to the time investment that goes into each individual instrument, and this is reflected in the cost of the flute.
 
