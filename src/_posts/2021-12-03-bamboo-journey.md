@@ -1,6 +1,6 @@
 ---
 date: '2022-11-11T03:12:05+00:00'
-published: false
+published: true
 cloudinary_id: ellisflutes2018/Slideshow6_xrlsef
 title: Bamboo Journey
 subtitle: A new direction on an ancient path
@@ -24,7 +24,7 @@ Well it turns out that all of these challenges weren’t really that challenging
 
 In keeping with my usual methods, once I decided I wanted to get into bamboo I instantly threw myself into the deep end of the pool!  I sourced a bunch of excellent bamboo and started learning the new medium, and I must confess, that I don’t think I’ve ever had this much fun in the course of my career!  
 
-My first bamboo harvest took place in December of 2020 at [Bamboo Sourcery ](https://https://bamboosourcery.com/)in Sebastapol, California, about a four hour drive from where I live.  One of the most enchanting places I've been--a hidden hollow nestled in the hills and filled with every imaginable type of bamboo that can grow outside of the tropics.  The owner and staff were kind and helpful, and when they found out I was going to make flutes they were genuinely excited.  Their generosity and enthusiasm were really inspiring and I spent a delightful day wandering their groves cutting bamboo.  * NOTE:  I devote an entire blog to my second visit which I made just a couple of weeks ago.  Check it out HERE.*
+My first bamboo harvest took place in December of 2020 at [Bamboo Sourcery ](https://https://bamboosourcery.com/)in Sebastapol, California.  The owner and staff were kind and helpful, and when they found out I was going to make flutes they were genuinely pleased.  Their generosity and enthusiasm was really inspiring and I spent a delightful day wandering their groves cutting bamboo.  **(I devote an entire blog to my second visit which I made just a couple of weeks ago.  Check it out HERE.)**
 
 The entire process is completely engaging, from picking over the bamboo stock, selecting which pieces are appropriate for each size and type of flute, heat-curing them, drying them, and ultimately using all of my experience and intuition to figure out how to make them into a fully realized instrument.  Here is a colorful selection from my first bamboo harvest:
 
@@ -44,9 +44,9 @@ And Bamboo Fever has set in to such a degree that I’m actually planting my own
 
 **Part 2 -  Preparing the bamboo**
 
-Until my own groves of bamboo mature, I’m having freshly cut bamboo delivered to me on a regular basis, and the first thing that has to be done is the removal of the nodes, followed by heat-curing and drying.  I live in a cool, humid climate, and I discovered that green bamboo will begin to degrade quite quickly if left uncured, especially in the Winter.  Quite simply, it will grow mold on the inside and get spots of rot on the outer surface.  So while it’s totally fresh, it must be processed.
+Until my own groves of bamboo mature, I’m either harvesting myself or having freshly cut tropical bamboo delivered to me from Florida.   And the first thing that has to be done is the removal of the nodes, followed by heat-curing and drying.  I live in a cool, humid climate, and I discovered that green bamboo--especially the tropical varieties-- can degrade if left uncured, especially in the Winter.  This doesn't always occur, but I try to forestall it by processing the bamboo while it is fresh.
 
-Therefore I remove the nodes from inside the culms (where appropriate).  For those unfamiliar with bamboo, the nodes are naturally occurring membranes that comprise the joints of the bamboo, separating the hollow sections of the stems.  These can be useful at times, but for most of the flutes that I make the nodes need to be removed.  On long piece of bamboo this can be surprisingly difficult, especially when it’s not straight.  To make this more efficient, I have created a wide variety of reamers of different sizes by taking spade bits and grinding them into a sort of teardrop shape and then attaching them to special bit-extensions that go into an electric drill.  This provides me with a series of long reamers with which to clear the nodes completely from the inside of the culm.  This is followed by some polishing with coarse steel wool to clean the bore of any residual debris.  This polishing step happens several times along the way to becoming a flute.  Here is an example of a home-made reamer:
+Therefore I remove the nodes from inside the culms (where appropriate).  For those unfamiliar with bamboo, the nodes are naturally occurring membranes that comprise the joints of the bamboo, separating the hollow sections of the stems.  These can be useful at times, but for most of the flutes that I make the nodes need to be removed.  On long piece of bamboo this can be surprisingly tricky, especially when it’s not straight.  To make this more efficient, I have created a wide variety of reamers of different sizes by taking spade bits and grinding them into a sort of teardrop shape and then attaching them to special bit-extensions that go into an electric drill.  This provides me with a series of long reamers with which to clear the nodes completely from the inside of the culm.  This is followed by some polishing with coarse steel wool to clean the bore of any residual debris.  This polishing step happens several times along the way to becoming a flute.  Here is an example of a home-made reamer:
 
 {% gallery Bamboo Reamer %}
 
@@ -62,7 +62,7 @@ The roofing torch is a powerful propane torch (the type that roofers use for mel
 
 On my black bamboo, I was more more cautious because it is more likely to experience cracking issues, and after some experimentation I decided that vacuum drying it was best, omitting the heat altogether.  Plus the skin of black bamboo is gorgeous in its natural state, and heating it changes its presentation.  After a few experiments I realized that I didn't want to alter the exterior of the black bamboo since it is one of the most visually interesting species I've seen.
 
-But because I’m in a damp climate, I want to take every precaution and get the bamboo as dry as I can before I store it.  So bamboo that I cannot hear cure goes into the vacuum chamber.
+But because I’m in a damp climate, I want to take every precaution and get the bamboo as dry as I can before I store it.  So bamboo that I cannot heat cure goes into the vacuum chamber.
 
 For those of you who have read my past blogs, you will know that I have a large vacuum chamber that I use for resin-infusion of wood.  This is a cylindrical chamber about 40” long and 15” in diameter on the inside.  It’s made of aluminum with a plexiglass door at one end, and various ports for connecting hoses for different purposes.  Its primary function is to create a sustained vacuum inside, using a vacuum pump.  These chambers are often called a “vacuum kiln” because they will dry wood or other substances by physically pulling the moisture out of it!
 
