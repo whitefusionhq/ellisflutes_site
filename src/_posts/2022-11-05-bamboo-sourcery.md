@@ -6,7 +6,7 @@ title: Bamboo Sourcery
 subtitle: And no, it's not misspelled!
 ---
 
-As I mentioned in my previous blog (Bamboo Journey), one of my first steps in starting to work with bamboo was tracking down a source of it.  For some of my bamboo, I had to send out to the tropics for it (Florida!), but for other types I can actually get it right here in Northern California.  I did an internet search for bamboo nurseries and lo, and behold there was one just a four hour drive from where I live.
+As I mentioned in my previous blog ([Bamboo Journey](https://www.ellisflutes.com/blog/bamboo-journey)), one of my first steps in starting to work with bamboo was tracking down a source of it.  For some of my bamboo, I had to send out to the tropics for it (Florida!), but for other types I can actually get it right here in Northern California.  I did an internet search for bamboo nurseries and lo, and behold there was one just a four hour drive from where I live.
 
 It is called [Bamboo Sourcery](https://bamboosourcery.com/), and it is one of the most remarkable places I’ve visited.  It is a plant nursery like none I’ve ever seen before.  Descriptions won’t suffice, so I’m putting a whole bunch of photos in this blog to share the experience.
 
