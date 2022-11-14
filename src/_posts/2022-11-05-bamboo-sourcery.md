@@ -1,6 +1,6 @@
 ---
 date: '2022-11-11T19:03:25+00:00'
-published: true
+published: false
 cloudinary_id: ellisflutes2018/Blue_and_Bamboo_xyvag4
 title: Bamboo Sourcery
 subtitle: And no, it's not misspelled!
