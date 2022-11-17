@@ -1,6 +1,6 @@
 ---
 date: '2022-11-11T03:12:05+00:00'
-published: false
+published: true
 cloudinary_id: ellisflutes2018/Slideshow6_xrlsef
 title: Bamboo Journey
 subtitle: A new direction on an ancient path
