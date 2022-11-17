@@ -7,8 +7,8 @@ cloudinary_ids:
 - jukxcq1gd7cmy8klpciz
 - ellisflutes2018/Slide5_bzvsvs
 - ellisflutes2018/EastWest2_tys888
-- ellisflutes2018/Essential_Bamboo_djlldp
 - ellisflutes2018/Slideshow6_ro1cuv
+- ellisflutes2018/Slideshow_Bamboo_1_iycznc
 ---
 
 Image Caption 1
