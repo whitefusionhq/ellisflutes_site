@@ -1,6 +1,6 @@
 ---
 title: Bamboo Flutes
-published: false
+published: true
 product_category: bamboo
 cloudinary_id: ellisflutes2018/Bamboo_Light_Crop_udiqtm
 layout: world_flute
