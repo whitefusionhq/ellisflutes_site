@@ -25,9 +25,9 @@ New and unique flutes are added to the store on a regular basis. [Time to go sho
 
 <div class="row no-para-margin fade-on-load">
   <div class="columns medium-6 no-padding" markdown="1">
-![Essential Flutes](https://res.cloudinary.com/mariposta/image/upload/w_1500,h_692,c_fill,g_north,a_exif,q_75/ellisflutes2018/EssentialGroup.jpg)
+![Bamboo Flutes](/assets/homepage-bamboo-tile.jpg)
 <div class="blue-tag static second" markdown="1">
-The latest batch of Essential Flutes are here and [they sound truly amazing…](/world-flutes/transverse-folk)
+Introducing an exciting lineup of [high-quality bamboo flutes…](/world-flutes/bamboo)
 </div>
   </div>
   <div class="columns medium-6 no-padding" markdown="1">

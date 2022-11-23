@@ -1,7 +1,7 @@
 ---
 title: Bamboo Flutes
 published: false
-product_category: bansuri
+product_category: bamboo
 cloudinary_id: ellisflutes2018/Bamboo_Light_Crop_udiqtm
 layout: world_flute
 extra_page_class: ''
@@ -10,7 +10,7 @@ hide_from_indexes: true
 
 ### Bamboo Flutes
 
-> **Already read the Intro/FAQ?** [Jump ahead to the Bamboo store!](#store)
+> **Already read the Intro/FAQ?** [Jump to the Bamboo store!](/products/bamboo)
 
 &nbsp;
 
@@ -18,7 +18,7 @@ hide_from_indexes: true
 
 Bamboo is one of the most useful plants on Earth, and it has a millennia long history as being a valued flute-making material in cultures all over the planet.  Crafting high-quality bamboo flutes is a delightful challenge, because each piece is unique and requires the maker to adapt to its organic nature.
 
-I strongly encourage anyone interested in a bamboo flute to read through the entire FAQ section presented here first, and also to read my three-part blog on the subject of bamboo flute craft: [Bamboo Journey](#).
+I strongly encourage anyone interested in a bamboo flute to read through the entire FAQ section presented here first, and also to read my three-part blog on the subject of bamboo flute craft: [Bamboo Journey](/blog/bamboo-journey).
 
 ### Bamboo FAQ
 
