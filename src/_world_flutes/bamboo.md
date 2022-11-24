@@ -42,7 +42,7 @@ I make a variety of different types of flutes from bamboo, depending upon what s
 
 There is a widely held belief that bamboo is an inexpensive flute material.  This is true if you grow your own bamboo.  It costs some water and sunlight, and the effort to harvest it. But while the cost of the material might be minimal, the labor involved in utilizing it can be surprising.  The bamboo must be prepared, which involves removing nodes, smoothing the bore, heat-curing and then drying it, all preliminary to being able to use it, so there is a substantial investment of time before the bamboo is even utilized, and then some pieces still get culled during the process.  You might be surprised to hear that the time and labor involved in processing bamboo for flute making is often more than what is required for wood, even though I have to drill/ream the bore of the wooden flute.
 
-I also take extra steps to ensure that the material is as stable as possible and resistant to cracking (see my blog titled "Bamboo Journey").  These collective steps all contribute to the time investment that goes into each individual instrument, and this is reflected in the cost of the flute.
+I also take extra steps to ensure that the material is as stable as possible and resistant to cracking (see my blog titled "[Bamboo Journey](/blog/bamboo-journey)").  These collective steps all contribute to the time investment that goes into each individual instrument, and this is reflected in the cost of the flute.
 
 **Cracking:**
 
@@ -50,7 +50,7 @@ As most players of bamboo flutes are aware, cracking can be an issue.  I do ever
 
 **Tuning:**
 
-Most modern instruments are equal tempered and use A440 as their target pitch.  This is the modern orchestral standard.  Many of the flutes I make adhere to this standard, but some don’t.  Some flutes just don’t want to be that rigid, and I might tune to A435, or A432, etc., and in some cases (such as the xiao) I target just intonation instead of equal temper (see my blog on tuning).  This does not mean the flutes will not be “in tune”, because they will always be in proper tune with themselves.  They just might not fit into a modern orchestral setting and may be better suited to solo play.  But each individually listed flute will include this information so you know what you are getting.
+Most modern instruments are equal tempered and use A440 as their target pitch.  This is the modern orchestral standard.  Many of the flutes I make adhere to this standard, but some don’t.  Some flutes just don’t want to be that rigid, and I might tune to A435, or A432, etc., and in some cases (such as the xiao) I target just intonation instead of equal temper.  This does not mean the flutes will not be “in tune”, because they will always be in proper tune with themselves.  They just might not fit into a modern orchestral setting and may be better suited to solo play.  But each individually listed flute will include this information so you know what you are getting.
 
 **All natural ingredients:**
 
@@ -68,7 +68,7 @@ Each piece of bamboo is different, so that means that every single flute is it�
 
   </summary>
 
-My bamboo shakuhachi are not really traditional.  They have a natural bore, with no manipulation of it’s shape.  I tend to use black bamboo or some others from the phyllostachys family (not the traditional Madake root end bamboo).  So if you are a strict traditionalist, these probably aren’t for you.   Without the modifications to the bore, it may or may not provide the entire range of notes that traditional shakuhachi players expect to find.   I can promise that it will play the pentatonic minor scale with good accuracy through the first two octaves and a good player can likely get many of the "in-between" notes that are possible on typical shakuhachi.   So if you want a lovely, well-tuned shakuhachi that you can use for personal meditation, then you’ll probably love them.  But if you are looking to play traditional honkyoku, these may or may not take you where you want to go.
+My bamboo shakuhachi are not really traditional.  That are rarely made from Madake (which I don't have a good source for), and most often from bamboo in the *phylostachys* family, which includes black bamboo.  They have a natural bore, with no manipulation of it’s shape.   So if you are a strict traditionalist, these probably aren’t for you.   Without the modifications to the bore, it may or may not provide the entire range of notes that traditional shakuhachi players expect to find.   I can promise that it will play the pentatonic minor scale with good accuracy through the first two octaves and a good player can likely get many of the "in-between" notes that are possible on typical shakuhachi.   So if you want a lovely, well-tuned shakuhachi that you can use for personal meditation, then you’ll probably love them.  But if you are looking to play traditional honkyoku, these may or may not take you where you want to go.
 </details>
 
 <details-preamble></details-preamble>
@@ -90,9 +90,9 @@ All of my bamboo xiao are one-piece instruments.  This is a very challenging way
 
   </summary>
 
-Most of these bamboo versions play the diatonic major scale and are suitable for many types of folk music, including Irish Traditional Music and related styles.  They are made from bamboo that exhibits a natural taper in the bore and therefore have a naturally superior tuning balance and response.  The lip plates are also made from bamboo, though they are tinted with a dye.  
+Most of these bamboo versions play the diatonic major scale and are suitable for many types of folk music, including Irish Traditional Music and related styles.  They are made from bamboo that exhibits a natural taper in the bore which improves the tuning balance and response.  The lip plates are also made from bamboo, though they are tinted with a dye.  
 
-I also make what I call *meditation flutes* that feature different scales and playing characteristics.
+I also occasionally make what I call *meditation flutes* that feature different scales and playing characteristics.
 </details>
 
 <details-preamble></details-preamble>
