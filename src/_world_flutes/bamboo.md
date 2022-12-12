@@ -46,7 +46,7 @@ I also take extra steps to ensure that the material is as stable as possible and
 
 **Cracking:**
 
-As most players of bamboo flutes are aware, cracking can be an issue.  I do everything I can to reduce this risk, but a great deal of the responsibility for preventing this falls to the player.  Sudden changes in temperature and humidity are the problem, and this includes blowing warm air into a cold flute, leaving it in a place that is too dry, leaving it in the sun, in freezing temperatures, etc..  Many players with cherished bamboo flutes keep them in a humidor of some type.  I don’t take returns or make replacements of flutes that crack, but I will repair them if possible (and it usually is possible).   If you live someplace that is very hot and dry or very cold and dry, you might consider whether bamboo is a good idea.  You might do better with one of my wooden instruments.  But generally some common sense flute care will be adequate—just treat them as you would any cherished instrument.
+As most players of bamboo flutes are aware, cracking can be an issue.  I do everything I can to reduce this risk, but a great deal of the responsibility for preventing this falls to the player.  Sudden changes in temperature and humidity are the problem, and this includes blowing warm air into a cold flute, leaving it in a place that is too dry, leaving it in the sun, in freezing temperatures, etc..  Many players with cherished bamboo flutes keep them in a humidor of some type.  I don’t take returns or make replacements of flutes that crack, but I will repair them if possible (and it usually is possible).  And I sometimes will use an otherwise suitable piece of bamboo if it only displays some minor surface cracking (which I stabilize and seal).   If you live someplace that is very hot and dry or very cold and dry, you might consider whether bamboo is a good idea.  You might do better with one of my wooden instruments.  But generally some common sense flute care will be adequate—just treat them as you would any cherished instrument.
 
 **Tuning:**
 
@@ -105,6 +105,29 @@ I also occasionally make what I call *meditation flutes* that feature different 
 
 This category encompasses all of the vertical, endblown flute styles and tunings that are not either the xiao or shakuhachi.
 </details>
+
+### Bamboo Flute Care
+
+AVOID EXTREMES OF TEMPERATURE AND HUMIDITY:  
+
+Bamboo, like wood, is sensitive to changes in temperature and humidity, so try to protect it from extremes.  Probably the most risky place that you are likely to leave a flute is in your car.  Cars can get very got, very quickly if it is a sunny day, and that can stress a bamboo flute.  
+
+Common sense will probably guide you in most situations.  Don’t leave your flute too near to a heat source, don’t leave it on a sunny windowsill, etc..
+
+DON’T PLAY A COLD FLUTE:
+
+Avoiding sudden temperature shifts is important.  If a flute is cold or if you are outside in freezing weather, don’t blow warm air into the flute.  It is better to let the flute gently warm up in a room with a moderate temperature before playing.
+
+GENERAL CARE:
+
+-You don’t need to oil your flute, either inside or out.  The inner bore is finished with multiple coats of button shellac, which is highly water resistant.  However, moisture will condense in the bore when you play, so make sure to let it dry before you put the flute away in a bag or container.  You may choose to use a swab of some type if you can find one that is long enough.
+
+-Waxing the outside of the flute is recommended.  I recommend a nice beeswax paste (I offer this in the optional flute care kits that are available at the time of purchase).  You can wax the flute as often as you like, and this will preserve the finish. 
+
+CAUTION: if you have a flute that has bindings on the outside, you don’t need to wax the bindings, and I recommend you avoid rubbing them.  They are very snugly fitted and then they are coated with lacquer which further stabilizes and secures them, but trauma (such as rubbing) over time can cause them to loosen or unravel.  So when you apply wax and then later buff it, do so only in the spaces between the bindings.
+
+CRACKING:  Bamboo can develop cracks under certain conditions, especially those mentioned above (extremes of temperature and dryness).  Generally this is not the end of the flute, and most cracks can be repaired.  I don’t expect a flute to crack, but if it does I can repair it in most cases.  If your flute develops any cracks, contact me about repair service.  For those who like DIY projects, you can find many videos on YouTube that will show you how to go about fixing a cracked flute.
+
 
 ### Still Got Questions?
 
