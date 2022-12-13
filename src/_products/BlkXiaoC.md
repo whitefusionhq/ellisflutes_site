@@ -2,7 +2,7 @@
 title: Black Bamboo Xiao, Key of C/F (A440)
 date: '2022-12-11T21:34:29+00:00'
 categories: bamboo
-published: false
+published: true
 price: 550
 cloudinary_ids:
 - ellisflutes2018/BlkXiaoC1_ybvtrk

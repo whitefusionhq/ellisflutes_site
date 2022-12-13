@@ -2,7 +2,7 @@
 title: Bamboo transverse, key of Bflat (A440)
 date: '2022-12-11T21:10:31+00:00'
 categories: bamboo
-published: false
+published: true
 price: 425
 cloudinary_ids:
 - ellisflutes2018/BamEssBflat1_cuskwk

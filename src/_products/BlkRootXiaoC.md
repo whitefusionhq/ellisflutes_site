@@ -1,8 +1,8 @@
 ---
-title: Black root-end bamboo Xiao, Key of C/F (A440)
+title: Black bamboo (root-end) Xiao, Key of C/F (A440)
 date: '2022-12-11T21:27:46+00:00'
 categories: bamboo
-published: false
+published: true
 price: 650
 cloudinary_ids:
 - ellisflutes2018/BlkRootXiaoC1_wh0u1w

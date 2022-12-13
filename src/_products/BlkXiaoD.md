@@ -2,7 +2,7 @@
 title: Black Bamboo Xiao, Key of D/G (A440)
 date: '2022-12-12T03:04:08+00:00'
 categories: bamboo
-published: false
+published: true
 price: 550
 cloudinary_ids:
 - ellisflutes2018/BlkXiaoD1_tvhprz

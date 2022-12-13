@@ -2,7 +2,7 @@
 title: Bamboo transverse, key of F (A440)
 date: '2022-12-11T20:59:00+00:00'
 categories: bamboo
-published: false
+published: true
 price: 395
 cloudinary_ids:
 - ellisflutes2018/BamEssF3a_uwmzsv

@@ -2,7 +2,7 @@
 title: Bamboo (phyllostachys) Xiao, Key of B (A440)
 date: '2022-12-12T03:36:49+00:00'
 categories: bamboo
-published: false
+published: true
 price: 550
 cloudinary_ids:
 - ellisflutes2018/PhyloXiaoB1_mvjbfp

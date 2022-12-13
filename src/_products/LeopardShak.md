@@ -2,7 +2,7 @@
 title: Leopard Bamboo Shakuhachi, 2.0 Key of C (A440)
 date: '2022-12-12T03:15:47+00:00'
 categories: bamboo
-published: false
+published: true
 price: 450
 cloudinary_ids:
 - ellisflutes2018/LeopardShak1_b83avw
