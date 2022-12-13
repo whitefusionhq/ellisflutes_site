@@ -9,7 +9,8 @@ cloudinary_ids:
 - ellisflutes2018/LeopardShak2_tpyo5l
 - ellisflutes2018/LeopardShak3_oloasf
 - ellisflutes2018/LeopardShak4_ffbgts
-out_of_stock: true
+out_of_stock: false
+inventory: 1
 weight: 450
 ---
 
