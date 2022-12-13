@@ -11,8 +11,8 @@ cloudinary_ids:
 - ellisflutes2018/BlkRootXiaoC4_u1f7ms
 - ellisflutes2018/BlkRootXiaoC5_ndxjx6
 - ellisflutes2018/BlkRootXiaoC6_jbwqsg
-out_of_stock: false
-inventory: 1
+out_of_stock: true
+inventory: 0
 weight: 450
 ---
 
