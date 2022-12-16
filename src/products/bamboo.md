@@ -11,8 +11,6 @@ extra_page_class: " page product"
 
 &nbsp;
 
-**NEW STOCK IS COMING SOON!  SIGN UP FOR NEWSLETTER TO BE NOTIFIED WHEN THE FIRST BATCH GOES ONLINE!**
-
 **Buying a bamboo flute**
 
 -As mentioned in the FAQ section, I don’t take custom orders for bamboo flutes.  This means that what you see here is what is available.  I  will update this stock as often as possible, and I will always give 24 hours notice before putting new flutes up for sale.  If you subscribe to my newsletter you will be told when this is happening.
