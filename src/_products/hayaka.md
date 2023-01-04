@@ -1,9 +1,9 @@
 ---
-title: hayaka1
-date: '2023-01-04T13:59:47+00:00'
+title: Hayaka
+date: '2023-01-04T14:08:22+00:00'
 categories: rim-blown
 published: true
-price: '375.00'
+price: 375
 out_of_stock: false
 inventory: 1
 weight: 450
