@@ -11,8 +11,8 @@ cloudinary_ids:
 - ellisflutes2018/SapTangD4_xwqace
 html_embed: "<iframe src=\"https://player.vimeo.com/video/765838414?h=b6f5e4b5a1\"
   width=\"640\" height=\"564\" frameborder=\"0\" allow=\"autoplay; fullscreen\" allowfullscreen></iframe>\r\n"
-out_of_stock: false
-inventory: 1
+out_of_stock: true
+inventory: 0
 weight: 450
 ---
 
