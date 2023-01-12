@@ -1,5 +1,5 @@
 ---
-title: NEW! Updated design.  Chakte Kok Xiao, Key of F/Bflat
+title: Chakte Kok Xiao, Key of F/Bflat
 date: '2022-02-14T18:43:50+00:00'
 categories: xiao
 published: true

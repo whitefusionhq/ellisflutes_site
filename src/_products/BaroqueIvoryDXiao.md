@@ -1,6 +1,5 @@
 ---
-title: 'NEW! Updated design. East Meets West Series, Ebonite Baroque-style xiao, key
-  of D/G '
+title: 'NEW! East Meets West Series, Ebonite Baroque-style xiao, key of D/G '
 date: '2022-09-27T13:47:28+00:00'
 categories: xiao
 published: true

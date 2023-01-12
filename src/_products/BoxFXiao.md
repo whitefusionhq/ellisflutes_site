@@ -1,5 +1,5 @@
 ---
-title: NEW! Updated design.  Stained Boxwood Xiao, Key of F/Bflat
+title: Stained Boxwood Xiao, Key of F/Bflat
 date: '2022-02-14T18:05:28+00:00'
 categories: xiao
 published: true

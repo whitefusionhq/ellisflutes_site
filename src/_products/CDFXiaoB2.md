@@ -1,5 +1,5 @@
 ---
-title: NEW! Updated design.  Curly Douglas Fir Xiao, Key of B/E
+title: Curly Douglas Fir Xiao, Key of B/E
 date: '2022-03-28T13:37:48+00:00'
 categories: xiao
 published: true

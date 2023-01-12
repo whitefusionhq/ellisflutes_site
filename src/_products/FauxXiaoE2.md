@@ -1,5 +1,5 @@
 ---
-title: NEW! Updated design.  Maple (faux bamboo) Xiao, Key of E/A
+title: Maple (faux bamboo) Xiao, Key of E/A
 date: '2022-03-28T23:28:15+00:00'
 categories: xiao
 published: true
@@ -23,4 +23,3 @@ The xiao is not just for Chinese music (though it excels in that context).  Thes
 
 *For all flutes, I recommend one of my Flute Care Kits. They are only available as an add-on purchase at the time of checkout (after you have pressed the “Add to cart” button you will see the option for the care kit right along side and you have to select it from the menu).*
 
-Listen to Connor Keene demonstrating the Bflat in this video at the 13:20 mark.
