@@ -40,3 +40,5 @@ So that was how it started.  And like my other fortunate collaborations, this on
 Stay tuned for part 2, in which I’ll dig into the prototyping process and the unexpected fruit that it has yielded.
 
 And please note: *these are in development and not yet available (as of this writing)*.  However, it won’t be long before they are officially released and I’ll provide a lot more information on ordering and options when that happens.
+
+*UPDATE: Since writing this blog I've had a number of inquiries about my potential kaval offerings, so I thought I'd better share the fact that I have abandoned my idea of releasing a line of kaval.  The reasons for this are too numerous to detail here, but upon reflection (and after much experimentation) I decided that player interest--at least in the U.S.--was not sufficient to justify the extensive research and development that would be necessary to really bring this to market.  So I've shelved the project indefinitely.*
