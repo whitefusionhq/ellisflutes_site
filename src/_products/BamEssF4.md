@@ -8,8 +8,8 @@ cloudinary_ids:
 - ellisflutes2018/BamEssF4a_tjnbic
 - ellisflutes2018/BamEssF4b_edynmx
 - ellisflutes2018/BamEssF4c_vfnriu
-out_of_stock: false
-inventory: 1
+out_of_stock: true
+inventory: 0
 weight: 450
 ---
 
