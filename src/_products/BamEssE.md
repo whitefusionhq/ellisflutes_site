@@ -3,7 +3,7 @@ title: Bamboo transverse, key of E (A442)
 date: '2022-12-11T21:03:06+00:00'
 categories: bamboo
 published: true
-price: 395
+price: 350
 cloudinary_ids:
 - ellisflutes2018/BamEssE1_nh7opn
 - ellisflutes2018/BamEssE2_czztzz

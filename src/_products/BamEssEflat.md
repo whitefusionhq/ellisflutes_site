@@ -3,7 +3,7 @@ title: Bamboo transverse, key of Eflat (A444)
 date: '2022-12-11T21:07:23+00:00'
 categories: bamboo
 published: true
-price: 395
+price: 350
 cloudinary_ids:
 - ellisflutes2018/BamEssEflat1_akrzim
 - ellisflutes2018/BamEssEflat2_ws4ypc
