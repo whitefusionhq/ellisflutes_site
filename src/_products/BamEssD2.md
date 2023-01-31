@@ -3,7 +3,7 @@ title: Bamboo transverse, key of D (A440)
 date: '2022-12-11T21:13:09+00:00'
 categories: bamboo
 published: true
-price: 395
+price: 350
 cloudinary_ids:
 - ellisflutes2018/BamEssD2a_yizr1e
 - ellisflutes2018/BamEssD2b_fl7be2
