@@ -10,7 +10,7 @@ extra_page_class: ''
 
 The shakuhachi is a Japanese end blown flute that is normally made with 5 holes and tuned to the pentatonic minor scale. It originally came from China and is traditionally made of bamboo, but modern makers sometimes use plastic and hardwoods. It was used by the monks of the Fuke School of Zen Buddhism in the practice of suizen (blowing meditation).
 
-There are two different types of shakuhachi: _jinashi_ and _jiari_
+Traditionally there are two different types of shakuhachi: _jinashi_ and _jiari_
 
 **Jinashi** means “without paste” and in the context of these modern flutes indicates that the bore is “natural” and is not built up in the way that the jiari style are.
 
@@ -18,7 +18,7 @@ There are two different types of shakuhachi: _jinashi_ and _jiari_
 
 A tapered bore allows for more precise upper octave tuning and a distinct type of voice. Jiari flutes are more often the choice when playing in ensemble settings but many players choose them for their character. 
 
-I make two very different styles of shakuhachi:  *The Wooden Jiari Shakuhachi*, and the *Simple Zen Shakuhachi.*
+I make two very different styles of shakuhachi:  ***The Wooden Jiari Shakuhachi***, and the ***Simple Zen Shakuhachi**.*
 
 
 ### *The Wooden Jiari Shakuhachi*
@@ -39,7 +39,7 @@ Shakuhachi come in various sizes and tunings, but at this time I’m only offeri
 
 The idea behind the *Simple Zen Shakuhachi*  came from reading an article on the acoustics and design of the shakuhachi, which asked the question: *What makes a shakuhachi a shakuhachi?*  
 
-Is it the material it is made from?  Is it the appearance?  The scale it plays, or the characteristic sound?  Or is it a combination of these things? Does the sound come from the mouthpiece design? The player?
+Is it the material it is made from?  Is it the appearance?  The scale it plays, or the characteristic sound?  Or is it a combination of these things? 
 
 I spoke above about the differences between the jiari and jinashi style shakuahchi, but I have recently explored a design that is *neither* the jiari style or the jinashi style.  Bamboo jinashi flutes have irregularities in the bore created by the organic nature of the bamboo culm, and many of the makers who craft these instruments manipulate the bore to some degree, either adding or removing material from the interior of the bore (though not to the extent that the jiari makers use).  I don’t do this.
 
@@ -47,7 +47,7 @@ The premise of the article I was reading about the acoustics of the shakuhachi p
 
 But to achieve this result, I had to take some liberties with the overall design of the flute, and the most noticeable difference is the thin walls of the instrument.  The Simple Zen Shakuhachi is very slender in the body compared to a bamboo instrument, and they are lightweight and very comfortable to hold as a result.  The utaguchi is the same as my jiari instruments, and the finger hole placement and sizing should be quite familiar to players of traditional shakuhachi.  By using this thin-walled design I was able to create an instrument that has superb intonation and will allow the player to hit all the notes that would be expected on a well made traditional shakuhachi, with excellent power and responsiveness.  But to players familiar with bamboo instruments, these will feel quite different in the hand.
 
-The other benefit of this design is that I can craft them more efficiently and thus they are more affordable than the *Wooden Jiari Shakuhachi*, with the 1.8 size being half the cost of the jiari style version that I make.   And it also makes it easier for me to offer them in a wider variety of tunings.
+The other benefit of this design is that I can craft them more efficiently and thus they are more affordable than the *Wooden Jiari Shakuhachi*, with the 1.8 size being half the cost of the jiari style version that I make.   And it also makes it easier for me to offer them in a wider variety of tunings.  And these flutes also have the advantage of stability in environments of changing temperature and humidity. 
 
 Below you can listen to audio samples of these two different styles.
 
