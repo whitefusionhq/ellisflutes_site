@@ -47,14 +47,14 @@ The premise of the article I was reading about the acoustics of the shakuhachi p
 
 But to achieve this result, I had to take some liberties with the overall design of the flute, and the most noticeable difference is the thin walls of the instrument.  The Simple Zen Shakuhachi is very slender in the body compared to a bamboo instrument, and they are lightweight and very comfortable to hold as a result.  The utaguchi is the same as my jiari instruments, and the finger hole placement and sizing should be quite familiar to players of traditional shakuhachi.  By using this thin-walled design I was able to create an instrument that has superb intonation and will allow the player to hit all the notes that would be expected on a well made traditional shakuhachi, with excellent power and responsiveness.  But to players familiar with bamboo instruments, these will feel quite different in the hand.
 
-The other benefit of this design is that I can craft them more efficiently and thus they are more affordable than the Wooden Jiari Shakuhachi, with the 1.8 size being half the cost of the jiari style version that I make.   And it also makes it easier for me to offer them in a wider variety of tunings.
+The other benefit of this design is that I can craft them more efficiently and thus they are more affordable than the *Wooden Jiari Shakuhachi*, with the 1.8 size being half the cost of the jiari style version that I make.   And it also makes it easier for me to offer them in a wider variety of tunings.
 
 Below you can listen to audio samples of these two different styles.
 
 
 
 
-### Sound Samples of Wooden Jiari Shakuhachi
+### Sound Samples of *Wooden Jiari Shakuhachi*
 
 Listen to the incomparable [Zac Zinger](http://www.zaczinger.com) performing traditional Kinko style honkyoku piece "Takiochi"
 This is a full length performance piece (18 minutes) and demonstrates the range of both the player and the flute.  Performed on one of my maple shakuhachi.<br/><br/>  
