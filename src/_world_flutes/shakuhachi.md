@@ -21,7 +21,7 @@ A tapered bore allows for more precise upper octave tuning and a distinct type o
 I make two very different styles of shakuhachi:  *The Wooden Jiari Shakuhachi*, and the *Simple Zen Shakuhachi.*
 
 
-### The Wooden Jiari Shakuhachi
+### *The Wooden Jiari Shakuhachi*
 
 I spent two years researching shakuhachi making and meticulously measuring the bores of a number of high quality shakuhachi flutes.  The shape of the bore creates a characteristic feel and response with the jiarii shakuhachi, and most quality instruments have very similar bore profiles.
 
@@ -35,7 +35,7 @@ My *Wooden Jiari Shakuhachi* also have some advantages that bamboo does not have
 Shakuhachi come in various sizes and tunings, but at this time I’m only offering this style in the 1.8 size (key of D).
 
 
-### The Simple Zen Shakuhachi
+### *The Simple Zen Shakuhachi*
 
 The idea behind the *Simple Zen Shakuhachi*  came from reading an article on the acoustics and design of the shakuhachi, which asked the question: *What makes a shakuhachi a shakuhachi?*  
 
