@@ -8,7 +8,6 @@ layout: world_flute
 extra_page_class: ''
 ---
 
-
 The shakuhachi is a Japanese end blown flute that is normally made with 5 holes and tuned to the pentatonic minor scale. It originally came from China and is traditionally made of bamboo, but modern makers sometimes use plastic and hardwoods. It was used by the monks of the Fuke School of Zen Buddhism in the practice of suizen (blowing meditation).
 
 There are two different types of shakuhachi: _jinashi_ and _jiari_
@@ -36,7 +35,7 @@ My *Wooden Jiari Shakuhachi* also have some advantages that bamboo does not have
 Shakuhachi come in various sizes and tunings, but at this time I’m only offering this style in the 1.8 size (key of D).
 
 
-**Introducing the new *Simple Zen Shakuhachi***
+### The Simple Zen Shakuhachi
 
 The idea behind the *Simple Zen Shakuhachi*  came from reading an article on the acoustics and design of the shakuhachi, which asked the question: *What makes a shakuhachi a shakuhachi?*  
 
