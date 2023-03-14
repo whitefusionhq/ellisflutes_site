@@ -1,14 +1,14 @@
 ---
-title: Curly Maple Xiao, Key of D/G
-date: '2023-01-11T14:49:45+00:00'
+title: Curly Maple Xiao (stained), Key of D/G
+date: '2023-03-14T16:33:03+00:00'
 categories: xiao
 published: true
 price: 575
 cloudinary_ids:
-- ellisflutes2018/CrlyMapXiaoD1_umwvve
-- ellisflutes2018/CrlyMapXiaoD2_vdzlkz
-- ellisflutes2018/CrlyMapXiaoD3_g52pj5
-- ellisflutes2018/CrlyMapXiaoD4_okoxyp
+- ellisflutes2018/CrlyRedBeiXinD1_f2ze8c
+- ellisflutes2018/CrlyRedBeiXinD2_g5dg4b
+- ellisflutes2018/CrlyRedBeiXinD3_t2eptz
+- ellisflutes2018/CrlyRedBeiXinD4_a8o9wj
 html_embed: '<iframe width="100%" height="20" scrolling="no" frameborder="no" allow="autoplay"
   src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1141899223&color=%23ff5500&inverse=false&auto_play=false&show_user=true"></iframe><div
   style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow:
@@ -19,12 +19,12 @@ html_embed: '<iframe width="100%" height="20" scrolling="no" frameborder="no" al
   · <a href="https://soundcloud.com/earth-tone-flutes/rain-in-jiang-nan-performed-by-connor-keene"
   title="Rain In Jiang Nan - Performed by Connor Keene" target="_blank" style="color:
   #cccccc; text-decoration: none;">Rain In Jiang Nan - Performed by Connor Keene</a></div>'
-out_of_stock: true
-inventory: 0
+out_of_stock: false
+inventory: 1
 weight: 450
 ---
 
-Curly Maple, Key of D/G.  This new narrow bore xiao design brings a richer harmonic spectrum and improved intonation.  Redesigned mouthpiece with ebonite cap.  To learn more about how the new design came about, check out my blogs: [Revisiting the Xiao.](https://www.ellisflutes.com/blog/revisiting-the-xiao) and [Keene on the Xiao](https://www.ellisflutes.com/blog/keene-on-the-xiao)
+Curly Maple dyed a vibraint red!  Key of D/G.  This new narrow bore xiao design brings a richer harmonic spectrum and improved intonation.  Redesigned mouthpiece with ebonite cap.  To learn more about how the new design came about, check out my blogs: [Revisiting the Xiao.](https://www.ellisflutes.com/blog/revisiting-the-xiao) and [Keene on the Xiao](https://www.ellisflutes.com/blog/keene-on-the-xiao)
 
 The xiao is not just for Chinese music (though it excels in that context).  These are fully-realized open-holed flutes with a tremendous range, and are ideal for many forms of music.  You can play in a wide variety of styles with a remarkable tonal range.  A true, Desert Island Flute!  You can learn more about the xiao [HERE](https://www.ellisflutes.com/world-flutes/xiao).
 
