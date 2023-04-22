@@ -3,7 +3,7 @@ title: NEW! Bocote Quena, Key of G
 date: '2021-05-21T13:09:43+00:00'
 categories: quena
 published: false
-price: 275
+price: 249
 cloudinary_ids:
 - ellisflutes2018/2BocoteQ1_mhljos
 - ellisflutes2018/2BocoteQ2_ghn6up

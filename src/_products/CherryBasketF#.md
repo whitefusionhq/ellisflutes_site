@@ -3,7 +3,7 @@ title: Cherry Basketmaker, Key of F# (right-handed)
 date: '2022-09-27T14:02:12+00:00'
 categories: rim-blown
 published: true
-price: 300
+price: 329
 cloudinary_ids:
 - ellisflutes2018/CherryBasketF_1_sirhha
 - ellisflutes2018/CherryBasketF_2_yjmlcu

@@ -3,7 +3,7 @@ title: Redwood Basketmaker, Key of F# (right-handed)
 date: '2022-09-27T13:59:54+00:00'
 categories: rim-blown
 published: true
-price: 300
+price: 329
 cloudinary_ids:
 - ellisflutes2018/RWBasketF_1_cwyjjh
 - ellisflutes2018/RWBasketF_2_w6phca

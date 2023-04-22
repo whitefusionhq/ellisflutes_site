@@ -3,7 +3,7 @@ title: NEW! Ebonite Quena, Key of G
 date: '2022-09-27T14:10:39+00:00'
 categories: quena
 published: true
-price: 350
+price: 349
 cloudinary_ids:
 - ellisflutes2018/BlkEbonitQuena1_xqmms8
 - ellisflutes2018/BlkEboniteQuena2_crd9gf

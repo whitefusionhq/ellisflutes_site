@@ -3,7 +3,7 @@ title: NEW! Cherry Quena, Key of G
 date: '2021-05-21T13:19:28+00:00'
 categories: quena
 published: true
-price: 275
+price: 249
 cloudinary_ids:
 - ellisflutes2018/CherryQ1_eqvmne
 - ellisflutes2018/CherryQ2_rxyhye
