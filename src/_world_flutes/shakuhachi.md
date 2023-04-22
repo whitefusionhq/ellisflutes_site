@@ -18,7 +18,7 @@ Traditionally there are two different types of shakuhachi: _jinashi_ and _jiari_
 
 A tapered bore allows for more precise upper octave tuning  (which is necessary on flutes made with thick-walled Madake bamboo) and a distinct type of voice. Jiari flutes are more often the choice when playing in ensemble settings but many players choose them for their character. 
 
-I make two very different styles of shakuhachi:  ***The Wooden Jiari Shakuhachi***, and the ***Simply Zen Shakuhachi**.*
+I make two very different styles of shakuhachi:  ***The Wooden Jiari Shakuhachi***, and the ***Simple Zen Shakuhachi**.*
 
 
 ### *The Wooden Jiari Shakuhachi* 
