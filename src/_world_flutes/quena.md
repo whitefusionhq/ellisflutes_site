@@ -12,7 +12,7 @@ extra_page_class: ''
 
 The quena (pronounced kay-nah) is a traditional flute of the Andes.  It is typically in the key of G, has six holes and a thumb hole and plays the diatonic major (do re mi) scale.  It is known for it’s distinct timber and strong voice.  The quenacho is of the same design, only a lower key, typically D.
 
-Taditional quena designs are often plagued by issues with tuning accuracy and limited dynamic range.  Meaning that they are difficult to play in the second octave, requiring a very powerful embouchure (and consequently being nearly impossible to play softly), and depending upon the design, having a tendency to be either flat in the second octave, or (in the case of tapered bore quena) sharp in the second octave.  These idiosyncracies are generally accepted among quena players and compensated for in degree.  
+Traditional quena designs are often plagued by issues with tuning accuracy and limited dynamic range.  Meaning that they are difficult to play in the second octave, requiring a very powerful embouchure (and consequently being nearly impossible to play softly), and depending upon the design, having a tendency to be either flat in the second octave, or (in the case of tapered bore quena) sharp in the second octave.  These idiosyncrasies are generally accepted among quena players and compensated for in degree.  
 
 Over the years I have have approached quena making from a more traditional direction, doing both cylindrical bored quena and tapered bore quena, but always attempting a visual aesthetic that is consistent with what players expect quena to look like.  But this adherence to a visual idea also put some limits on the design that prevented some of these tuning issues from being corrected.
 

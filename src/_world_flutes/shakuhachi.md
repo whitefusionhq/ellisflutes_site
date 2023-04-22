@@ -3,7 +3,7 @@ title: Shakuhachi
 subtitle: A Japanese end blown flute tuned to the pentatonic minor scale
 published: true
 product_category: shakuhachi
-cloudinary_id: asihfca4kagmygkqwsf6
+cloudinary_id: ellisflutes2018/New_Shakuhachi_Groups_wgnd3t
 layout: world_flute
 extra_page_class: ''
 ---
@@ -21,7 +21,9 @@ A tapered bore allows for more precise upper octave tuning  (which is necessary 
 I make two very different styles of shakuhachi:  ***The Wooden Jiari Shakuhachi***, and the ***Simply Zen Shakuhachi**.*
 
 
-### *The Wooden Jiari Shakuhachi*
+### *The Wooden Jiari Shakuhachi* 
+
+(Topmost photo)
 
 I spent two years researching shakuhachi making and meticulously measuring the bores of a number of high quality shakuhachi flutes.  The shape of the bore creates a characteristic feel and response with the jiarii shakuhachi, and most quality instruments have very similar bore profiles.
 
@@ -36,6 +38,8 @@ Shakuhachi come in various sizes and tunings, but at this time I’m only offeri
 
 
 ### *The Simple Zen Shakuhachi*
+
+(Lower photo)
 
 The idea behind the *Simple Zen Shakuhachi*  came from reading an article on the acoustics and design of the shakuhachi, which asked the question: *What makes a shakuhachi a shakuhachi?*  
 
