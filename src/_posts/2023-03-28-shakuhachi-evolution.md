@@ -1,6 +1,6 @@
 ---
 date: '2023-03-28T17:20:46+00:00'
-published: false
+published: true
 cloudinary_id: ellisflutes2018/ShakGroup1_rmxexe
 title: Shakuhachi Evolution
 subtitle: The Complicated Road to Simplicity

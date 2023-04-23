@@ -3,7 +3,7 @@ title: Curly Cherry Bansuri, Key of D (tonic G)
 date: '2021-05-21T13:43:34+00:00'
 categories: bansuri
 published: true
-price: 350
+price: 349
 cloudinary_ids:
 - ellisflutes2018/CrlyCherryBans1_n64ng5
 - ellisflutes2018/CrlyCherryBans2_zw5zih

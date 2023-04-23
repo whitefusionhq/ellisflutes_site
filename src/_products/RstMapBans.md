@@ -1,7 +1,8 @@
 ---
 title: Roasted Curly Maple Bansuri, Key of B (tonic E)
 categories: bansuri
-price: 400.0
+published: true
+price: 399
 cloudinary_ids:
 - ellisflutes2018/RstMapBans1_zyc26b
 - ellisflutes2018/RstMapBans2_ow7xgb
@@ -18,7 +19,7 @@ html_embed: '<iframe width="100%" height="20" scrolling="no" frameborder="no" al
   text-decoration: none;">Joshua Geisler plays Raga Yaman in B/E</a></div>'
 out_of_stock: true
 inventory: 0
-weight: '450'
+weight: 450
 ---
 
 Stunning piece of roasted curly maple that has been vacuum stabilized, featuring an African blackwood lip plate.  Key of B, tonic E.  

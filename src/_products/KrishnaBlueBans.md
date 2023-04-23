@@ -1,7 +1,8 @@
 ---
 title: Curly Maple Mystic Blue Bansuri, Key of D (tonic G)
 categories: bansuri
-price: 350.0
+published: true
+price: 349
 cloudinary_ids:
 - ellisflutes2018/KrishnaBans1_r5fass
 - ellisflutes2018/KrishnaBans2_rywja6
@@ -19,7 +20,7 @@ html_embed: '<iframe width="100%" height="20" scrolling="no" frameborder="no" al
   #cccccc; text-decoration: none;">Joshua Geisler plays Raga Hamsadhwani in D/G</a></div>'
 out_of_stock: true
 inventory: 0
-weight: '450'
+weight: 450
 ---
 
 Mystic Blue Curly Maple Bansuri, Key of D (tonic G) with African Blackwood lip plate.
