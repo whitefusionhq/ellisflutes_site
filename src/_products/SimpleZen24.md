@@ -24,7 +24,7 @@ weight: 450
 
 Crafted from hard maple and dyed to resemble bamboo, the Simple Zen shakuhachi is a fully realized shakuhachi that can be used for anything from meditation to serious Honkyoku.  An affordable way to enter the world of the shakuhachi.  To learn more about this flute, click [HERE](https://www.ellisflutes.com/world-flutes/shakuhachi).  The 2.4 has offset finger holes for better ergonomics (as do most large shakuhachi).  The offset is for a right-handed player (using right hand on lower holes)
 
-***CAUTION: THE 2.4 TUNING IS A VERY LARGE FLUTE WITH A SUBSTANTIAL REACH AND LARGER THAN AVERAGE FINGER HOLES.  NOT RECOMMENDED FOR BEGINNERS.  IF YOU HAVE NEVER PLAYED A SHAKUHACHI OF THIS SIZE AND ARE UNUSRE ABOUT YOUR ABILITY TO REACH THIS FLUTE, CONTACT ME FOR MORE DETAILS.***
+***CAUTION: THE 2.4 TUNING IS A VERY LARGE FLUTE WITH A SUBSTANTIAL REACH AND LARGER THAN AVERAGE FINGER HOLES.  NOT RECOMMENDED FOR BEGINNERS.  IF YOU HAVE NEVER PLAYED A SHAKUHACHI OF THIS SIZE AND ARE UNSURE ABOUT YOUR ABILITY TO REACH THIS FLUTE, CONTACT ME FOR MORE DETAILS.***
 
 Note: there is minor variation in appearance and color from flute to flute, so your flute may not be an exact match with the pictured flutes, but it will be pretty close.
 
