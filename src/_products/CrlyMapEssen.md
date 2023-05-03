@@ -20,7 +20,7 @@ html_embed: '<iframe width="100%" height="20" scrolling="no" frameborder="no" al
   #cccccc; text-decoration: none;">Blayne Chastain plays Amhran - Na - Leabhar Key
   of D</a></div>'
 out_of_stock: false
-inventory: 3
+inventory: 1
 weight: 450
 ---
 
