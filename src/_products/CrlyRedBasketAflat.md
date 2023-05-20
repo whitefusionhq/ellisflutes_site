@@ -8,8 +8,8 @@ cloudinary_ids:
 - ellisflutes2018/CrlyRedBasket1_m9w9sa
 - ellisflutes2018/CrlyRedBasket2_wtbulc
 - ellisflutes2018/CrlyRedBasket3_bgtwdm
-out_of_stock: false
-inventory: 1
+out_of_stock: true
+inventory: 0
 weight: 450
 ---
 
