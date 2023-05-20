@@ -17,8 +17,8 @@ html_embed: '<iframe width="100%" height="20" scrolling="no" frameborder="no" al
   Ellis Flutes</a> · <a href="https://soundcloud.com/geoffrey-ellis-flutes/anasazi-20-sample"
   title="Scott August- Basketmaker, Key of A" target="_blank" style="color: #cccccc;
   text-decoration: none;">Scott August- Basketmaker, Key of A</a></div>'
-out_of_stock: true
-inventory: 0
+out_of_stock: false
+inventory: 1
 weight: 450
 ---
 
