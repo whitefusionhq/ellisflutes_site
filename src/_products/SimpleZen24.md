@@ -18,7 +18,7 @@ html_embed: '<iframe width="100%" height="20" scrolling="no" frameborder="no" al
   title="Steven Casano performs Daiwagaku on 2.4" target="_blank" style="color: #cccccc;
   text-decoration: none;">Steven Casano performs Daiwagaku on 2.4</a></div>'
 out_of_stock: false
-inventory: 1
+inventory: 2
 weight: 450
 ---
 
