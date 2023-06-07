@@ -8,7 +8,7 @@ cloudinary_ids:
 - ellisflutes2018/DSC_0362_lrfpfe
 - ellisflutes2018/DSC_0365_jheqs0
 out_of_stock: false
-inventory: 5
+inventory: 4
 weight: 450
 ---
 

@@ -8,7 +8,7 @@ cloudinary_ids:
 - ellisflutes2018/DSC_0362_dh59ut
 - ellisflutes2018/DSC_0365_soortd
 out_of_stock: false
-inventory: 4
+inventory: 3
 weight: 450
 ---
 
