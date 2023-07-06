@@ -17,8 +17,8 @@ html_embed: '<iframe width="100%" height="20" scrolling="no" frameborder="no" al
   Ellis Flutes</a> · <a href="https://soundcloud.com/geoffrey-ellis-flutes/steven-casano-plays-daiwagaku-on-24"
   title="Steven Casano performs Daiwagaku on 2.4" target="_blank" style="color: #cccccc;
   text-decoration: none;">Steven Casano performs Daiwagaku on 2.4</a></div>'
-out_of_stock: true
-inventory: 0
+out_of_stock: false
+inventory: 1
 weight: 450
 ---
 
