@@ -1,14 +1,14 @@
 ---
-title: Cocobolo Shakuhachi, 1.8 Key of D (Domestic sale only)
-date: '2022-09-26T23:27:00+00:00'
+title: Cocobolo Shakuhachi, 1.8 Key of D (domestic sale only)
+date: '2023-08-04T20:36:00+00:00'
 categories: shakuhachi
-published: false
-price: 700
+published: true
+price: 750
 cloudinary_ids:
-- ellisflutes2018/CocoShaku1_wolqeb
-- ellisflutes2018/CocoShaku2_eqh7qk
-- ellisflutes2018/CocoShaku3_mhfyka
-- ellisflutes2018/CocoShaku4_mpn09d
+- ellisflutes2018/CocoShak1_qc8ixj
+- ellisflutes2018/CocoShak2_yw8vjc
+- ellisflutes2018/CocoShak3_xriewc
+- ellisflutes2018/CocoShak4_jjpcb9
 html_embed: '<iframe width="100%" height="20" scrolling="no" frameborder="no" allow="autoplay"
   src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/879684958&color=%23ff5500&inverse=false&auto_play=false&show_user=true"></iframe><div
   style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow:
@@ -19,8 +19,8 @@ html_embed: '<iframe width="100%" height="20" scrolling="no" frameborder="no" al
   · <a href="https://soundcloud.com/earth-tone-flutes/takiochi" title="Zac Zinger
   performs &quot;Takiochi&quot;" target="_blank" style="color: #cccccc; text-decoration:
   none;">Zac Zinger performs &quot;Takiochi&quot;</a></div>'
-out_of_stock: true
-inventory: 0
+out_of_stock: false
+inventory: 1
 weight: 450
 ---
 

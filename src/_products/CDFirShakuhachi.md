@@ -1,14 +1,14 @@
 ---
-title: Bocote Shakuhachi, 1.8 Key of D
-date: '2021-10-25T16:59:00+00:00'
+title: Curly Douglas Fir Shakuhachi, 1.8 Key of D
+date: '2023-08-04T20:25:46+00:00'
 categories: shakuhachi
-published: false
-price: 600
+published: true
+price: 700
 cloudinary_ids:
-- ellisflutes2018/BocoteShak1_balril
-- ellisflutes2018/BocoteShak2_ldkpi7
-- ellisflutes2018/BocoteShak3_fgm4pc
-- ellisflutes2018/BocoteShak4_bykbje
+- ellisflutes2018/CDFShak1_arnq2s
+- ellisflutes2018/CDFShak2_rfhzos
+- ellisflutes2018/CDFShak3_h2djzl
+- ellisflutes2018/CDFShak4_zs3x4v
 html_embed: '<iframe width="100%" height="20" scrolling="no" frameborder="no" allow="autoplay"
   src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/879684958&color=%23ff5500&inverse=false&auto_play=false&show_user=true"></iframe><div
   style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow:
@@ -19,13 +19,13 @@ html_embed: '<iframe width="100%" height="20" scrolling="no" frameborder="no" al
   · <a href="https://soundcloud.com/earth-tone-flutes/takiochi" title="Zac Zinger
   performs &quot;Takiochi&quot;" target="_blank" style="color: #cccccc; text-decoration:
   none;">Zac Zinger performs &quot;Takiochi&quot;</a></div>'
-out_of_stock: true
-inventory: 0
+out_of_stock: false
+inventory: 1
 weight: 450
 ---
 
-Bocote Shakuhachi, 1.8 Key of D.  Weight: 386 grams
+Gorgeous Curly Douglas Fir Shakuhachi, 1.8 Key of D.  It is highly unusual for me to find Curly Douglas Fir in dimensions that will allow me to make a shakuhachi.  It is a rare wood to begin with (not commercially available) and even more so for something like this.
 
-*For all wooden flutes, I recommend one of my Flute Care Kits.  They are only available as an add-on purchase at the time of checkout (after you have pressed the “Add to cart” button you will see the option for the care kit right along side and you have to select it from the menu). The care kit includes the recommended wax, fine steel wool and instructions for maintaining the finish on your flute.  Not for use on ebonite flutes.*
+*For all flutes, I recommend one of my Flute Care Kits. They are only available as an add-on purchase at the time of checkout (after you have pressed the “Add to cart” button you will see the option for the care kit right along side and you have to select it from the menu).*
 
-Listen to the incomparable Zac Zinger perfrom the traditional Kinko style honkyoku piece "Takiochi”!  The sound sample is just above the embedded video (they are sort of close together).
+Listen to the incomparable Zac Zinger perfrom the traditional Kinko style honkyoku piece "Takiochi”!  
