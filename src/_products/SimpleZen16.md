@@ -7,8 +7,8 @@ price: 279
 cloudinary_ids:
 - ellisflutes2018/DSC_0362_dh59ut
 - ellisflutes2018/DSC_0365_soortd
-out_of_stock: true
-inventory: 0
+out_of_stock: false
+inventory: 1
 weight: 450
 ---
 
