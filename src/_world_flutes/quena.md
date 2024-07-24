@@ -1,6 +1,6 @@
 ---
-title: Quena
-subtitle: Refining the traditional flute of the Andes
+title: Andean Flutes
+subtitle: The Quena, Quenacho and the new Quenxiao
 published: true
 product_category: quena
 cloudinary_id: ellisflutes2018/QuenaGroup_xukeze
@@ -8,7 +8,7 @@ layout: world_flute
 extra_page_class: ''
 ---
 
-### Quena Flutes
+### Quena 
 
 The quena (pronounced kay-nah) is a traditional flute of the Andes.  It is typically in the key of G, has six holes and a thumb hole and plays the diatonic major (do re mi) scale.  It is known for it’s distinct timber and strong voice.  The quenacho is of the same design, only a lower key, typically D.
 
@@ -24,9 +24,26 @@ The new quena features a cylindrical bore and very thin walls where the finger h
 
 There are challenges to creating such flutes, because manufacturing wooden flutes with extremely thin walls is a delicate business.  Also, I needed to keep the girth of the flute larger at the blowing end in order to have the blowing notch behave like a traditional quena, keeping the classic voice.  In order to create a balanced look I added a "flare" at the distal end of the flute.  The result does not look very much like a traditional quena, but I believe the tuning accuracy is going to be far more important to musicians who need to use a quena in an ensemble setting.
 
-These same design criteria were applied on a larger version that I also make--a quenacho in the key of D.
 
+### Quenacho 
 
+The Quencho is just a low quena, usually in the key of D or C.  The same design criteria described above were applied to the Quenacho design as well.  The Quenacho requires greater reach than the quena, and I typically make them with some offset holes for easier ergonomics.  But for players familiar with the piper's grip (a technique used by low whistle players and bagpipe players) it is better to have the holes inline with no offset.
+
+### The Quenxiao
+
+One of my favorite distractions in the workshop is experimenting with fusion instruments.  All of the flutes that I make are based upon traditional folk flutes, even if I give them a more contemporary spin.  But every so often I’ll try something of a mash-up, just to see what happens.  I did this with my East Meets West series of Asian flutes with a Baroque aesthetic.  In that case it is merely a visual fusion—I didn’t actually change the basic character of the instrument itself, I simply made them look interesting and different.  
+
+The fact is that most so-called original ideas in woodwind design are not truly so, because makers have been doing experiments for centuries and there is nothing new under the sun.  And in many cases, even when something seemingly unique has been created, it is rare that the result is actually a flute that brings something new to the table.
+
+However, recently I tried one of my fusion experiments and it yielded a flute that seems quite original, or at the very least something that has not been commercially produced for the flute-playing public.  So I’m going to go ahead and claim that this is something new!  And the thing that sets this apart from other experiments is that this flute is simply one of the coolest things I’ve ever made.
+
+I call it the Quenxiao (ken-shaow) because it is quite literally a fusion of two flutes that I already make--I simply fused the names together.  I combined the Andean quenacho with the Chinese xiao.
+
+The Andean quenacho is just a quena in a lower key (often D or C).  They have a unique voice—very robust, sweet and with a hint of breathiness, like wind in the tall grass.  They ordinarily play a diatonic major scale (do re mi), but in the case of the Quenxiao I gave them the eight-hole scale of the Chinese bei xiao.  They differ from the xiao in having a larger bore and larger finger holes, but the scale is the same.  That is to say that the player has a flute with a well-balanced 2.5 octave range and mind-blowing versatility in terms of the different keys and modes one can play in.
+
+And unlike the traditional xiao, these are much more compact, being 21.5” long instead of 30+”.  So traveling around with them is much easier.
+
+For reasons of accessibility (reach) I am only offering these in the keys of D and C (if you are a xiao player this would translate to G and F).  For a player trying this scale for the first time, I’d recommend the key of D as being the most finger-friendly.
 
 
 
