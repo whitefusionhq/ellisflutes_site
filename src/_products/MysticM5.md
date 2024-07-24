@@ -21,7 +21,7 @@ inventory: 1
 weight: 450
 ---
 
-The Mojave series of flutes are minor-tuned end blown flutes, coming in 4-hole, 5-hole and 6-hole versions.  Due to the scale intervals, the placement of the finger holes on the lower tuned versions means that they cannot be played using conventional fingering.  The only key that comes in the 6-hole option is the key of B.  Lower tunings come in a 5-hole version and the lowest tuning (low F#) comes in a 4-hole version.  This means that with the exception of the key of B, the Mojave only plays part of the minor scale, though it does play it across two plus octaves including some harmonic overtones.   
+The Mojave series of flutes are minor-tuned end blown flutes, coming in 4-hole, 5-hole and 6-hole versions.  Due to the scale intervals, the placement of the finger holes on the lower tuned versions means that they cannot be played using conventional fingering (six holes on top of the flute).   The only key that comes in the 6-hole option is the key of B.  Lower tunings come in a 5-hole version and the lowest tuning (low F#) comes in a 4-hole version.  The five hole version is played covering two holes with each hand on the top of the flute, and using a thumb hole.  This means that with the exception of the key of B, the Mojave only plays part of the minor scale, though it does play it across two plus octaves including some harmonic overtones.   
 
 The reach on this 5-hole version might be problematic for some players because the holes are quite far from the mouthpiece, so players with shorter arms or smaller hands might not be comfortable.  I suggest contacting me for details on this matter before purchasing.
 
