@@ -3,7 +3,7 @@ title: Black Ebonite Tang Xiao, 3-piece, Key of C/F
 date: '2024-07-24T13:27:33+00:00'
 categories: xiao
 published: true
-price: 1100
+price: 999
 cloudinary_ids:
 - ellisflutes2018/EboniteTangC1_cglvju
 - ellisflutes2018/EboniteTangC2_sq6rto
