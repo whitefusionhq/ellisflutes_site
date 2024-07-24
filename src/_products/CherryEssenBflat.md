@@ -11,8 +11,8 @@ html_embed: "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/
   title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay;
   clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\"
   allowfullscreen></iframe>\r\n"
-out_of_stock: false
-inventory: 1
+out_of_stock: true
+inventory: 0
 weight: 450
 ---
 
