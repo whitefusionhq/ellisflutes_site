@@ -37,7 +37,7 @@ The fact is that most so-called original ideas in woodwind design are not truly 
 
 However, recently I tried one of my fusion experiments and it yielded a flute that seems quite original, or at the very least something that has not been commercially produced for the flute-playing public.  So I’m going to go ahead and claim that this is something new!  And the thing that sets this apart from other experiments is that this flute is simply one of the coolest things I’ve ever made.
 
-I call it the Quenxiao (ken-shaow) because it is quite literally a fusion of two flutes that I already make--I simply fused the names together.  I combined the Andean quenacho with the Chinese xiao.
+I call it the Quenxiao (kan-sheow) because it is quite literally a fusion of two flutes that I already make--I simply fused the names together.  I combined the Andean quenacho with the Chinese xiao.
 
 The Andean quenacho is just a quena in a lower key (often D or C).  They have a unique voice—very robust, sweet and with a hint of breathiness, like wind in the tall grass.  They ordinarily play a diatonic major scale (do re mi), but in the case of the Quenxiao I gave them the eight-hole scale of the Chinese bei xiao.  They differ from the xiao in having a larger bore and larger finger holes, but the scale is the same.  That is to say that the player has a flute with a well-balanced 2.5 octave range and mind-blowing versatility in terms of the different keys and modes one can play in.
 

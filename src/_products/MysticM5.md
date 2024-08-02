@@ -8,14 +8,15 @@ cloudinary_ids:
 - ellisflutes2018/MysticM51_s64ahb
 - ellisflutes2018/MysticM52_ugo5xn
 html_embed: '<iframe width="100%" height="20" scrolling="no" frameborder="no" allow="autoplay"
-  src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/12622235&color=%23ff5500&inverse=false&auto_play=false&show_user=true"></iframe><div
+  src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1887474588&color=%23ff5500&inverse=false&auto_play=false&show_user=true"></iframe><div
   style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow:
   hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida
   Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight:
   100;"><a href="https://soundcloud.com/geoffrey-ellis-flutes" title="Geoffrey Ellis
   Flutes" target="_blank" style="color: #cccccc; text-decoration: none;">Geoffrey
-  Ellis Flutes</a> · <a href="https://soundcloud.com/geoffrey-ellis-flutes/mojave"
-  title="Mojave" target="_blank" style="color: #cccccc; text-decoration: none;">Mojave</a></div>'
+  Ellis Flutes</a> · <a href="https://soundcloud.com/geoffrey-ellis-flutes/5-hole-mojave-flute-in-low-g"
+  title="5 Hole Mojave Flute In Low G" target="_blank" style="color: #cccccc; text-decoration:
+  none;">5 Hole Mojave Flute In Low G</a></div>'
 out_of_stock: false
 inventory: 1
 weight: 450
@@ -27,7 +28,7 @@ The reach on this 5-hole version might be problematic for some players because t
 
 *For all flutes, I recommend one of my Flute Care Kits. They are only available as an add-on purchase at the time of checkout (after you have pressed the “Add to cart” button you will see the option for the care kit right along side and you have to select it from the menu).*
 
-The sound sample here is NOT for the key of G.  The only sample I currently have is for the 6-hole version in B, but I post it so that you can get the "flavor" of the minor scale.
+(Thanks to long-time customer Adam Arthur for providing this sample of the Mojave in G!)
 
 
 
