@@ -209,6 +209,12 @@ default: &default
     filter:
       categories:
         - quena
+  quenxiao:
+    <<: *product
+    title: Quenxiao
+    filter:
+      categories:
+        - quenxiao
   shakuhachi:
     <<: *product
     title: Shakuhachi
