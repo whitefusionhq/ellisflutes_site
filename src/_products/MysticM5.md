@@ -17,8 +17,8 @@ html_embed: '<iframe width="100%" height="20" scrolling="no" frameborder="no" al
   Ellis Flutes</a> · <a href="https://soundcloud.com/geoffrey-ellis-flutes/5-hole-mojave-flute-in-low-g"
   title="5 Hole Mojave Flute In Low G" target="_blank" style="color: #cccccc; text-decoration:
   none;">5 Hole Mojave Flute In Low G</a></div>'
-out_of_stock: false
-inventory: 1
+out_of_stock: true
+inventory: 0
 weight: 450
 ---
 
