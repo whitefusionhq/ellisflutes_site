@@ -1,7 +1,7 @@
 ---
 title: The Quimera™
 subtitle: Coming Soon!
-published: false
+published: true
 product_category: quimera
 cloudinary_id: ellisflutes2018/Quimera3_fwtktz
 ---
