@@ -209,12 +209,12 @@ default: &default
     filter:
       categories:
         - quena
-  quenxiao:
+  quimera:
     <<: *product
-    title: Quenxiao
+    title: Quimera
     filter:
       categories:
-        - quenxiao
+        - quimera
   shakuhachi:
     <<: *product
     title: Shakuhachi
