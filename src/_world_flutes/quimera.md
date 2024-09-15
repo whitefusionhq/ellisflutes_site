@@ -1,6 +1,6 @@
 ---
 title: The Quimera™
-subtitle: COMING SOON!
+subtitle: Another East Meets West Creation
 published: true
 product_category: quimera
 cloudinary_id: ellisflutes2018/Quimera3_fwtktz
