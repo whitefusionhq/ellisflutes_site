@@ -7,8 +7,8 @@ price: 249
 cloudinary_ids:
 - ellisflutes2018/RedQuiD1_ml0obx
 - ellisflutes2018/RedQuiD2_txxvcy
-out_of_stock: false
-inventory: 1
+out_of_stock: true
+inventory: 0
 weight: 450
 ---
 
