@@ -8,7 +8,7 @@ cloudinary_ids:
 - ellisflutes2018/BrwnMapQuiD1_xxngww
 - ellisflutes2018/BrwnMapQuiD2_zwamqg
 out_of_stock: false
-inventory: 3
+inventory: 2
 weight: 450
 ---
 
