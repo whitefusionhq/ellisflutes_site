@@ -7,8 +7,8 @@ price: 279
 cloudinary_ids:
 - ellisflutes2018/BrwnCurlyMapQuiD1A_v0keuk
 - ellisflutes2018/BrwnCrlyMapQui2A_mim45u
-out_of_stock: false
-inventory: 1
+out_of_stock: true
+inventory: 0
 weight: 450
 ---
 
