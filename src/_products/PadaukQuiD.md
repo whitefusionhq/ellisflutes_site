@@ -1,16 +1,16 @@
 ---
-title: NEW!  Alaskan Yellow Cedar Quimera™, Key of D
-date: '2024-09-15T19:28:12+00:00'
+title: NEW! Padauk Quimera™, Key of D
+date: '2024-09-26T23:39:30+00:00'
 categories: quimera
 published: true
 price: 249
 cloudinary_ids:
-- ellisflutes2018/AYCQuiD1_tkrmcf
-- ellisflutes2018/AYCQuiD2_b3pyn8
+- ellisflutes2018/PaduakQuiD1_sfblyb
+- ellisflutes2018/PadaukQuiD2_bo1w5p
 html_embed: <iframe width="458" height="442" src="https://www.youtube.com/embed/99C4dllkXO8"
   ></iframe>
 out_of_stock: false
-inventory: 2
+inventory: 1
 weight: 450
 ---
 

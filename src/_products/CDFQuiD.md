@@ -1,16 +1,16 @@
 ---
-title: NEW!  Alaskan Yellow Cedar Quimera™, Key of D
-date: '2024-09-15T19:28:12+00:00'
+title: NEW! Curly Douglas Fir Quimera™, Key of D
+date: '2024-09-26T23:28:08+00:00'
 categories: quimera
 published: true
-price: 249
+price: 299
 cloudinary_ids:
-- ellisflutes2018/AYCQuiD1_tkrmcf
-- ellisflutes2018/AYCQuiD2_b3pyn8
+- ellisflutes2018/CDFQuiD1_sgtnpw
+- ellisflutes2018/CDFQuiD2_vrw68u
 html_embed: <iframe width="458" height="442" src="https://www.youtube.com/embed/99C4dllkXO8"
   ></iframe>
 out_of_stock: false
-inventory: 2
+inventory: 1
 weight: 450
 ---
 
