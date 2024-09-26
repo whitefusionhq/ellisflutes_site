@@ -7,8 +7,8 @@ price: 249
 cloudinary_ids:
 - ellisflutes2018/BueQuiD1_zusag9
 - ellisflutes2018/BlueQuiD2_lfeq8s
-out_of_stock: false
-inventory: 1
+out_of_stock: true
+inventory: 0
 weight: 450
 ---
 
