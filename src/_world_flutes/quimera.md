@@ -16,7 +16,9 @@ And unlike the traditional xiao, these are much more compact,  so traveling arou
 
 Like the bei xiao, there are eight finger holes, and the lowest hole is offset to the right, assuming the player uses their right hand to cover the lower holes.  I'm initially offering these in the keys of D and C, but other tunings might be added later.
 
-
+```
+<iframe width="446" height="792" src="https://www.youtube.com/embed/99C4dllkXO8" title="Summoning forest spirits ✨🌿🍃.This new Quimera™ flute from Geoffrey Ellis is magical! #flute #calm" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+```
 
 
 
