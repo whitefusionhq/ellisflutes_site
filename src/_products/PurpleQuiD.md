@@ -7,6 +7,8 @@ price: 249
 cloudinary_ids:
 - ellisflutes2018/PurpQuiD1_p5ap01
 - ellisflutes2018/PurpQuiD2_puz0at
+html_embed: <iframe width="458" height="442" src="https://www.youtube.com/embed/99C4dllkXO8"
+  ></iframe>
 out_of_stock: false
 inventory: 1
 weight: 450

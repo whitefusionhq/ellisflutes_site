@@ -7,8 +7,10 @@ price: 249
 cloudinary_ids:
 - ellisflutes2018/BrwnMapQuiD1_xxngww
 - ellisflutes2018/BrwnMapQuiD2_zwamqg
+html_embed: <iframe width="458" height="442" src="https://www.youtube.com/embed/99C4dllkXO8"
+  ></iframe>
 out_of_stock: false
-inventory: 2
+inventory: 8
 weight: 450
 ---
 

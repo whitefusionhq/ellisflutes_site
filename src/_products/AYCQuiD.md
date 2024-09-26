@@ -7,6 +7,8 @@ price: 249
 cloudinary_ids:
 - ellisflutes2018/AYCQuiD1_tkrmcf
 - ellisflutes2018/AYCQuiD2_b3pyn8
+html_embed: <iframe width="458" height="442" src="https://www.youtube.com/embed/99C4dllkXO8"
+  ></iframe>
 out_of_stock: false
 inventory: 1
 weight: 450
