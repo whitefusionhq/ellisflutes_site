@@ -9,8 +9,8 @@ cloudinary_ids:
 - ellisflutes2018/CrlyMapQuiD2_ufixlj
 html_embed: <iframe width="458" height="442" src="https://www.youtube.com/embed/99C4dllkXO8"
   ></iframe>
-out_of_stock: false
-inventory: 1
+out_of_stock: true
+inventory: 0
 weight: 450
 ---
 
