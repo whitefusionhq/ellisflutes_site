@@ -1,5 +1,5 @@
 ---
-title: MORE QUIMERA COMING SOON!
+title: MORE QUIMERA™ COMING SOON!
 date: '2024-09-30T13:11:52+00:00'
 categories: quimera
 published: true
