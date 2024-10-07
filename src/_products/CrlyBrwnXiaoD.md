@@ -2,8 +2,8 @@
 title: Curly Maple Xiao (dyed), Key of D/G
 date: '2024-09-15T19:46:14+00:00'
 categories: xiao
-published: false
-price: 625
+published: true
+price: 499
 cloudinary_ids:
 - ellisflutes2018/CrlyMapBrwnXiaoD1_l4pkdv
 - ellisflutes2018/CrlyMapBrwnXiaoD2_mjievy
