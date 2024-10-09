@@ -6,11 +6,14 @@ published: true
 price: 249
 cloudinary_ids:
 - ellisflutes2018/Quimera2_u5yzv5
-html_embed: <iframe width="458" height="442" src="https://www.youtube.com/embed/99C4dllkXO8"
-  ></iframe>
 out_of_stock: true
 inventory: 0
 weight: 450
 ---
 
 There are a couple of maple Quimera™ remaining below, but a new batch in various woods is scheduled for the end of the second week of October.  To receive notification of when I upload new stock, be sure to subscribe to my newsletter.
+
+<iframe width="267" height="554" src="https://www.youtube.com/embed/99C4dllkXO8" ></iframe>
+
+<iframe width="267" height="554" src="https://www.youtube.com/embed/UAymcOqrcMo" ></iframe>
+
