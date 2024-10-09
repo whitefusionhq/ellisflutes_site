@@ -17,11 +17,9 @@ And unlike the traditional xiao, these are much more compact,  so traveling arou
 
 Like the bei xiao, there are eight finger holes, and the lowest hole is offset to the right, assuming the player uses their right hand to cover the lower holes.  I'm initially offering these in the keys of D and C, but other tunings might be added later.
 
-Lumira playing a *Quimera*™  in the key of D
+<iframe width="267" height="554" src="https://www.youtube.com/embed/99C4dllkXO8" ></iframe>
 
-
-<iframe width="458" height="442" src="https://www.youtube.com/embed/99C4dllkXO8" ></iframe>
-
+<iframe width="267" height="554" src="https://www.youtube.com/embed/UAymcOqrcMo" ></iframe>
 
 
 
