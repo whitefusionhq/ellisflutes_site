@@ -7,8 +7,8 @@ price: 249
 cloudinary_ids:
 - ellisflutes2018/PurpleQ1_dyyfj5
 - ellisflutes2018/PurpleQ2_el0ljf
-out_of_stock: false
-inventory: 1
+out_of_stock: true
+inventory: 0
 weight: 450
 ---
 
