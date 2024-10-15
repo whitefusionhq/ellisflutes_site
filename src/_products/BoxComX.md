@@ -8,14 +8,7 @@ cloudinary_ids:
 - ellisflutes2018/BoxComX1_ta4jym
 - ellisflutes2018/BoxComX2_ismumh
 html_embed: "<iframe width=\"100%\" height=\"20\" scrolling=\"no\" frameborder=\"no\"
-  allow=\"autoplay\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1141899223&color=%23ff5500&inverse=false&auto_play=false&show_user=true\"></iframe><div
-  style=\"font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow:
-  hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida
-  Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight:
-  100;\"><a href=\"https://soundcloud.com/earth-tone-flutes\" title=\"Geoffrey Ellis
-  Flutes\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">Geoffrey
-  Ellis Flutes</a> · <a href=\"https://soundcloud.com/earth-tone-flutes/rain-in-jiang-nan-performed-by-connor-keene\"
-  title=\"Rain In Jiang Nan - Performed by Connor Keene\" target=\"_blank\" \r\n"
+  allow=\"autoplay\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1141899223&color=%23ff5500&inverse=false&auto_play=false&show_user=true\"></iframe>\r\n"
 out_of_stock: false
 inventory: 1
 weight: 450
