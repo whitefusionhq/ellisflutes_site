@@ -8,7 +8,7 @@ cloudinary_ids:
 - ellisflutes2018/PadQ1a_mfxh31
 - ellisflutes2018/PadQ2a_oewggs
 out_of_stock: false
-inventory: 2
+inventory: 1
 weight: 450
 ---
 
