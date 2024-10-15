@@ -8,7 +8,7 @@ cloudinary_ids:
 - ellisflutes2018/WalQ1a_x9tew1
 - ellisflutes2018/WalQ2a_k3lasd
 out_of_stock: false
-inventory: 2
+inventory: 1
 weight: 450
 ---
 
