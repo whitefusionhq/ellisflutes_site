@@ -12,9 +12,15 @@ The Xiao (pronounced “show” as in “shower”) is an ancient Chinese vertic
 
 It is the grandfather of what later became the shakuhachi flute after it migrated to Japan in the 14th century.
 
-There are many varieties of xiao, with different design characteristics. I make two distinct types of xiao:  The bei xiao and the tang xiao.  
+There are many varieties of xiao, with different design characteristics. I make two distinct types of xiao:  The bei xiao and the tang xiao.   And there are sub-types for each of these: the full length (classical) xiao, and the new compact xiao.  
 
-Both of these are eight hole instruments with tremendous range.  The bei xiao typically has a capped mouthpiece. This means that it is sealed at the mouthpiece end and has a small aperture cut into it through which the player blows. The cap is made from ebonite (natural hard rubber).   I also make un-capped (open ended versions) of this style that are available upon request as a custom option.  The bei xiao favors a narrow bore to impart a distinct timbre that is valued for classical Chinese music.
+The classical xiao follows the traditional Chinese bei xiao design, featuring a longer body with a tuning hole matrix in the lower part of the flute.  This flute copies the traditional aesthetic, and they range in length from 30" up to as much as 36" for the lowest version.
+
+The Compact Xiao eliminates the tuning hole matrix and shortens the body of the xiao, at the same time eliminating some of the decorative ornaments.  The makes for a shorter instrument (about 8" shorter on average) which is easier to pack and travel with, which is also less costly because there is less labor involved.
+
+In terms of sound and performance there is no measureable difference, so it is an aesthetic choice on the part of the player.
+
+Both the bei xiao and the Tang xiao are eight hole instruments with tremendous range.  The bei xiao typically has a capped mouthpiece. This means that it is sealed at the mouthpiece end and has a small aperture cut into it through which the player blows. The cap is made from ebonite (natural hard rubber).   I also make un-capped (open ended versions) of this style that are available upon request as a custom option.  The bei xiao favors a narrow bore to impart a distinct timbre that is valued for classical Chinese music.
 
 The tang xiao has a slightly larger bore and plays the exact same scale over the same range.  However, the tang mouthpiece is quite different, having a wider and shallower "notch" much more akin to the Japanese Shakuahchi.  This different mouthpiece gives the xiao a different voice and slightly different playing characteristics.
 
@@ -37,11 +43,10 @@ To get the best possible overview of these xiao and the tunings available, I rec
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/765838414?h=b6f5e4b5a1&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Tang xiao video 1"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
 
-The length of the xiao ranges from around 24” for the smallest xiao up to 36” and it has more than a two octave range.  Skillfully handled it will play four notes of the third (altissimo) octave.  Very skilled players can (technically) achieve fully chromatic play by the use of half-holing, though such notes are not as strong as open-holed notes.  
+The xiao has more than a two octave range.  Skillfully handled it will play four notes of the third (altissimo) octave.  Very skilled players can (technically) achieve fully chromatic play by the use of half-holing, though such notes are not as strong as open-holed notes.  
 
 The Xiao (like the rim blown flutes) is an end blown embouchure flute. If a player has experience on any of these flutes they will find the Xiao to be accessible. Just like switching between any two embouchure flutes that are of a different make, adjustments will have to be made, but the skills required for any one of these flutes will translate to any of the others given some patience.
 
-For the ultimate online xiao resource in the English language, I strongly encourage a visit to Scott August’s site <a target="_blank" href="http://santafefluteschool.com/resources/xiao/">HERE</a>
 
 ### Sound Samples
 
