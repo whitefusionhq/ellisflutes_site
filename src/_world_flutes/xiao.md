@@ -3,6 +3,7 @@ title: Xiao
 subtitle: An ancient Chinese vertical end blown flute
 published: true
 product_category: xiao
+custom_ordering: 'Prices starting at $299 '
 cloudinary_id: ellisflutes2018/NewGroupXiao_e3rgcp
 layout: world_flute
 extra_page_class: ''
