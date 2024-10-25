@@ -17,7 +17,7 @@ The advantage of a custom order is that the player can get specifically what the
 
 There is no deposit required for a custom flute, and no pre-payment is accepted.  I provide an estimated time to completion that is ***just an estimate***!  I work alone and there are many unforeseen variables that can impact my work schedule, so I can't guarantee a delivery time on custom orders.
 
-Also please take note that *I work on stock flutes for my store concurrently with custom orders.*  I've had some customers wonder why their custom flute was not yet complete when new stock was still being added to the online store.  I divide my time between these tasks, and being on the custom order waiting list does not mean that I exclusively work with such orders until they are complete.  About half of my time goes to custom orders, and half to stock flutes.  
+Also please take note that *I work on stock flutes for my store concurrently with custom orders.*  I've had some customers wonder why their custom flute was not yet complete when new stock was still being added to the online store.  I divide my time between these tasks, and being on the custom order waiting list does not mean that I exclusively work with such orders until they are complete.  About half of my time goes to custom orders, and half to stock flutes.  And again, it's just me, so anything that comes up (I catch a cold, a piece of equipment breaks, my cat has to go to the vet, etc.) can pull me off task and cause everything I'm working on to be delayed.  This happens routinely, hence the "estimate".
 
 So to place a custom order, simply [e-mail me to discuss the details](mailto:geoffrey@ellisflutes.com).
 
