@@ -7,8 +7,8 @@ price: 249
 cloudinary_ids:
 - ellisflutes2018/CherryQ1c_nryxfj
 - ellisflutes2018/CherryQ2c_yuipsk
-out_of_stock: false
-inventory: 1
+out_of_stock: true
+inventory: 0
 weight: 450
 ---
 
