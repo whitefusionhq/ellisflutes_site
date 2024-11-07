@@ -7,8 +7,8 @@ price: 249
 cloudinary_ids:
 - ellisflutes2018/PadQ1a_mfxh31
 - ellisflutes2018/PadQ2a_oewggs
-out_of_stock: true
-inventory: 0
+out_of_stock: false
+inventory: 1
 weight: 450
 ---
 
