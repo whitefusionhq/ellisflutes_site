@@ -8,7 +8,7 @@ cloudinary_ids:
 - ellisflutes2018/CrlyMapQ1a_qffx0r
 - ellisflutes2018/CurlMapQ2b_idqb3n
 out_of_stock: false
-inventory: 2
+inventory: 1
 weight: 450
 ---
 
