@@ -7,8 +7,8 @@ price: 269
 cloudinary_ids:
 - ellisflutes2018/CrlyMapQ1a_qffx0r
 - ellisflutes2018/CurlMapQ2b_idqb3n
-out_of_stock: false
-inventory: 1
+out_of_stock: true
+inventory: 0
 weight: 450
 ---
 
