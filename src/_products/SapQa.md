@@ -8,7 +8,7 @@ cloudinary_ids:
 - ellisflutes2018/SapQ1a_vv2fnm
 - ellisflutes2018/SapQ2a_wiphty
 out_of_stock: false
-inventory: 2
+inventory: 1
 weight: 450
 ---
 
