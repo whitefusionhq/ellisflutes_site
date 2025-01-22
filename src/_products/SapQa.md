@@ -7,8 +7,8 @@ price: 249
 cloudinary_ids:
 - ellisflutes2018/SapQ1a_vv2fnm
 - ellisflutes2018/SapQ2a_wiphty
-out_of_stock: false
-inventory: 1
+out_of_stock: true
+inventory: 0
 weight: 450
 ---
 
