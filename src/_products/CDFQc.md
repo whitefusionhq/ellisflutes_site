@@ -7,8 +7,8 @@ price: 329
 cloudinary_ids:
 - ellisflutes2018/CDFQ1c_bzdkxl
 - ellisflutes2018/CDFQ2c_vh9us6
-out_of_stock: false
-inventory: 1
+out_of_stock: true
+inventory: 0
 weight: 450
 ---
 
