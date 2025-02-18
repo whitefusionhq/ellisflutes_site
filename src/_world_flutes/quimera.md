@@ -17,8 +17,7 @@ And unlike the traditional xiao, these are much more compact,  so traveling arou
 
 Like the bei xiao, there are eight finger holes, and the lowest hole is offset to the right, assuming the player uses their right hand to cover the lower holes.  I'm initially offering these in the keys of D and C, but other tunings might be added later.
 
-<iframe title="vimeo-player" src="https://player.vimeo.com/video/1051919071?h=facad4923c" width="640" height="360" frameborder="0"    allowfullscreen></iframe>
-
+<iframe title="vimeo-player" src="https://player.vimeo.com/video/1057859321?h=5ecf8b6eb0" width="640" height="360" frameborder="0"    allowfullscreen></iframe>
 
 <iframe width="267" height="554" src="https://www.youtube.com/embed/99C4dllkXO8" ></iframe>
 
