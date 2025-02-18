@@ -46,5 +46,5 @@ This does not mean that I don’t care about appearance.  In fact, the *look* of
 
 Even though I’m applying this design principle to all of my flutes, for some of them it is not going to result in a difference.  My bansuri, Simple Zen shakuhachi, quena and quenacho already have thin walls—they are not getting any thinner!  But my end-blown flutes, Essential flutes and xiao are all going to get trimmed down a bit in pursuit of improved intonation.  These are subtle changes and I believe that the improvements will be relatively nuanced, but as I often say the difference between “good” and “great” is sometimes very, very small!
 
-<iframe title="vimeo-player" src="https://player.vimeo.com/video/1051919071?h=facad4923c" width="640" height="360" frameborder="0"    allowfullscreen></iframe>
+<iframe title="vimeo-player" src="https://player.vimeo.com/video/1057859321?h=5ecf8b6eb0" width="640" height="360" frameborder="0"    allowfullscreen></iframe>
 
