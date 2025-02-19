@@ -7,8 +7,8 @@ price: 249
 cloudinary_ids:
 - ellisflutes2018/GreenQ1_lzszfo
 - ellisflutes2018/GreenQ2_f00mvd
-out_of_stock: false
-inventory: 1
+out_of_stock: true
+inventory: 0
 weight: 450
 ---
 
