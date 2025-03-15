@@ -3,7 +3,8 @@ title: Xiao
 subtitle: An ancient Chinese vertical end blown flute
 published: true
 product_category: xiao
-custom_ordering: 'Prices starting at $299 '
+custom_ordering: "Prices starting at $299 for Compact Xiao \r\nPrices starting at
+  $449 for traditional (full-length) xiao"
 cloudinary_id: ellisflutes2018/NewGroupXiao_e3rgcp
 layout: world_flute
 extra_page_class: ''
@@ -13,13 +14,15 @@ The Xiao (pronounced “show” as in “shower”) is an ancient Chinese vertic
 
 It is the grandfather of what later became the shakuhachi flute after it migrated to Japan in the 14th century.
 
-There are many varieties of xiao, with different design characteristics. I make two distinct types of xiao:  The bei xiao and the tang xiao.   And there are sub-types for each of these: the full length (classical) xiao, and the new compact xiao.  
+There are many varieties of xiao, with different design characteristics. I make two distinct types of xiao:  The bei xiao and the tang xiao.   And there are sub-types for each of these: the full length (traditional) xiao, and the new compact xiao.  
 
-The classical xiao follows the traditional Chinese bei xiao design, featuring a longer body with a tuning hole matrix in the lower part of the flute.  This flute copies the traditional aesthetic, and they range in length from 30" up to as much as 36" for the lowest version.
+The traditional xiao follows the classic Chinese bei xiao design, featuring a longer body with a tuning hole matrix in the lower part of the flute.  This flute copies the traditional aesthetic, and they range in length from 30" up to as much as 36" for the lowest version.
 
 The Compact Xiao eliminates the tuning hole matrix and shortens the body of the xiao, at the same time eliminating some of the decorative ornaments.  The makes for a shorter instrument (about 8" shorter on average) which is easier to pack and travel with, which is also less costly because there is less labor involved.
 
-In terms of sound and performance there is no measureable difference, so it is an aesthetic choice on the part of the player.
+I've been asked on a number of occasions how the Compact Xiao compares to the traditional design in terms of sound.   My initial response was to say that there is no appreciable difference, because I was trying not to muddy the waters.  But the more accurate answer would be to say that the Compact Xiao is about 95% equivalent to the traditional xiao in terms of sound and response.  In my opinion there is a difference, and it is primarily about the harmonics of the flute.  The traditional xiao have an extended bore and the tone-hole matrix spoken of previously. This tone-hole matrix does change the harmonics of the flute in a very subtle way, and it also seems to make transition to the third octave a trifle more smooth.  This is **very** subjective, but I've experienced it--I feel that it imparts a richer harmonic spectrum-- and I've heard the same thing from another xiao specialist who has tried both.  To be fair, I would say that most beginner and intermediate players are unlikely to notice this at all because it takes well developed technique to really play the xiao at a level where the difference is noticeable.   
+
+And this difference is small enough that it can easily be eclipsed by the convenience and affordability of the Compact Xiao.  And since the difference itself is really a difference of tone color and feel, the question of whether this is a plus or minus depends upon personal preference.  If I'm making a xiao for myself and I have no intention of having to travel with it or be in a situation where a compact size is desirealbe or convenient, I would choose the full-length traditional xiao.  Your mileage may vary.  But as I say, they are *so close* that player budget might easily be the deciding factor, and I think that is a reasonable compromise.
 
 Both the bei xiao and the Tang xiao are eight hole instruments with tremendous range.  The bei xiao typically has a capped mouthpiece. This means that it is sealed at the mouthpiece end and has a small aperture cut into it through which the player blows. The cap is made from ebonite (natural hard rubber).   I also make un-capped (open ended versions) of this style that are available upon request as a custom option.  The bei xiao favors a narrow bore to impart a distinct timbre that is valued for classical Chinese music.
 
