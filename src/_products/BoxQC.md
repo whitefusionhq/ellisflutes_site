@@ -1,5 +1,5 @@
 ---
-title: NEW! Castello Boxwood Quimera™, Key of C
+title: NEW! Castelo Boxwood Quimera™, Key of C
 date: '2025-04-29T14:53:26+00:00'
 categories: quimera
 published: true
