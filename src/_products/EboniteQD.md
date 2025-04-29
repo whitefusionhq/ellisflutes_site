@@ -7,8 +7,8 @@ price: 399
 cloudinary_ids:
 - ellisflutes2018/EboniteQD1_zi7hey
 - ellisflutes2018/EboniteQD2_yc0mzy
-out_of_stock: false
-inventory: 1
+out_of_stock: true
+inventory: 0
 weight: 450
 ---
 
