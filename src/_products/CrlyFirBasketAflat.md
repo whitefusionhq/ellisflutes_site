@@ -7,8 +7,8 @@ price: 369
 cloudinary_ids:
 - ellisflutes2018/CrlyFirBasketAflat1_b10pn4
 - ellisflutes2018/CrlyFirBasketAflat2_fv2bod
-out_of_stock: false
-inventory: 1
+out_of_stock: true
+inventory: 0
 weight: 450
 ---
 
