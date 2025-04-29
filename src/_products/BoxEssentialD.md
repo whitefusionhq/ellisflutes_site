@@ -1,12 +1,12 @@
 ---
-title: Padauk Essential Flute, Key of D
-date: '2024-07-24T12:48:29+00:00'
+title: Boxwood Essential Flute, Key of D
+date: '2025-04-29T16:23:10+00:00'
 categories: transverse-folk
 published: true
-price: 349
+price: 399
 cloudinary_ids:
-- ellisflutes2018/PaduakEssenD1_fc7acg
-- ellisflutes2018/PadaukEssenD2_txwcoj
+- ellisflutes2018/BoxEssential1_xyzqcb
+- ellisflutes2018/BoxEssentialD2_akcr9w
 html_embed: "<iframe width=\"100%\" height=\"20\" scrolling=\"no\" frameborder=\"no\"
   allow=\"autoplay\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/486027465&color=%23ff5500&inverse=false&auto_play=false&show_user=true\"></iframe><div
   style=\"font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow:
@@ -18,10 +18,12 @@ html_embed: "<iframe width=\"100%\" height=\"20\" scrolling=\"no\" frameborder=\
   title=\"Blayne Chastain plays Amhran - Na - Leabhar Key of D\" target=\"_blank\"
   style=\"color: #cccccc; text-decoration: none;\">Blayne Chastain plays Amhran -
   Na - Leabhar Key of D</a></div>\r\n"
-out_of_stock: true
-inventory: 0
+out_of_stock: false
+inventory: 1
 weight: 450
 ---
+
+Essential Flute, Key of D with lip plate.  Normally the Essential Flute does not feature a lip plate, but I had a couple of beautiful pieces of wood that did not have quite enough girth (at the head of the flute) to make an Essential Flute, so I added a lip plate made from black ebonite.  Despite the different appearance, these sound and perform exactly like my standard Essential Flutes.
 
 The Essential Flute plays the diatonic major scale (do, re, mi) and has a 2.5 octave range with excellent intonation.  Suitable for all types of music, including Irish Traditional.  Ergonomically set up for a right-handed player (holding the foot of the flute toward your right).  A highly versatile instrument.
 

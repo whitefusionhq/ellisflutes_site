@@ -1,14 +1,14 @@
 ---
-title: NEW! Curly Douglas Fir Quimera™, Key of D
-date: '2024-10-15T16:12:31+00:00'
+title: NEW! Curly Black Walut Quimera™, Key of D
+date: '2025-04-29T15:39:12+00:00'
 categories: quimera
 published: true
 price: 329
 cloudinary_ids:
-- ellisflutes2018/CDFQ1c_bzdkxl
-- ellisflutes2018/CDFQ2c_vh9us6
-out_of_stock: true
-inventory: 0
+- ellisflutes2018/CrlyWalQD1_sfiqgo
+- ellisflutes2018/CrlyWalQD2_syc6hp
+out_of_stock: false
+inventory: 1
 weight: 450
 ---
 
@@ -16,6 +16,10 @@ The new hybrid  *Quimera*™ fuses the robust tone of the Andean quenacho with t
 
 *For all flutes, I recommend one of my Flute Care Kits. They are only available as an add-on purchase at the time of checkout (after you have pressed the “Add to cart” button you will see the option for the care kit right along side and you have to select it from the menu).*
 
+<iframe title="vimeo-player" src="https://player.vimeo.com/video/1057859321?h=5ecf8b6eb0" width="640" height="360" frameborder="0"    allowfullscreen></iframe>
+
 <iframe width="267" height="554" src="https://www.youtube.com/embed/99C4dllkXO8" ></iframe>
 
 <iframe width="267" height="554" src="https://www.youtube.com/embed/UAymcOqrcMo" ></iframe>
+
+
