@@ -7,8 +7,8 @@ price: 499
 cloudinary_ids:
 - ellisflutes2018/CumberlandQD1_w2dimb
 - ellisflutes2018/CumberlandQD2_zkjp7q
-out_of_stock: false
-inventory: 1
+out_of_stock: true
+inventory: 0
 weight: 450
 ---
 
