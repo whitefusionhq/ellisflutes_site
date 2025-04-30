@@ -7,8 +7,8 @@ price: 249
 cloudinary_ids:
 - ellisflutes2018/PadaukQD1_xy9pls
 - ellisflutes2018/PadaukQD2_nyngsd
-out_of_stock: false
-inventory: 1
+out_of_stock: true
+inventory: 0
 weight: 450
 ---
 
