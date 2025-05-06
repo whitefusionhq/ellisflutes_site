@@ -7,8 +7,8 @@ price: 329
 cloudinary_ids:
 - ellisflutes2018/CrlyFirQC1_dc7dc1
 - ellisflutes2018/CrlyFirQC2_rbpnpv
-out_of_stock: false
-inventory: 1
+out_of_stock: true
+inventory: 0
 weight: 450
 ---
 
