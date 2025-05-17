@@ -17,8 +17,8 @@ html_embed: "<iframe width=\"100%\" height=\"20\" scrolling=\"no\" frameborder=\
   Ellis Flutes</a> · <a href=\"https://soundcloud.com/geoffrey-ellis-flutes/herons-eye-gaze\"
   title=\"Heron&#x27;s Eye Gaze\" target=\"_blank\" style=\"color: #cccccc; text-decoration:
   none;\">Heron&#x27;s Eye Gaze</a></div>\r\n"
-out_of_stock: false
-inventory: 1
+out_of_stock: true
+inventory: 0
 weight: 450
 ---
 
