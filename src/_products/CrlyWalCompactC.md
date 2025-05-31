@@ -1,5 +1,5 @@
 ---
-title: Curly Walnut Compact Xiao, Key of C/F
+title: Curly Black Walnut Compact Xiao, Key of C/F
 date: '2025-05-30T21:40:27+00:00'
 categories: xiao
 published: true
