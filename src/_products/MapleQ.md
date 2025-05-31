@@ -1,12 +1,12 @@
 ---
-title: Curly Maple, Mystic Blue Quena, Key of G
-date: '2024-07-24T12:55:23+00:00'
+title: Maple (stained) Quena, Key of G
+date: '2025-05-30T21:59:24+00:00'
 categories: quena
 published: true
-price: 259
+price: 199
 cloudinary_ids:
-- ellisflutes2018/MysticQuena1_y0nxot
-- ellisflutes2018/MysticQuena2_gswa08
+- ellisflutes2018/MapleQ1_vokyhs
+- ellisflutes2018/MapQ2_ado8xj
 html_embed: "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/o4mcMUva8os\"
   title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay;
   clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>\r\n\r\n"
