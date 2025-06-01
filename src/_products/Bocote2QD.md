@@ -7,8 +7,8 @@ price: 299
 cloudinary_ids:
 - ellisflutes2018/Bocote2QD1_dompsx
 - ellisflutes2018/Bocote2QD2_b0v2kn
-out_of_stock: false
-inventory: 1
+out_of_stock: true
+inventory: 0
 weight: 450
 ---
 
