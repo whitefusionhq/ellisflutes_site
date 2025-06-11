@@ -13,6 +13,7 @@ class CheckProductStock extends HTMLElement {
       if (response.locked) {
         this.shadowRoot.innerHTML = `
           <slot name="locked"></slot>
+          <slot style="display: none"></slot>
         `
       }
     })
