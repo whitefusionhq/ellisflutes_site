@@ -10,6 +10,11 @@ extra_page_class: " page product"
   <h1 class="text-center">Store</h1>
 </header>
 
+<div class="blue content-box fade-on-load" style="margin-bottom: 3rem">
+  <h3 id="bamboo-flutes">ATTENTION</h3>
+  <p>We are experiencing <strong>technical problems</strong> with the store’s shopping cart function, so if you attempt to put an item in your cart and check out and you receive an error message telling you that the flute is out of stock (and you cannot complete check-out), <a href="mailto:geoffrey@ellisflutes.com">you can send me an e-mail letting me know</a>. If the listing says that the flute is in stock, then it is. I can set the flute aside for you and provide a PayPal invoice instead.</p>
+</div>
+
 <div id="products-list" class="fade-on-load">
   {% assign products = site.products | sort: 'title' | sort: 'categories' %}
 
