@@ -1,7 +1,8 @@
 ---
+published: false
+cloudinary_id: ellisflutes2018/Jared_White_2019_portrait_zpzscj
 title: The Invisible Web Master
 subtitle: Flute making and the internet
-cloudinary_id: ellisflutes2018/Jared_White_2019_portrait_zpzscj
 ---
 
 I receive a lot of compliments on my website. This has been true for about the last eight years, actually, and it still pleases me to hear them.  These compliments go all the way back to the moment when I gave up my own attempts to manage the site using some fairly simplified design and editing services and handed over the reins to [Jared White](https://whitefusion.io/) (pictured above).
