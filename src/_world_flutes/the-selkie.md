@@ -1,11 +1,11 @@
 ---
 title: The Selkie™
 subtitle: The new vertical Irish flute!
-published: true
-product_category: bamboo
+published: false
+product_category: theselkie
 ---
 
-The Selkie™  is my latest hybrid flute creation, and it is something that I made specifically for players of Irish Traditional Music, though it is by no means limited to that style.
+The Selkie™  is my latest hybrid flute creation, and it is ssomething that I made specifically for players of Irish Traditional Music, though it is by no means limited to that style.
 
 I call it a hybrid because it is a melding of two musical traditions.  That is to say that the flute design itself is based upon the Chinese xiao, but the scale it plays, as well as the character and tone have been tweaked to align with features of the Irish Flute and the penny whistle.  It’s a xiao that has turned into an Irish flute!  Hence the whimsical name (suggested by fellow flute maker Jonathan Walpole).
 

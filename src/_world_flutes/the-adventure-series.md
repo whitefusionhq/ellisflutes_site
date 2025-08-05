@@ -1,7 +1,7 @@
 ---
 title: The Adventure Series
-published: true
-product_category: bamboo
+published: false
+product_category: theadventureseries
 ---
 
 The Adventure Series represents a bit of a departure from my normal flute making, notably the fact that I’m using completely different materials: aluminum and Delrin (a hard, machinable plastic).

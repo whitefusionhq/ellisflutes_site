@@ -2,6 +2,8 @@ module CloudinaryFilter
   extend self
 
   def cloudinary_url(input, attr_string="", image_format='jpg')
+    return "" unless input
+
     cloudinary_url = Cloudinary::Utils.cloudinary_url(input, {format: image_format})
     if attr_string.present?
       cloudinary_url.sub!("/image/upload", "/image/upload/#{attr_string}")
