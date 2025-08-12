@@ -7,8 +7,8 @@ price: 249
 cloudinary_ids:
 - ellisflutes2018/SapeleQD1_km9lzr
 - ellisflutes2018/SapeleQD2_l0gnuz
-out_of_stock: false
-inventory: 1
+out_of_stock: true
+inventory: 0
 weight: 450
 ---
 

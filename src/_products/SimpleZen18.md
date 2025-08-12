@@ -2,7 +2,7 @@
 title: New! Simple Zen Shakuhachi, 1.8 Key of D
 date: '2023-04-22T15:48:17+00:00'
 categories: shakuhachi
-published: true
+published: false
 price: 279
 cloudinary_ids:
 - ellisflutes2018/DSC_0362_y7fbtb
@@ -18,8 +18,8 @@ html_embed: '<iframe width="100%" height="20" scrolling="no" frameborder="no" al
   title="Steven Casano performs Ryugin Koku (Dragon Singing In The Empty Sky) 1.8"
   target="_blank" style="color: #cccccc; text-decoration: none;">Steven Casano performs
   Ryugin Koku (Dragon Singing In The Empty Sky) 1.8</a></div>'
-out_of_stock: true
-inventory: 0
+out_of_stock: false
+inventory: 5
 weight: 450
 ---
 
