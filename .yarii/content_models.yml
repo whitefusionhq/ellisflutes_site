@@ -171,6 +171,18 @@ default: &default
     filter:
       categories:
         - bamboo
+  theselkie:
+    <<: *product
+    title: The Selkie
+    filter:
+      categories:
+        - theselkie
+  theadventureseries:
+    <<: *product
+    title: The Adventure Series
+    filter:
+      categories:
+        - theadventureseries
   rim-blown:
     <<: *product
     title: Basketmaker Flute
