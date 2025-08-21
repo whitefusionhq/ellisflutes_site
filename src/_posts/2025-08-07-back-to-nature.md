@@ -1,7 +1,6 @@
 ---
 date: '2025-08-07T12:57:16+00:00'
-published: false
-cloudinary_id: ellisflutes2018/BoxEssential1_bqcc6d
+published: true
 title: Back to Nature
 subtitle: Making a healthy working environment
 ---
@@ -18,7 +17,7 @@ I eventually wised up and got much more safety conscious, but the overexposure h
 
 Normally a change like this might create a bit of a puzzle, namely that of trying to find a suitable substitute.  But as it happens, my foray into bamboo flute making led me to an interest in natural finishes, and so I am already equipped with the answer to my dilemma.  
 
-I’ll be using something called button shellac, which is an all natural finish (most people are familiar with shellac, made from a resin excreted from lac beetles).  You can read more about this if you check out my blog [Bamboo Journey](https://www.ellisflutes.com/blog/bamboo-journey).  It is food-safe, edible and completely non-toxic.  I’ll also be using a natural polymerized linseed oil and pine resin mixture that makes a gorgeous finish on flutes.
+I’ll be using something called button shellac, which is an all natural finish (most people are familiar with shellac, made from a resin excreted from lac beetles).  You can read more about this if you check out my blog [Bamboo Journey](https://www.ellisflutes.com/blog/bamboo-journey).  It is food-safe, edible and completely non-toxic.  And to top them off I use the Clapham's Beeswax polish, which is another natural and food-safe product.
 
 The big advantage to the epoxy is that it is totally waterproof.   It is used to seal ocean-going wooden boats, so it is very durable and not affected by moisture.  When players would ask me what they needed to do to maintain the bore of their flute, I’d say “nothing”.  The new button shellac that I’ll be using is extremely tough and also quite water resistant, but now if a player asks me the same question my answer is, “just swab out the bore after you play the flute”.  This is what most flute players do as a matter of routine, so it’s not really an appreciable difference.
 
