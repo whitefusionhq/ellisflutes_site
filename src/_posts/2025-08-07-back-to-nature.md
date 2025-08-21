@@ -1,6 +1,7 @@
 ---
 date: '2025-08-07T12:57:16+00:00'
 published: true
+cloudinary_id: ellisflutes2018/Forest_Mist_dkyzev
 title: Back to Nature
 subtitle: Making a healthy working environment
 ---
