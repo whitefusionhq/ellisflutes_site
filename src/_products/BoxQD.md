@@ -7,8 +7,8 @@ price: 299
 cloudinary_ids:
 - ellisflutes2018/BoxQD1_d09bc8
 - ellisflutes2018/BoxQD2_tgvmgk
-out_of_stock: true
-inventory: 0
+out_of_stock: false
+inventory: 1
 weight: 450
 ---
 

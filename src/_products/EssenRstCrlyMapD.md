@@ -2,7 +2,7 @@
 title: Roasted Curly Maple Essential Flute, Key of D
 date: '2025-08-12T15:43:41+00:00'
 categories: transverse-folk
-published: false
+published: true
 price: 349
 cloudinary_ids:
 - ellisflutes2018/EssenRstCrly1_ytydx1

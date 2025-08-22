@@ -2,7 +2,7 @@
 title: NEW! Curly Black Walnut Selkie™, Key of D
 date: '2025-08-14T22:32:17+00:00'
 categories: theselkie
-published: false
+published: true
 price: 349
 cloudinary_ids:
 - ellisflutes2018/DCrlyWalSelk1_n8ls2f

@@ -2,7 +2,7 @@
 title: Curly Black Walnut Essential Flute, Key of D
 date: '2025-08-12T15:40:52+00:00'
 categories: transverse-folk
-published: false
+published: true
 price: 359
 cloudinary_ids:
 - ellisflutes2018/EssenCrlyWal1_o1bfyf

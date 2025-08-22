@@ -2,7 +2,7 @@
 title: NEW! Maple (stained) Selkie™, Key of F
 date: '2025-08-14T22:48:24+00:00'
 categories: theselkie
-published: false
+published: true
 price: 299
 cloudinary_ids:
 - ellisflutes2018/FMapSelk1a_wtkz0r

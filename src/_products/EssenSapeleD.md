@@ -2,7 +2,7 @@
 title: Sapele Essential Flute, Key of D
 date: '2025-08-12T15:44:55+00:00'
 categories: transverse-folk
-published: false
+published: true
 price: 299
 cloudinary_ids:
 - ellisflutes2018/EssenSap1_afwqtp

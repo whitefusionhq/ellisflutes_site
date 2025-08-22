@@ -1,16 +1,18 @@
 ---
-title: NEW! Maple (stained) Quimera™, Key of D
-date: '2025-04-29T16:04:57+00:00'
+title: NEW! Curly Maple Quimera™, Key of C
+date: '2025-08-22T13:20:42+00:00'
 categories: quimera
 published: true
-price: 249
+price: 299
 cloudinary_ids:
-- ellisflutes2018/MapQD1_xsz7mx
-- ellisflutes2018/MapleQD2_cwj3ta
-out_of_stock: true
-inventory: 0
+- ellisflutes2018/QuimCrlyMapC1_n6emgs
+- ellisflutes2018/QuimCrlyMapC2_absisx
+out_of_stock: false
+inventory: 1
 weight: 450
 ---
+
+Be advised that as with the xiao, the Quimera in the key of C requires a bit more reach and for most players it is necessary to use the traditional xiao grip to hold the flute comfortably. This is also called the "*piper's grip*".  I recommend this technique for all xiao and Quimera, but your mileage may vary.  
 
 The new hybrid  *Quimera*™ fuses the robust tone of the Andean quenacho with the hugely versatile 8-hole scale of the Chinese xiao.  Read more about this new creation [HERE](https://www.ellisflutes.com/world-flutes/quimera).   Ergonomic finger hole offset for right-handed player.
 
@@ -21,5 +23,4 @@ The new hybrid  *Quimera*™ fuses the robust tone of the Andean quenacho with t
 <iframe width="267" height="554" src="https://www.youtube.com/embed/99C4dllkXO8" ></iframe>
 
 <iframe width="267" height="554" src="https://www.youtube.com/embed/UAymcOqrcMo" ></iframe>
-
 

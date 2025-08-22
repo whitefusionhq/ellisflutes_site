@@ -2,13 +2,13 @@
 title: NEW! Sapele Selkie™, Key of D
 date: '2025-08-14T22:43:58+00:00'
 categories: theselkie
-published: false
+published: true
 price: 299
 cloudinary_ids:
 - ellisflutes2018/DSapSelk1_kawxar
 - ellisflutes2018/DSapSelk2a_ikwxoo
 out_of_stock: false
-inventory: 1
+inventory: 2
 weight: 450
 ---
 

@@ -2,7 +2,7 @@
 title: Katalox Essential Flute, Key of D
 date: '2025-08-12T15:42:11+00:00'
 categories: transverse-folk
-published: false
+published: true
 price: 349
 cloudinary_ids:
 - ellisflutes2018/EssenKatlox1_wxixar

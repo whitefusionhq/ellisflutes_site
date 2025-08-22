@@ -2,7 +2,7 @@
 title: NEW! Castelo Boxwood Selkie™, Key of D
 date: '2025-08-14T20:25:25+00:00'
 categories: theselkie
-published: false
+published: true
 price: 339
 cloudinary_ids:
 - ellisflutes2018/DBoxSelk1_khtiql

@@ -2,7 +2,7 @@
 title: NEW! Chaktekok Selkie™, Key of D
 date: '2025-08-14T22:33:57+00:00'
 categories: theselkie
-published: false
+published: true
 price: 339
 cloudinary_ids:
 - ellisflutes2018/DChakeSelk1a_z5urh8

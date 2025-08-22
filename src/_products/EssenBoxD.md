@@ -2,7 +2,7 @@
 title: Castelo Boxwood Essential Flute, Key of D
 date: '2025-08-12T15:36:15+00:00'
 categories: transverse-folk
-published: false
+published: true
 price: 339
 cloudinary_ids:
 - ellisflutes2018/EssenBox1_iqgrpj

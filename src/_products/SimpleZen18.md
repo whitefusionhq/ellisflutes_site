@@ -2,7 +2,7 @@
 title: New! Simple Zen Shakuhachi, 1.8 Key of D
 date: '2023-04-22T15:48:17+00:00'
 categories: shakuhachi
-published: false
+published: true
 price: 279
 cloudinary_ids:
 - ellisflutes2018/DSC_0362_y7fbtb

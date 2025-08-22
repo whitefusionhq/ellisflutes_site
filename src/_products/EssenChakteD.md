@@ -2,7 +2,7 @@
 title: Chaktekok Essential Flute, Key of D
 date: '2025-08-12T15:37:55+00:00'
 categories: transverse-folk
-published: false
+published: true
 price: 339
 cloudinary_ids:
 - ellisflutes2018/EssenChakte1_wtzcld

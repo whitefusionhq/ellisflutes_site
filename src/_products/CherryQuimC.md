@@ -1,14 +1,14 @@
 ---
-title: NEW! Curly Maple (stained) Quimera™, Key of C
-date: '2025-04-29T15:41:42+00:00'
+title: NEW! Cherry Quimera™, Key of C
+date: '2025-08-22T13:12:57+00:00'
 categories: quimera
 published: true
-price: 299
+price: 249
 cloudinary_ids:
-- ellisflutes2018/CrlyMap1QC1_uj2vsx
-- ellisflutes2018/CrlyMap1QC2_qcc8hx
-out_of_stock: true
-inventory: 0
+- ellisflutes2018/QuimCherryC1_ye7txr
+- ellisflutes2018/QuimCherryC2_dzdr6j
+out_of_stock: false
+inventory: 1
 weight: 450
 ---
 

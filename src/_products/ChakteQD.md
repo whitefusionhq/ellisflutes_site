@@ -1,16 +1,18 @@
 ---
 title: NEW! Chakte Kok Quimera™, Key of D
-date: '2025-04-29T14:59:52+00:00'
+date: '2025-08-22T13:08:49+00:00'
 categories: quimera
 published: true
-price: 289
+price: 299
 cloudinary_ids:
-- ellisflutes2018/ChakteQD1_cjjjkk
-- ellisflutes2018/ChakteQD2_j0hpso
-out_of_stock: true
-inventory: 0
+- ellisflutes2018/QuimChakD1_sz5jjb
+- ellisflutes2018/QuimChakD2_ctdbsa
+out_of_stock: false
+inventory: 1
 weight: 450
 ---
+
+NOTE: On a couple of these I had some nice billets of wood that were a hair short for the flute, so I added a handsome foot cap of black ebonite to make them the correct length (to acheive the needed pitch).
 
 The new hybrid  *Quimera*™ fuses the robust tone of the Andean quenacho with the hugely versatile 8-hole scale of the Chinese xiao.  Read more about this new creation [HERE](https://www.ellisflutes.com/world-flutes/quimera).   Ergonomic finger hole offset for right-handed player.
 
@@ -21,3 +23,4 @@ The new hybrid  *Quimera*™ fuses the robust tone of the Andean quenacho with t
 <iframe width="267" height="554" src="https://www.youtube.com/embed/99C4dllkXO8" ></iframe>
 
 <iframe width="267" height="554" src="https://www.youtube.com/embed/UAymcOqrcMo" ></iframe>
+

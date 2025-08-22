@@ -1,18 +1,16 @@
 ---
-title: NEW! Cumberland/Brown Ebonite Quimera, Key of D
-date: '2025-04-29T15:46:11+00:00'
+title: NEW! Osage Orange Quimera™, Key of D
+date: '2025-08-22T13:19:10+00:00'
 categories: quimera
 published: true
-price: 499
+price: 279
 cloudinary_ids:
-- ellisflutes2018/CumberlandQD1_w2dimb
-- ellisflutes2018/CumberlandQD2_zkjp7q
-out_of_stock: true
-inventory: 0
+- ellisflutes2018/QuimOsageD1_pwyltn
+- ellisflutes2018/QuimOsageD2_bm0ug6
+out_of_stock: false
+inventory: 1
 weight: 450
 ---
-
-To learn all about ebonite, you can read my blog article on the subject: [What is Ebonite?](https://www.ellisflutes.com/blog/what-is-ebonite)
 
 The new hybrid  *Quimera*™ fuses the robust tone of the Andean quenacho with the hugely versatile 8-hole scale of the Chinese xiao.  Read more about this new creation [HERE](https://www.ellisflutes.com/world-flutes/quimera).   Ergonomic finger hole offset for right-handed player.
 
@@ -23,4 +21,3 @@ The new hybrid  *Quimera*™ fuses the robust tone of the Andean quenacho with t
 <iframe width="267" height="554" src="https://www.youtube.com/embed/99C4dllkXO8" ></iframe>
 
 <iframe width="267" height="554" src="https://www.youtube.com/embed/UAymcOqrcMo" ></iframe>
-
