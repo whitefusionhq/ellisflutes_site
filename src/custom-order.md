@@ -7,9 +7,6 @@ lang: en
 extra_page_class: ''
 ---
 
-**NOTE: As of February 2025 I am suspending custom orders.  I need to catch up on a backlog of existing orders and I need time to restock my online store.  The exception to the custom order suspension is the making of left-handed flutes.  If a player needs a left-handed version, I'm still willing to accept a custom order.  Otherwise I hope to provide a good selection of flutes in my store.
-**
-
 ### FAQ
 
 
