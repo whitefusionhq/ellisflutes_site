@@ -1,5 +1,5 @@
 ---
-title: NEW! Chakte Kok Quimera™, Key of D
+title: NEW! Chakte Kok Quimera™, Key of D w/ebonite foot cap
 date: '2025-08-22T13:08:49+00:00'
 categories: quimera
 published: true
