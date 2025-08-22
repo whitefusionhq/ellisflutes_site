@@ -1,7 +1,7 @@
 ---
 title: The Selkie™
 subtitle: The new vertical Irish flute!
-published: false
+published: true
 product_category: theselkie
 cloudinary_id: ellisflutes2018/SelkieGroup1_jg4fbo
 ---
