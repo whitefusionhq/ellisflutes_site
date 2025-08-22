@@ -7,8 +7,8 @@ price: 339
 cloudinary_ids:
 - ellisflutes2018/DBocoteSelk1b_quixre
 - ellisflutes2018/DBocoteSelk2b_vuc79d
-out_of_stock: false
-inventory: 1
+out_of_stock: true
+inventory: 0
 weight: 450
 ---
 

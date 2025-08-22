@@ -19,7 +19,7 @@ html_embed: '<iframe width="100%" height="20" scrolling="no" frameborder="no" al
   target="_blank" style="color: #cccccc; text-decoration: none;">Steven Casano performs
   Ryugin Koku (Dragon Singing In The Empty Sky) 1.8</a></div>'
 out_of_stock: false
-inventory: 5
+inventory: 4
 weight: 450
 ---
 
