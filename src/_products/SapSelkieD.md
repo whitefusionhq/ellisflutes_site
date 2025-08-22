@@ -8,7 +8,7 @@ cloudinary_ids:
 - ellisflutes2018/DSapSelk1_kawxar
 - ellisflutes2018/DSapSelk2a_ikwxoo
 out_of_stock: false
-inventory: 2
+inventory: 1
 weight: 450
 ---
 
