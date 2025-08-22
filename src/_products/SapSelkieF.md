@@ -2,7 +2,7 @@
 title: NEW! Sapele Selkie™, Key of F
 date: '2025-08-14T22:49:47+00:00'
 categories: theselkie
-published: false
+published: true
 price: 299
 cloudinary_ids:
 - ellisflutes2018/FSapSelk1_srcv7o
