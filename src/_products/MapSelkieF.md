@@ -7,8 +7,8 @@ price: 299
 cloudinary_ids:
 - ellisflutes2018/FMapSelk1a_wtkz0r
 - ellisflutes2018/FMapSelk2a_c3bgu2
-out_of_stock: false
-inventory: 1
+out_of_stock: true
+inventory: 0
 weight: 450
 ---
 
