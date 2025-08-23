@@ -8,7 +8,7 @@ cloudinary_ids:
 - ellisflutes2018/FMapSelk1a_wtkz0r
 - ellisflutes2018/FMapSelk2a_c3bgu2
 out_of_stock: false
-inventory: 2
+inventory: 1
 weight: 450
 ---
 
