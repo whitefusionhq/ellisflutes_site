@@ -7,8 +7,8 @@ price: 339
 cloudinary_ids:
 - ellisflutes2018/DChakeSelk1a_z5urh8
 - ellisflutes2018/DChakeSelk2a_w28fha
-out_of_stock: false
-inventory: 1
+out_of_stock: true
+inventory: 0
 weight: 450
 ---
 
