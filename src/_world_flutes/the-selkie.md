@@ -3,12 +3,6 @@ title: The Selkie™
 subtitle: The new vertical Irish flute!
 published: true
 product_category: theselkie
-custom_ordering: "Blayne Chastain made me a quick \"out of the box\" test sample of
-  the Selkie.  So this is fairly simple, but you can get a good idea of the tone and
-  range.\r\n\r\n\r\n\r\n\r\n\r\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/pUAXes7F6nw?si=HPtbvYg14TdH46hX\"
-  title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay;
-  clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\"
-  allowfullscreen></iframe>"
 cloudinary_id: ellisflutes2018/SelkieGroup1_jg4fbo
 ---
 
@@ -24,4 +18,6 @@ Knowing this gave me the idea to make a vertical flute that would embody enough 
 
 From a physical standpoint, the Selkie is a modified six-hole xiao.  In China they do make six hole xiao that play this same diatonic major scale, but the xiao is normally designed to be a more delicate instrument with a more subdued voice.  The Irish flute is played in such a way that it has a powerful, reedy tone, and the players push it to create strong harmonics and pulsing rhythms (for certain tunes).  An ordinary xiao won’t respond quite the same way and ITM players would likely find it to be underpowered.  So I modified the xiao design, making alterations to the blowing notch, the bore size and shape, and the layout of the finger holes, and the result is a flute that can really step up and stand in line with the Irish flute.  Like low whistles, the lower tunings of the Selkie might require the player to utilize the piper's grip for comfort and stability.
 
+Blayne Chastain made me a quick "out of the box" test sample of the Selkie.  So this is fairly simple, but you can get a good idea of the tone and range.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pUAXes7F6nw?si=HPtbvYg14TdH46hX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
