@@ -7,8 +7,8 @@ price: 249
 cloudinary_ids:
 - ellisflutes2018/QuimCherryD1_k2qgvj
 - ellisflutes2018/QuimCherryD2_lcyhcr
-out_of_stock: false
-inventory: 1
+out_of_stock: true
+inventory: 0
 weight: 450
 ---
 
