@@ -22,7 +22,7 @@ inventory: 0
 weight: 450
 ---
 
-I’m pleased to offer the new Compact Xiao!  I wanted to make a xiao that was more convenient to carry as well as being easier to manufacture, thus allowing me to offer a fully functional xiao at a more affordable price.  To understand how the Compact xiao differs from my traditional full-length xiao, visit the xiao page of this website: https://www.ellisflutes.com/world-flutes/xiao
+I’m pleased to offer the new Compact Xiao!  I wanted to make a xiao that was more convenient to carry as well as being easier to manufacture, thus allowing me to offer a fully functional xiao at a more affordable price.  To understand how the Compact xiao differs from my traditional full-length xiao, visit the [xiao page](https://www.ellisflutes.com/world-flutes/xiao) of this website. 
 
 The xiao is not just for Chinese music (though it excels in that context).  These are fully-realized open-holed flutes with a tremendous range, and are ideal for many forms of music.  You can play in a wide variety of styles with a remarkable tonal range.  A true, Desert Island Flute!  You can learn more about the xiao [HERE](https://www.ellisflutes.com/world-flutes/xiao).
 
