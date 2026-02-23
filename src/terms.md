@@ -8,7 +8,7 @@ extra_page_class: ''
 
 The online store is always being updated with the latest flutes that are in stock. If you don't find what you are looking for (or if the store is low on stock) contact me to place a custom order.  The exception to this are bamboo flutes--I don't take custom orders for those.
 
-Please note that I generally do not do custom tunings or custom artwork outside of my standard designs. In the case of exceptions, all custom flutes are considered non-returnable items.
+CUSTOMIZATION: Please note that I generally do not do custom designs or tunings outside of my standard offerings. In the case of exceptions, all custom flutes are considered non-returnable items.
 
 ### Return/Exchange Policy
 
