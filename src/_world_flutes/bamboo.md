@@ -10,12 +10,6 @@ hide_from_indexes: true
 
 ### Bamboo Flutes
 
-> **Already read the Intro/FAQ?** [Jump to the Bamboo store!](/products/bamboo)
-
-&nbsp;
-
-**Welcome to the new bamboo flute store!** For many years I’ve had an interest in bamboo flutes, but I never pursued the craft of making them.  That changed recently and I have been deeply immersed in learning the art of working with bamboo.
-
 Bamboo is one of the most useful plants on Earth, and it has a millennia long history as being a valued flute-making material in cultures all over the planet.  Crafting high-quality bamboo flutes is a delightful challenge, because each piece is unique and requires the maker to adapt to its organic nature.
 
 I strongly encourage anyone interested in a bamboo flute to read through the entire FAQ section presented here first, and also to read my three-part blog on the subject of bamboo flute craft: [Bamboo Journey](/blog/bamboo-journey).
@@ -50,13 +44,8 @@ As most players of bamboo flutes are aware, cracking can be an issue.  I do ever
 
 **Tuning:**
 
-Most modern instruments are equal tempered and use A440 as their target pitch.  This is the modern orchestral standard.  Many of the flutes I make adhere to this standard, but some don’t.  Some flutes just don’t want to be that rigid, and I might tune to A435, or A432, etc., and in some cases (such as the xiao) I use a more natural tuning instead of equal temper.  This does not mean the flutes will not be “in tune”, because they will always be in proper tune with themselves, and even naturally tuned flutes are not far from equal temper.  They just might not fit into a modern orchestral setting as easily and may be better suited to solo play.  But each individually listed flute will include this information so you know what you are getting.
+Most modern instruments are equal tempered and use A440 as their target pitch.  This is the modern orchestral standard.  Many of the flutes I make adhere to this standard, but some don’t.  Some flutes just don’t want to be that rigid, and I might tune to A435, or A432, etc., and in some cases (such as the xiao) I might use a more natural tuning instead of equal temper.  This does not mean the flutes will not be “in tune”, because they will always be in proper tune with themselves, and even naturally tuned flutes are not far from equal temper.  They just might not fit into a modern orchestral setting as easily and may be better suited to solo play.  But each individually listed flute will include this information so you know what you are getting.
 
-**All natural ingredients:**
-
-My bamboo flutes aim to be as natural as possible, meaning that I avoid (whenever possible) the use  of synthetic finishes on them.  Many of them are finished with shellac (a natural resin made from the excretions of the lac beetle, which is super cool) and/or a pure, polymerized linseed oil and pine pitch finish.  This is topped with beeswax paste.  On occasion I do have to use very limited amounts of an adhesive, either an epoxy or cyanoacrylate (super glue).  These adhesives are inert when cured and used only in places where the player will have no contact with them (with the possible exception of a repaired crack).  My binding cord is also made from nylon, since I found that the natural fibers I tried to use were simply not strong enough.
-
-UPDATE:  Recently I've been experimenting with bore shaping on bamboo flutes.  Some types of bamboo exhibit a natural taper that enhances the performance of the flute.  Other bamboo is more cylindrical in the bore.  In my quest to expand the variety of flutes that I can offer from bamboo, I have been exploring bore shaping.  In Japan (for example) traditional shakuhachi makers will create a tapered bore shape by painting layers of an urushi paste inside the bore, slowly building and sculpting until they achieve a more optimal bore shape.  I have begun using a similar approach for some of my bamboo flutes, only I'm not using urushi, which is ***highly*** allergenic, being related to poison ivy.   My current experiments involve a paste made from powdered maple wood (sanding dust) mixed with conventional wood glue, and also some epoxy-based mixes using graphite or other stabilizers.  While this approach is not "natural", it is perfectly non-toxic and safe for the end user, and optimally it might enhance the stability of the bamboo.
 
 **Unique:**
 
@@ -70,7 +59,7 @@ Each piece of bamboo is different, so that means that every single flute is it�
 
   </summary>
 
-My bamboo shakuhachi are not really traditional.  They are not made from Madake (which I don't have a good source for), and most often I use bamboo in the *phylostachys* family, which includes black bamboo.  They have a natural bore, with no manipulation of it’s shape.   So if you are a strict traditionalist, these probably aren’t for you.   Without the modifications to the bore, it may or may not provide the entire range of pitches that traditional shakuhachi players expect to find.   I can promise that it will play the pentatonic minor scale with good accuracy through the first two octaves and a good player can likely get many of the "in-between" notes that are possible on typical shakuhachi.   So if you want a beautiful, well-tuned flute that you can use for personal meditation, then you’ll probably love them.  But if you are looking to play traditional honkyoku, these may or may not take you where you want to go.
+My bamboo shakuhachi are not really traditional.  They are usually not made from Madake (which I don't have a good source for), and most often I use bamboo in the *phylostachys* family, which includes black bamboo.  They have a natural bore, with no manipulation of it’s shape.   So if you are a strict jiari-style enthusiast, these probably aren’t for you.   Without the modifications to the bore, it may or may not provide the entire range of pitches that traditional shakuhachi players expect to find.   I can promise that it will play the pentatonic minor scale with good accuracy through the first two octaves and a good player can likely get many of the "in-between" notes that are possible on typical shakuhachi.   So if you want a beautiful, well-tuned flute that you can use for personal meditation, then you’ll probably love them.  But if you are looking to play traditional honkyoku, these may or may not take you where you want to go.
 </details>
 
 <details-preamble></details-preamble>
@@ -122,9 +111,9 @@ Avoiding sudden temperature shifts is important.  If a flute is cold or if you a
 
 GENERAL CARE:
 
--You don’t need to oil your flute, either inside or out.  The inner bore is finished with multiple coats of button shellac, which is highly water resistant.  However, moisture will condense in the bore when you play, so make sure to let it dry before you put the flute away in a bag or container.  You may choose to use a swab of some type if you can find one that is long enough.
+-You don’t need to oil your flute, either inside or out.  The inner bore is finished with multiple coats of clear epoxy, which is waterproof.  However, moisture will condense in the bore when you play, so make sure to let it dry before you put the flute away in a bag or container.  You may choose to use a swab of some type if you can find one that is long enough.
 
--Waxing the outside of the flute is recommended.  I recommend a nice beeswax paste (I offer this in the optional flute care kits that are available at the time of purchase).  You can wax the flute as often as you like, and this will preserve the finish. 
+-Waxing the outside of the flute is encouraged.  I recommend a nice beeswax paste (I offer this in the optional flute care kits that are available at the time of purchase) or some Renaissance Wax.  You can wax the flute as often as you like, and this will preserve the finish. 
 
 CAUTION: if you have a flute that has bindings on the outside, you don’t need to wax the bindings, and I recommend you avoid rubbing them.  They are very snugly fitted and then they are coated with lacquer which further stabilizes and secures them, but trauma (such as rubbing) over time can cause them to loosen or unravel.  So when you apply wax and then later buff it, do so only in the spaces between the bindings.
 
