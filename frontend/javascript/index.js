@@ -22,7 +22,7 @@ $(document).ready(function() {
 
     $('footer input[name="cm-name"]').val(name);
     $('footer input[name="cm-pdthjd-pdthjd"]').val(email);
-    $('#footer-signup').submit();
+    document.getElementById('subForm').querySelector("input[type=submit]").click();
   })
 })
 
