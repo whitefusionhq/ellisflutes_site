@@ -1,7 +1,7 @@
 ---
 title: End Blown Flutes
 subtitle: Modern day interpretations of ancient flutes
-published: true
+published: false
 product_category: rim-blown
 cloudinary_id: ellisflutes2018/Basketmaker
 layout: world_flute
