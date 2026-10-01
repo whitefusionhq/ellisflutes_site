@@ -1,6 +1,5 @@
 ---
-title: Andean Flutes
-subtitle: 'The Quena and Quenacho '
+title: Quena and Quenacho
 published: true
 product_category: quena
 cloudinary_id: ellisflutes2018/QuenaGroup_xukeze
