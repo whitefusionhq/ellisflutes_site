@@ -1,7 +1,7 @@
 ---
 title: Bansuri
 subtitle: Classical flutes of India with a modern twist!
-published: false
+published: true
 product_category: bansuri
 cloudinary_id: rlsfjgii5qflqxmbpezr
 layout: world_flute
